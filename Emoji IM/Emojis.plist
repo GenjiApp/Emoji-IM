@@ -5849,5 +5849,8846 @@
 			<string>CLOCK FACE TWELVE-THIRTY</string>
 		</dict>
 	</array>
+	<key>Pictographs</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>☀︎</string>
+			<key>Name</key>
+			<string>BLACK SUN WITH RAYS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☼</string>
+			<key>Name</key>
+			<string>WHITE SUN WITH RAYS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☽</string>
+			<key>Name</key>
+			<string>FIRST QUARTER MOON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☾</string>
+			<key>Name</key>
+			<string>LAST QUARTER MOON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☁︎</string>
+			<key>Name</key>
+			<string>CLOUD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☂</string>
+			<key>Name</key>
+			<string>UMBRELLA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☔︎</string>
+			<key>Name</key>
+			<string>UMBRELLA WITH RAIN DROPS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☃</string>
+			<key>Name</key>
+			<string>SNOWMAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>★</string>
+			<key>Name</key>
+			<string>BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☆</string>
+			<key>Name</key>
+			<string>WHITE STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⭐︎</string>
+			<key>Name</key>
+			<string>WHITE MEDIUM STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☇</string>
+			<key>Name</key>
+			<string>LIGHTNING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☈</string>
+			<key>Name</key>
+			<string>THUNDERSTORM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♠︎</string>
+			<key>Name</key>
+			<string>BLACK SPADE SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♣︎</string>
+			<key>Name</key>
+			<string>BLACK CLUB SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♥︎</string>
+			<key>Name</key>
+			<string>BLACK HEART SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♦︎</string>
+			<key>Name</key>
+			<string>BLACK DIAMOND SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♤</string>
+			<key>Name</key>
+			<string>WHITE SPADE SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♧</string>
+			<key>Name</key>
+			<string>WHITE CLUB SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♡</string>
+			<key>Name</key>
+			<string>WHITE HEART SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♢</string>
+			<key>Name</key>
+			<string>WHITE DIAMOND SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♚</string>
+			<key>Name</key>
+			<string>BLACK CHESS KING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♛</string>
+			<key>Name</key>
+			<string>BLACK CHESS QUEEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♜</string>
+			<key>Name</key>
+			<string>BLACK CHESS ROOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♝</string>
+			<key>Name</key>
+			<string>BLACK CHESS BISHOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♞</string>
+			<key>Name</key>
+			<string>BLACK CHESS KNIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♟</string>
+			<key>Name</key>
+			<string>BLACK CHESS PAWN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♔</string>
+			<key>Name</key>
+			<string>WHITE CHESS KING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♕</string>
+			<key>Name</key>
+			<string>WHITE CHESS QUEEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♖</string>
+			<key>Name</key>
+			<string>WHITE CHESS ROOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♗</string>
+			<key>Name</key>
+			<string>WHITE CHESS BISHOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♘</string>
+			<key>Name</key>
+			<string>WHITE CHESS KNIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♙</string>
+			<key>Name</key>
+			<string>WHITE CHESS PAWN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚀</string>
+			<key>Name</key>
+			<string>DIE FACE-1</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚁</string>
+			<key>Name</key>
+			<string>DIE FACE-2</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚂</string>
+			<key>Name</key>
+			<string>DIE FACE-3</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚃</string>
+			<key>Name</key>
+			<string>DIE FACE-4</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚄</string>
+			<key>Name</key>
+			<string>DIE FACE-5</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚅</string>
+			<key>Name</key>
+			<string>DIE FACE-6</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☻</string>
+			<key>Name</key>
+			<string>BLACK SMILING FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☹</string>
+			<key>Name</key>
+			<string>WHITE FROWNING FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☺︎</string>
+			<key>Name</key>
+			<string>WHITE SMILING FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☕︎</string>
+			<key>Name</key>
+			<string>HOT BEVERAGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✌︎</string>
+			<key>Name</key>
+			<string>VICTORY HAND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✍</string>
+			<key>Name</key>
+			<string>WRITING HAND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✎</string>
+			<key>Name</key>
+			<string>LOWER RIGHT PENCIL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✏︎</string>
+			<key>Name</key>
+			<string>PENCIL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✐</string>
+			<key>Name</key>
+			<string>UPPER RIGHT PENCIL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✑</string>
+			<key>Name</key>
+			<string>WHITE NIB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✒︎</string>
+			<key>Name</key>
+			<string>BLACK NIB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✁</string>
+			<key>Name</key>
+			<string>UPPER BLADE SCISSORS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✂︎</string>
+			<key>Name</key>
+			<string>BLACK SCISSORS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✃</string>
+			<key>Name</key>
+			<string>LOWER BLADE SCISSORS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✄</string>
+			<key>Name</key>
+			<string>WHITE SCISSORS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚾︎</string>
+			<key>Name</key>
+			<string>BASEBALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✇</string>
+			<key>Name</key>
+			<string>TAPE DRIVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✈︎</string>
+			<key>Name</key>
+			<string>AIRPLANE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚓︎</string>
+			<key>Name</key>
+			<string>ANCHOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♨︎</string>
+			<key>Name</key>
+			<string>HOT SPRINGS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♈︎</string>
+			<key>Name</key>
+			<string>ARIES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♉︎</string>
+			<key>Name</key>
+			<string>TAURUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♊︎</string>
+			<key>Name</key>
+			<string>GEMINI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♋︎</string>
+			<key>Name</key>
+			<string>CANCER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♌︎</string>
+			<key>Name</key>
+			<string>LEO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♍︎</string>
+			<key>Name</key>
+			<string>VIRGO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♎︎</string>
+			<key>Name</key>
+			<string>LIBRA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♏︎</string>
+			<key>Name</key>
+			<string>SCORPIUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♐︎</string>
+			<key>Name</key>
+			<string>SAGITTARIUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♑︎</string>
+			<key>Name</key>
+			<string>CAPRICORN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♒︎</string>
+			<key>Name</key>
+			<string>AQUARIUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♓︎</string>
+			<key>Name</key>
+			<string>PISCES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☉</string>
+			<key>Name</key>
+			<string>SUN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☿</string>
+			<key>Name</key>
+			<string>MERCURY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♀</string>
+			<key>Name</key>
+			<string>FEMALE SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♁</string>
+			<key>Name</key>
+			<string>EARTH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♂</string>
+			<key>Name</key>
+			<string>MALE SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♃</string>
+			<key>Name</key>
+			<string>JUPITER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♄</string>
+			<key>Name</key>
+			<string>SATURN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♅</string>
+			<key>Name</key>
+			<string>URANUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♆</string>
+			<key>Name</key>
+			<string>NEPTUNE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♇</string>
+			<key>Name</key>
+			<string>PLUTO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☄</string>
+			<key>Name</key>
+			<string>COMET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☊</string>
+			<key>Name</key>
+			<string>ASCENDING NODE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☋</string>
+			<key>Name</key>
+			<string>DESCENDING NODE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☌</string>
+			<key>Name</key>
+			<string>CONJUNCTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☍</string>
+			<key>Name</key>
+			<string>OPPOSITION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✦</string>
+			<key>Name</key>
+			<string>BLACK FOUR POINTED STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✧</string>
+			<key>Name</key>
+			<string>WHITE FOUR POINTED STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✙</string>
+			<key>Name</key>
+			<string>OUTLINED GREEK CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✚</string>
+			<key>Name</key>
+			<string>HEAVY GREEK CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✛</string>
+			<key>Name</key>
+			<string>OPEN CENTRE CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✜</string>
+			<key>Name</key>
+			<string>HEAVY OPEN CENTRE CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✝</string>
+			<key>Name</key>
+			<string>LATIN CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✞</string>
+			<key>Name</key>
+			<string>SHADOWED WHITE LATIN CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✟</string>
+			<key>Name</key>
+			<string>OUTLINED LATIN CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✠</string>
+			<key>Name</key>
+			<string>MALTESE CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☦</string>
+			<key>Name</key>
+			<string>ORTHODOX CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☨</string>
+			<key>Name</key>
+			<string>CROSS OF LORRAINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☩</string>
+			<key>Name</key>
+			<string>CROSS OF JERUSALEM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☥</string>
+			<key>Name</key>
+			<string>ANKH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♰</string>
+			<key>Name</key>
+			<string>WEST SYRIAC CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♱</string>
+			<key>Name</key>
+			<string>EAST SYRIAC CROSS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☓</string>
+			<key>Name</key>
+			<string>SALTIRE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚜</string>
+			<key>Name</key>
+			<string>FLEUR-DE-LIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☤</string>
+			<key>Name</key>
+			<string>CADUCEUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚚</string>
+			<key>Name</key>
+			<string>STAFF OF HERMES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚕</string>
+			<key>Name</key>
+			<string>STAFF OF AESCULAPIUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚖</string>
+			<key>Name</key>
+			<string>SCALES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚗</string>
+			<key>Name</key>
+			<string>ALEMBIC</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚛</string>
+			<key>Name</key>
+			<string>ATOM SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☧</string>
+			<key>Name</key>
+			<string>CHI RHO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚒</string>
+			<key>Name</key>
+			<string>HAMMER AND PICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☭</string>
+			<key>Name</key>
+			<string>HAMMER AND SICKLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☪</string>
+			<key>Name</key>
+			<string>STAR AND CRESCENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☫</string>
+			<key>Name</key>
+			<string>FARSI SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☬</string>
+			<key>Name</key>
+			<string>ADI SHAKTI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚑</string>
+			<key>Name</key>
+			<string>BLACK FLAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚐</string>
+			<key>Name</key>
+			<string>WHITE FLAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☮</string>
+			<key>Name</key>
+			<string>PEACE SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☯</string>
+			<key>Name</key>
+			<string>YIN YANG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☸</string>
+			<key>Name</key>
+			<string>WHEEL OF DHARMA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚔</string>
+			<key>Name</key>
+			<string>CROSSED SWORDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂠</string>
+			<key>Name</key>
+			<string>PLAYING CARD BACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂡</string>
+			<key>Name</key>
+			<string>PLAYING CARD ACE OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂢</string>
+			<key>Name</key>
+			<string>PLAYING CARD TWO OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂣</string>
+			<key>Name</key>
+			<string>PLAYING CARD THREE OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂤</string>
+			<key>Name</key>
+			<string>PLAYING CARD FOUR OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂥</string>
+			<key>Name</key>
+			<string>PLAYING CARD FIVE OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂦</string>
+			<key>Name</key>
+			<string>PLAYING CARD SIX OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂧</string>
+			<key>Name</key>
+			<string>PLAYING CARD SEVEN OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂨</string>
+			<key>Name</key>
+			<string>PLAYING CARD EIGHT OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂩</string>
+			<key>Name</key>
+			<string>PLAYING CARD NINE OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂪</string>
+			<key>Name</key>
+			<string>PLAYING CARD TEN OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂫</string>
+			<key>Name</key>
+			<string>PLAYING CARD JACK OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂬</string>
+			<key>Name</key>
+			<string>PLAYING CARD KNIGHT OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂭</string>
+			<key>Name</key>
+			<string>PLAYING CARD QUEEN OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂮</string>
+			<key>Name</key>
+			<string>PLAYING CARD KING OF SPADES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂱</string>
+			<key>Name</key>
+			<string>PLAYING CARD ACE OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂲</string>
+			<key>Name</key>
+			<string>PLAYING CARD TWO OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂳</string>
+			<key>Name</key>
+			<string>PLAYING CARD THREE OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂴</string>
+			<key>Name</key>
+			<string>PLAYING CARD FOUR OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂵</string>
+			<key>Name</key>
+			<string>PLAYING CARD FIVE OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂶</string>
+			<key>Name</key>
+			<string>PLAYING CARD SIX OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂷</string>
+			<key>Name</key>
+			<string>PLAYING CARD SEVEN OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂸</string>
+			<key>Name</key>
+			<string>PLAYING CARD EIGHT OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂹</string>
+			<key>Name</key>
+			<string>PLAYING CARD NINE OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂺</string>
+			<key>Name</key>
+			<string>PLAYING CARD TEN OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂻</string>
+			<key>Name</key>
+			<string>PLAYING CARD JACK OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂼</string>
+			<key>Name</key>
+			<string>PLAYING CARD KNIGHT OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂽</string>
+			<key>Name</key>
+			<string>PLAYING CARD QUEEN OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂾</string>
+			<key>Name</key>
+			<string>PLAYING CARD KING OF HEARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃁</string>
+			<key>Name</key>
+			<string>PLAYING CARD ACE OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃂</string>
+			<key>Name</key>
+			<string>PLAYING CARD TWO OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃃</string>
+			<key>Name</key>
+			<string>PLAYING CARD THREE OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃄</string>
+			<key>Name</key>
+			<string>PLAYING CARD FOUR OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃅</string>
+			<key>Name</key>
+			<string>PLAYING CARD FIVE OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃆</string>
+			<key>Name</key>
+			<string>PLAYING CARD SIX OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃇</string>
+			<key>Name</key>
+			<string>PLAYING CARD SEVEN OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃈</string>
+			<key>Name</key>
+			<string>PLAYING CARD EIGHT OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃉</string>
+			<key>Name</key>
+			<string>PLAYING CARD NINE OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃊</string>
+			<key>Name</key>
+			<string>PLAYING CARD TEN OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃋</string>
+			<key>Name</key>
+			<string>PLAYING CARD JACK OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃌</string>
+			<key>Name</key>
+			<string>PLAYING CARD KNIGHT OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃍</string>
+			<key>Name</key>
+			<string>PLAYING CARD QUEEN OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃎</string>
+			<key>Name</key>
+			<string>PLAYING CARD KING OF DIAMONDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃑</string>
+			<key>Name</key>
+			<string>PLAYING CARD ACE OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃒</string>
+			<key>Name</key>
+			<string>PLAYING CARD TWO OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃓</string>
+			<key>Name</key>
+			<string>PLAYING CARD THREE OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃔</string>
+			<key>Name</key>
+			<string>PLAYING CARD FOUR OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃕</string>
+			<key>Name</key>
+			<string>PLAYING CARD FIVE OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃖</string>
+			<key>Name</key>
+			<string>PLAYING CARD SIX OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃗</string>
+			<key>Name</key>
+			<string>PLAYING CARD SEVEN OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃘</string>
+			<key>Name</key>
+			<string>PLAYING CARD EIGHT OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃙</string>
+			<key>Name</key>
+			<string>PLAYING CARD NINE OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃚</string>
+			<key>Name</key>
+			<string>PLAYING CARD TEN OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃛</string>
+			<key>Name</key>
+			<string>PLAYING CARD JACK OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃜</string>
+			<key>Name</key>
+			<string>PLAYING CARD KNIGHT OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃝</string>
+			<key>Name</key>
+			<string>PLAYING CARD QUEEN OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃞</string>
+			<key>Name</key>
+			<string>PLAYING CARD KING OF CLUBS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃟</string>
+			<key>Name</key>
+			<string>PLAYING CARD WHITE JOKER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☗</string>
+			<key>Name</key>
+			<string>BLACK SHOGI PIECE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☖</string>
+			<key>Name</key>
+			<string>WHITE SHOGI PIECE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚈</string>
+			<key>Name</key>
+			<string>BLACK CIRCLE WITH WHITE DOT RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚉</string>
+			<key>Name</key>
+			<string>BLACK CIRCLE WITH TWO WHITE DOTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚆</string>
+			<key>Name</key>
+			<string>WHITE CIRCLE WITH DOT RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚇</string>
+			<key>Name</key>
+			<string>WHITE CIRCLE WITH TWO DOTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀀</string>
+			<key>Name</key>
+			<string>MAHJONG TILE EAST WIND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀁</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SOUTH WIND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀂</string>
+			<key>Name</key>
+			<string>MAHJONG TILE WEST WIND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀃</string>
+			<key>Name</key>
+			<string>MAHJONG TILE NORTH WIND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀅</string>
+			<key>Name</key>
+			<string>MAHJONG TILE GREEN DRAGON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀆</string>
+			<key>Name</key>
+			<string>MAHJONG TILE WHITE DRAGON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀇</string>
+			<key>Name</key>
+			<string>MAHJONG TILE ONE OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀈</string>
+			<key>Name</key>
+			<string>MAHJONG TILE TWO OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀉</string>
+			<key>Name</key>
+			<string>MAHJONG TILE THREE OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀊</string>
+			<key>Name</key>
+			<string>MAHJONG TILE FOUR OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀋</string>
+			<key>Name</key>
+			<string>MAHJONG TILE FIVE OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀌</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SIX OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀍</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SEVEN OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀎</string>
+			<key>Name</key>
+			<string>MAHJONG TILE EIGHT OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀏</string>
+			<key>Name</key>
+			<string>MAHJONG TILE NINE OF CHARACTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀐</string>
+			<key>Name</key>
+			<string>MAHJONG TILE ONE OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀑</string>
+			<key>Name</key>
+			<string>MAHJONG TILE TWO OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀒</string>
+			<key>Name</key>
+			<string>MAHJONG TILE THREE OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀓</string>
+			<key>Name</key>
+			<string>MAHJONG TILE FOUR OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀔</string>
+			<key>Name</key>
+			<string>MAHJONG TILE FIVE OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀕</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SIX OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀖</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SEVEN OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀗</string>
+			<key>Name</key>
+			<string>MAHJONG TILE EIGHT OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀘</string>
+			<key>Name</key>
+			<string>MAHJONG TILE NINE OF BAMBOOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀙</string>
+			<key>Name</key>
+			<string>MAHJONG TILE ONE OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀚</string>
+			<key>Name</key>
+			<string>MAHJONG TILE TWO OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀛</string>
+			<key>Name</key>
+			<string>MAHJONG TILE THREE OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀜</string>
+			<key>Name</key>
+			<string>MAHJONG TILE FOUR OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀝</string>
+			<key>Name</key>
+			<string>MAHJONG TILE FIVE OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀞</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SIX OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀟</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SEVEN OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀠</string>
+			<key>Name</key>
+			<string>MAHJONG TILE EIGHT OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀡</string>
+			<key>Name</key>
+			<string>MAHJONG TILE NINE OF CIRCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀢</string>
+			<key>Name</key>
+			<string>MAHJONG TILE PLUM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀣</string>
+			<key>Name</key>
+			<string>MAHJONG TILE ORCHID</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀤</string>
+			<key>Name</key>
+			<string>MAHJONG TILE BAMBOO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀥</string>
+			<key>Name</key>
+			<string>MAHJONG TILE CHRYSANTHEMUM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀦</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SPRING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀧</string>
+			<key>Name</key>
+			<string>MAHJONG TILE SUMMER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀨</string>
+			<key>Name</key>
+			<string>MAHJONG TILE AUTUMN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀩</string>
+			<key>Name</key>
+			<string>MAHJONG TILE WINTER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀪</string>
+			<key>Name</key>
+			<string>MAHJONG TILE JOKER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀫</string>
+			<key>Name</key>
+			<string>MAHJONG TILE BACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀰</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL BACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀱</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-00-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀲</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-00-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀳</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-00-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀴</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-00-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀵</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-00-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀶</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-00-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀷</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-00-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀸</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-01-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀹</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-01-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀺</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-01-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀻</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-01-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀼</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-01-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀽</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-01-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀾</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-01-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀿</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-02-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁀</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-02-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁁</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-02-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁂</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-02-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁃</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-02-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁄</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-02-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁅</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-02-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁆</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-03-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁇</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-03-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁈</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-03-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁉</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-03-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁊</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-03-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁋</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-03-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁌</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-03-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁍</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-04-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁎</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-04-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁏</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-04-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁐</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-04-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁑</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-04-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁒</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-04-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁓</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-04-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁔</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-05-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁕</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-05-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁖</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-05-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁗</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-05-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁘</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-05-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁙</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-05-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁚</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-05-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁛</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-06-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁜</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-06-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁝</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-06-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁞</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-06-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁟</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-06-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁠</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-06-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁡</string>
+			<key>Name</key>
+			<string>DOMINO TILE HORIZONTAL-06-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁢</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL BACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁣</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-00-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁤</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-00-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁥</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-00-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁦</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-00-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁧</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-00-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁨</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-00-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁩</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-00-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁪</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-01-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁫</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-01-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁬</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-01-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁭</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-01-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁮</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-01-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁯</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-01-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁰</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-01-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁱</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-02-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁲</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-02-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁳</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-02-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁴</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-02-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁵</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-02-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁶</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-02-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁷</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-02-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁸</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-03-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁹</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-03-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁺</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-03-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁻</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-03-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁼</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-03-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁽</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-03-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁾</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-03-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🁿</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-04-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂀</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-04-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂁</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-04-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂂</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-04-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂃</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-04-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂄</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-04-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂅</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-04-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂆</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-05-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂇</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-05-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂈</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-05-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂉</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-05-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂊</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-05-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂋</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-05-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂌</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-05-06</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂍</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-06-00</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂎</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-06-01</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂏</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-06-02</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂐</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-06-03</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂑</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-06-04</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂒</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-06-05</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🂓</string>
+			<key>Name</key>
+			<string>DOMINO TILE VERTICAL-06-06</string>
+		</dict>
+	</array>
+	<key>Technical Symbols</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>⌘</string>
+			<key>Name</key>
+			<string>PLACE OF INTEREST SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎋</string>
+			<key>Name</key>
+			<string>BROKEN CIRCLE WITH NORTHWEST ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏎</string>
+			<key>Name</key>
+			<string>RETURN SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏏</string>
+			<key>Name</key>
+			<string>EJECT SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌤</string>
+			<key>Name</key>
+			<string>UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌥</string>
+			<key>Name</key>
+			<string>OPTION KEY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌃</string>
+			<key>Name</key>
+			<string>UP ARROWHEAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌄</string>
+			<key>Name</key>
+			<string>DOWN ARROWHEAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌅</string>
+			<key>Name</key>
+			<string>PROJECTIVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌆</string>
+			<key>Name</key>
+			<string>PERSPECTIVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌀</string>
+			<key>Name</key>
+			<string>DIAMETER SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌁</string>
+			<key>Name</key>
+			<string>ELECTRIC ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌂</string>
+			<key>Name</key>
+			<string>HOUSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌐</string>
+			<key>Name</key>
+			<string>REVERSED NOT SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌑</string>
+			<key>Name</key>
+			<string>SQUARE LOZENGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌒</string>
+			<key>Name</key>
+			<string>ARC</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌓</string>
+			<key>Name</key>
+			<string>SEGMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌔</string>
+			<key>Name</key>
+			<string>SECTOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌕</string>
+			<key>Name</key>
+			<string>TELEPHONE RECORDER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌖</string>
+			<key>Name</key>
+			<string>POSITION INDICATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌗</string>
+			<key>Name</key>
+			<string>VIEWDATA SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌙</string>
+			<key>Name</key>
+			<string>TURNED NOT SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌦</string>
+			<key>Name</key>
+			<string>ERASE TO THE RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌧</string>
+			<key>Name</key>
+			<string>X IN A RECTANGLE BOX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌫</string>
+			<key>Name</key>
+			<string>ERASE TO THE LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌨</string>
+			<key>Name</key>
+			<string>KEYBOARD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎄</string>
+			<key>Name</key>
+			<string>COMPOSITION SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎅</string>
+			<key>Name</key>
+			<string>WHITE SQUARE WITH CENTRE VERTICAL LINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎆</string>
+			<key>Name</key>
+			<string>ENTER SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎇</string>
+			<key>Name</key>
+			<string>ALTERNATIVE KEY SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎈</string>
+			<key>Name</key>
+			<string>HELM SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎉</string>
+			<key>Name</key>
+			<string>CIRCLED HORIZONTAL BAR WITH NOTCH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎊</string>
+			<key>Name</key>
+			<string>CIRCLED TRIANGLE DOWN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎌</string>
+			<key>Name</key>
+			<string>UNDO SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌚︎</string>
+			<key>Name</key>
+			<string>WATCH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌛︎</string>
+			<key>Name</key>
+			<string>HOURGLASS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎗</string>
+			<key>Name</key>
+			<string>PREVIOUS PAGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎘</string>
+			<key>Name</key>
+			<string>NEXT PAGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎙</string>
+			<key>Name</key>
+			<string>PRINT SCREEN SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎚</string>
+			<key>Name</key>
+			<string>CLEAR SCREEN SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎀</string>
+			<key>Name</key>
+			<string>INSERTION SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎁</string>
+			<key>Name</key>
+			<string>CONTINUOUS UNDERLINE SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎂</string>
+			<key>Name</key>
+			<string>DISCONTINUOUS UNDERLINE SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎃</string>
+			<key>Name</key>
+			<string>EMPHASIS SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌇</string>
+			<key>Name</key>
+			<string>WAVY LINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌈</string>
+			<key>Name</key>
+			<string>LEFT CEILING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌉</string>
+			<key>Name</key>
+			<string>RIGHT CEILING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌊</string>
+			<key>Name</key>
+			<string>LEFT FLOOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌋</string>
+			<key>Name</key>
+			<string>RIGHT FLOOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌌</string>
+			<key>Name</key>
+			<string>BOTTOM RIGHT CROP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌍</string>
+			<key>Name</key>
+			<string>BOTTOM LEFT CROP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌏</string>
+			<key>Name</key>
+			<string>TOP LEFT CROP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌠</string>
+			<key>Name</key>
+			<string>TOP HALF INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎮</string>
+			<key>Name</key>
+			<string>INTEGRAL EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌡</string>
+			<key>Name</key>
+			<string>BOTTOM HALF INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌢</string>
+			<key>Name</key>
+			<string>FROWN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌣</string>
+			<key>Name</key>
+			<string>SMILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌜</string>
+			<key>Name</key>
+			<string>TOP LEFT CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌝</string>
+			<key>Name</key>
+			<string>TOP RIGHT CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌞</string>
+			<key>Name</key>
+			<string>BOTTOM LEFT CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌟</string>
+			<key>Name</key>
+			<string>BOTTOM RIGHT CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁒</string>
+			<key>Name</key>
+			<string>COMMERCIAL MINUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>〈</string>
+			<key>Name</key>
+			<string>LEFT ANGLE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>〉</string>
+			<key>Name</key>
+			<string>RIGHT ANGLE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌬</string>
+			<key>Name</key>
+			<string>BENZENE RING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌭</string>
+			<key>Name</key>
+			<string>CYLINDRICITY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌮</string>
+			<key>Name</key>
+			<string>ALL AROUND-PROFILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌯</string>
+			<key>Name</key>
+			<string>SYMMETRY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌰</string>
+			<key>Name</key>
+			<string>TOTAL RUNOUT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌱</string>
+			<key>Name</key>
+			<string>DIMENSION ORIGIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌲</string>
+			<key>Name</key>
+			<string>CONICAL TAPER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌳</string>
+			<key>Name</key>
+			<string>SLOPE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌴</string>
+			<key>Name</key>
+			<string>COUNTERBORE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌵</string>
+			<key>Name</key>
+			<string>COUNTERSINK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌶</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL I-BEAM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌸</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌷</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL SQUISH QUAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎔</string>
+			<key>Name</key>
+			<string>SOFTWARE-FUNCTION SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌹</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD DIVIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌺</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌻</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD JOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌼</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌽</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL CIRCLE STILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌾</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL CIRCLE JOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌿</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL SLASH BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍀</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL BACKSLASH BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍁</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD SLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍂</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD BACKSLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍃</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍄</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍅</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL LEFTWARDS VANE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍆</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL RIGHTWARDS VANE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍇</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍈</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍉</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍊</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍋</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DELTA STILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍌</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD DOWN CARET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍎</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DOWN TACK JOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍏</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL UPWARDS VANE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍐</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍑</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL UP TACK OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍒</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DEL STILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍓</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD UP CARET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍔</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD DEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍕</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL UP TACK JOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍖</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DOWNWARDS VANE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍗</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍘</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUOTE UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍙</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DELTA UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍚</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍛</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL JOT UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍜</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍝</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL UP SHOE JOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍞</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUOTE QUAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍟</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL CIRCLE STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍠</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD COLON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍡</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL UP TACK DIAERESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍢</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DEL DIAERESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍣</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL STAR DIAERESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍤</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL JOT DIAERESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍥</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍦</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DOWN SHOE STILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍧</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL LEFT SHOE STILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍨</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL TILDE DIAERESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍩</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍪</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL COMMA BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍫</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DEL TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍬</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL ZILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍭</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL STILE TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍮</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍯</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD NOT EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍰</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD QUESTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍱</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL DOWN CARET TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍲</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL UP CARET TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍳</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL IOTA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍴</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL RHO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍵</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL OMEGA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍶</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL ALPHA UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍷</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL EPSILON UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍸</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL IOTA UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍹</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL OMEGA UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍺</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL ALPHA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍻</string>
+			<key>Name</key>
+			<string>NOT CHECK MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍼</string>
+			<key>Name</key>
+			<string>RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍽</string>
+			<key>Name</key>
+			<string>SHOULDERED OPEN BOX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍾</string>
+			<key>Name</key>
+			<string>BELL SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⍿</string>
+			<key>Name</key>
+			<string>VERTICAL LINE WITH MIDDLE DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎍</string>
+			<key>Name</key>
+			<string>MONOSTABLE SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎎</string>
+			<key>Name</key>
+			<string>HYSTERESIS SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎏</string>
+			<key>Name</key>
+			<string>OPEN-CIRCUIT-OUTPUT H-TYPE SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎐</string>
+			<key>Name</key>
+			<string>OPEN-CIRCUIT-OUTPUT L-TYPE SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎑</string>
+			<key>Name</key>
+			<string>PASSIVE-PULL-DOWN-OUTPUT SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎒</string>
+			<key>Name</key>
+			<string>PASSIVE-PULL-UP-OUTPUT SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎓</string>
+			<key>Name</key>
+			<string>DIRECT CURRENT SYMBOL FORM TWO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎕</string>
+			<key>Name</key>
+			<string>APL FUNCTIONAL SYMBOL QUAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎖</string>
+			<key>Name</key>
+			<string>DECIMAL SEPARATOR KEY SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎲</string>
+			<key>Name</key>
+			<string>SUMMATION TOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎳</string>
+			<key>Name</key>
+			<string>SUMMATION BOTTOM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎛</string>
+			<key>Name</key>
+			<string>LEFT PARENTHESIS UPPER HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎞</string>
+			<key>Name</key>
+			<string>RIGHT PARENTHESIS UPPER HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎜</string>
+			<key>Name</key>
+			<string>LEFT PARENTHESIS EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎟</string>
+			<key>Name</key>
+			<string>RIGHT PARENTHESIS EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎝</string>
+			<key>Name</key>
+			<string>LEFT PARENTHESIS LOWER HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎠</string>
+			<key>Name</key>
+			<string>RIGHT PARENTHESIS LOWER HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎡</string>
+			<key>Name</key>
+			<string>LEFT SQUARE BRACKET UPPER CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎤</string>
+			<key>Name</key>
+			<string>RIGHT SQUARE BRACKET UPPER CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎢</string>
+			<key>Name</key>
+			<string>LEFT SQUARE BRACKET EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎥</string>
+			<key>Name</key>
+			<string>RIGHT SQUARE BRACKET EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎣</string>
+			<key>Name</key>
+			<string>LEFT SQUARE BRACKET LOWER CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎦</string>
+			<key>Name</key>
+			<string>RIGHT SQUARE BRACKET LOWER CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎧</string>
+			<key>Name</key>
+			<string>LEFT CURLY BRACKET UPPER HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎫</string>
+			<key>Name</key>
+			<string>RIGHT CURLY BRACKET UPPER HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎨</string>
+			<key>Name</key>
+			<string>LEFT CURLY BRACKET MIDDLE PIECE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎬</string>
+			<key>Name</key>
+			<string>RIGHT CURLY BRACKET MIDDLE PIECE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎩</string>
+			<key>Name</key>
+			<string>LEFT CURLY BRACKET LOWER HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎭</string>
+			<key>Name</key>
+			<string>RIGHT CURLY BRACKET LOWER HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎰</string>
+			<key>Name</key>
+			<string>UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎱</string>
+			<key>Name</key>
+			<string>UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎪</string>
+			<key>Name</key>
+			<string>CURLY BRACKET EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎮</string>
+			<key>Name</key>
+			<string>INTEGRAL EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎯</string>
+			<key>Name</key>
+			<string>HORIZONTAL LINE EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏐</string>
+			<key>Name</key>
+			<string>VERTICAL LINE EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎴</string>
+			<key>Name</key>
+			<string>TOP SQUARE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎵</string>
+			<key>Name</key>
+			<string>BOTTOM SQUARE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎶</string>
+			<key>Name</key>
+			<string>BOTTOM SQUARE BRACKET OVER TOP SQUARE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎷</string>
+			<key>Name</key>
+			<string>RADICAL SYMBOL BOTTOM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎸</string>
+			<key>Name</key>
+			<string>LEFT VERTICAL BOX LINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎹</string>
+			<key>Name</key>
+			<string>RIGHT VERTICAL BOX LINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎾</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏁</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏄</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏇</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏉</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‾</string>
+			<key>Name</key>
+			<string>OVERLINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏋</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>├</string>
+			<key>Name</key>
+			<string>BOX DRAWINGS LIGHT VERTICAL AND RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏀</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏃</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏆</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT VERTICAL AND WAVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>┼</string>
+			<key>Name</key>
+			<string>BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>│</string>
+			<key>Name</key>
+			<string>BOX DRAWINGS LIGHT VERTICAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>┤</string>
+			<key>Name</key>
+			<string>BOX DRAWINGS LIGHT VERTICAL AND LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎿</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏂</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏅</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏈</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏊</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>_</string>
+			<key>Name</key>
+			<string>LOW LINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏌</string>
+			<key>Name</key>
+			<string>DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎺</string>
+			<key>Name</key>
+			<string>HORIZONTAL SCAN LINE-1</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎻</string>
+			<key>Name</key>
+			<string>HORIZONTAL SCAN LINE-3</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎼</string>
+			<key>Name</key>
+			<string>HORIZONTAL SCAN LINE-7</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎽</string>
+			<key>Name</key>
+			<string>HORIZONTAL SCAN LINE-9</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏍</string>
+			<key>Name</key>
+			<string>SQUARE FOOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␀</string>
+			<key>Name</key>
+			<string>SYMBOL FOR NULL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␁</string>
+			<key>Name</key>
+			<string>SYMBOL FOR START OF HEADING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␂</string>
+			<key>Name</key>
+			<string>SYMBOL FOR START OF TEXT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␃</string>
+			<key>Name</key>
+			<string>SYMBOL FOR END OF TEXT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␄</string>
+			<key>Name</key>
+			<string>SYMBOL FOR END OF TRANSMISSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␅</string>
+			<key>Name</key>
+			<string>SYMBOL FOR ENQUIRY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␆</string>
+			<key>Name</key>
+			<string>SYMBOL FOR ACKNOWLEDGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␇</string>
+			<key>Name</key>
+			<string>SYMBOL FOR BELL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␈</string>
+			<key>Name</key>
+			<string>SYMBOL FOR BACKSPACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␉</string>
+			<key>Name</key>
+			<string>SYMBOL FOR HORIZONTAL TABULATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␊</string>
+			<key>Name</key>
+			<string>SYMBOL FOR LINE FEED</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␌</string>
+			<key>Name</key>
+			<string>SYMBOL FOR FORM FEED</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␍</string>
+			<key>Name</key>
+			<string>SYMBOL FOR CARRIAGE RETURN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␎</string>
+			<key>Name</key>
+			<string>SYMBOL FOR SHIFT OUT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␏</string>
+			<key>Name</key>
+			<string>SYMBOL FOR SHIFT IN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␐</string>
+			<key>Name</key>
+			<string>SYMBOL FOR DATA LINK ESCAPE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␑</string>
+			<key>Name</key>
+			<string>SYMBOL FOR DEVICE CONTROL ONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␒</string>
+			<key>Name</key>
+			<string>SYMBOL FOR DEVICE CONTROL TWO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␓</string>
+			<key>Name</key>
+			<string>SYMBOL FOR DEVICE CONTROL THREE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␔</string>
+			<key>Name</key>
+			<string>SYMBOL FOR DEVICE CONTROL FOUR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␕</string>
+			<key>Name</key>
+			<string>SYMBOL FOR NEGATIVE ACKNOWLEDGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␖</string>
+			<key>Name</key>
+			<string>SYMBOL FOR SYNCHRONOUS IDLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␗</string>
+			<key>Name</key>
+			<string>SYMBOL FOR END OF TRANSMISSION BLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␘</string>
+			<key>Name</key>
+			<string>SYMBOL FOR CANCEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␙</string>
+			<key>Name</key>
+			<string>SYMBOL FOR END OF MEDIUM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␚</string>
+			<key>Name</key>
+			<string>SYMBOL FOR SUBSTITUTE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␛</string>
+			<key>Name</key>
+			<string>SYMBOL FOR ESCAPE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␜</string>
+			<key>Name</key>
+			<string>SYMBOL FOR FILE SEPARATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␝</string>
+			<key>Name</key>
+			<string>SYMBOL FOR GROUP SEPARATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␞</string>
+			<key>Name</key>
+			<string>SYMBOL FOR RECORD SEPARATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␟</string>
+			<key>Name</key>
+			<string>SYMBOL FOR UNIT SEPARATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␠</string>
+			<key>Name</key>
+			<string>SYMBOL FOR SPACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␡</string>
+			<key>Name</key>
+			<string>SYMBOL FOR DELETE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␢</string>
+			<key>Name</key>
+			<string>BLANK SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␣</string>
+			<key>Name</key>
+			<string>OPEN BOX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␤</string>
+			<key>Name</key>
+			<string>SYMBOL FOR NEWLINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␥</string>
+			<key>Name</key>
+			<string>SYMBOL FOR DELETE FORM TWO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>␦</string>
+			<key>Name</key>
+			<string>SYMBOL FOR SUBSTITUTE FORM TWO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑆</string>
+			<key>Name</key>
+			<string>OCR BRANCH BANK IDENTIFICATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑇</string>
+			<key>Name</key>
+			<string>OCR AMOUNT OF CHECK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑈</string>
+			<key>Name</key>
+			<string>OCR DASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑉</string>
+			<key>Name</key>
+			<string>OCR CUSTOMER ACCOUNT NUMBER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑀</string>
+			<key>Name</key>
+			<string>OCR HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑁</string>
+			<key>Name</key>
+			<string>OCR CHAIR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑂</string>
+			<key>Name</key>
+			<string>OCR FORK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑃</string>
+			<key>Name</key>
+			<string>OCR INVERTED FORK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑄</string>
+			<key>Name</key>
+			<string>OCR BELT BUCKLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑅</string>
+			<key>Name</key>
+			<string>OCR BOW TIE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⑊</string>
+			<key>Name</key>
+			<string>OCR DOUBLE BACKSLASH</string>
+		</dict>
+	</array>
+	<key>Bullets &amp; Stars</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>∙</string>
+			<key>Name</key>
+			<string>BULLET OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>•</string>
+			<key>Name</key>
+			<string>BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>・</string>
+			<key>Name</key>
+			<string>KATAKANA MIDDLE DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◦</string>
+			<key>Name</key>
+			<string>WHITE BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>●</string>
+			<key>Name</key>
+			<string>BLACK CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>○</string>
+			<key>Name</key>
+			<string>WHITE CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◎</string>
+			<key>Name</key>
+			<string>BULLSEYE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◉</string>
+			<key>Name</key>
+			<string>FISHEYE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦿</string>
+			<key>Name</key>
+			<string>CIRCLED BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁌</string>
+			<key>Name</key>
+			<string>BLACK LEFTWARDS BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁍</string>
+			<key>Name</key>
+			<string>BLACK RIGHTWARDS BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁃</string>
+			<key>Name</key>
+			<string>HYPHEN BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>-</string>
+			<key>Name</key>
+			<string>HYPHEN-MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>■</string>
+			<key>Name</key>
+			<string>BLACK SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>□</string>
+			<key>Name</key>
+			<string>WHITE SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☐</string>
+			<key>Name</key>
+			<string>BALLOT BOX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☑︎</string>
+			<key>Name</key>
+			<string>BALLOT BOX WITH CHECK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☒</string>
+			<key>Name</key>
+			<string>BALLOT BOX WITH X</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▪︎</string>
+			<key>Name</key>
+			<string>BLACK SMALL SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▫︎</string>
+			<key>Name</key>
+			<string>WHITE SMALL SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◻︎</string>
+			<key>Name</key>
+			<string>WHITE MEDIUM SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◼︎</string>
+			<key>Name</key>
+			<string>BLACK MEDIUM SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◘</string>
+			<key>Name</key>
+			<string>INVERSE BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◆</string>
+			<key>Name</key>
+			<string>BLACK DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◇</string>
+			<key>Name</key>
+			<string>WHITE DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❖</string>
+			<key>Name</key>
+			<string>BLACK DIAMOND MINUS WHITE X</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▶︎</string>
+			<key>Name</key>
+			<string>BLACK RIGHT-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▷</string>
+			<key>Name</key>
+			<string>WHITE RIGHT-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‣</string>
+			<key>Name</key>
+			<string>TRIANGULAR BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▸</string>
+			<key>Name</key>
+			<string>BLACK RIGHT-POINTING SMALL TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▹</string>
+			<key>Name</key>
+			<string>WHITE RIGHT-POINTING SMALL TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>►</string>
+			<key>Name</key>
+			<string>BLACK RIGHT-POINTING POINTER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▻</string>
+			<key>Name</key>
+			<string>WHITE RIGHT-POINTING POINTER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◀︎</string>
+			<key>Name</key>
+			<string>BLACK LEFT-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◁</string>
+			<key>Name</key>
+			<string>WHITE LEFT-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▼</string>
+			<key>Name</key>
+			<string>BLACK DOWN-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▽</string>
+			<key>Name</key>
+			<string>WHITE DOWN-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▾</string>
+			<key>Name</key>
+			<string>BLACK DOWN-POINTING SMALL TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▿</string>
+			<key>Name</key>
+			<string>WHITE DOWN-POINTING SMALL TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▴</string>
+			<key>Name</key>
+			<string>BLACK UP-POINTING SMALL TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▵</string>
+			<key>Name</key>
+			<string>WHITE UP-POINTING SMALL TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▲</string>
+			<key>Name</key>
+			<string>BLACK UP-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>△</string>
+			<key>Name</key>
+			<string>WHITE UP-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☞</string>
+			<key>Name</key>
+			<string>WHITE RIGHT POINTING INDEX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☛</string>
+			<key>Name</key>
+			<string>BLACK RIGHT POINTING INDEX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➢</string>
+			<key>Name</key>
+			<string>THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➣</string>
+			<key>Name</key>
+			<string>THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➤</string>
+			<key>Name</key>
+			<string>BLACK RIGHTWARDS ARROWHEAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✢</string>
+			<key>Name</key>
+			<string>FOUR TEARDROP-SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✣</string>
+			<key>Name</key>
+			<string>FOUR BALLOON-SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✤</string>
+			<key>Name</key>
+			<string>HEAVY FOUR BALLOON-SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✥</string>
+			<key>Name</key>
+			<string>FOUR CLUB-SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✦</string>
+			<key>Name</key>
+			<string>BLACK FOUR POINTED STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✧</string>
+			<key>Name</key>
+			<string>WHITE FOUR POINTED STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>★</string>
+			<key>Name</key>
+			<string>BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☆</string>
+			<key>Name</key>
+			<string>WHITE STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⭐︎</string>
+			<key>Name</key>
+			<string>WHITE MEDIUM STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✯</string>
+			<key>Name</key>
+			<string>PINWHEEL STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✡</string>
+			<key>Name</key>
+			<string>STAR OF DAVID</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✩</string>
+			<key>Name</key>
+			<string>STRESS OUTLINED WHITE STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✪</string>
+			<key>Name</key>
+			<string>CIRCLED WHITE STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✫</string>
+			<key>Name</key>
+			<string>OPEN CENTRE BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✬</string>
+			<key>Name</key>
+			<string>BLACK CENTRE WHITE STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✭</string>
+			<key>Name</key>
+			<string>OUTLINED BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✮</string>
+			<key>Name</key>
+			<string>HEAVY OUTLINED BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✶</string>
+			<key>Name</key>
+			<string>SIX POINTED BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✷</string>
+			<key>Name</key>
+			<string>EIGHT POINTED RECTILINEAR BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✵</string>
+			<key>Name</key>
+			<string>EIGHT POINTED PINWHEEL STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✸</string>
+			<key>Name</key>
+			<string>HEAVY EIGHT POINTED RECTILINEAR BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✹</string>
+			<key>Name</key>
+			<string>TWELVE POINTED BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✺</string>
+			<key>Name</key>
+			<string>SIXTEEN POINTED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❊</string>
+			<key>Name</key>
+			<string>EIGHT TEARDROP-SPOKED PROPELLER ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✻</string>
+			<key>Name</key>
+			<string>TEARDROP-SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✽</string>
+			<key>Name</key>
+			<string>HEAVY TEARDROP-SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✼</string>
+			<key>Name</key>
+			<string>OPEN CENTRE TEARDROP-SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❉</string>
+			<key>Name</key>
+			<string>BALLOON-SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✱</string>
+			<key>Name</key>
+			<string>HEAVY ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✲</string>
+			<key>Name</key>
+			<string>OPEN CENTRE ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✾</string>
+			<key>Name</key>
+			<string>SIX PETALLED BLACK AND WHITE FLORETTE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❃</string>
+			<key>Name</key>
+			<string>HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❋</string>
+			<key>Name</key>
+			<string>HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✳︎</string>
+			<key>Name</key>
+			<string>EIGHT SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✴︎</string>
+			<key>Name</key>
+			<string>EIGHT POINTED BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❇︎</string>
+			<key>Name</key>
+			<string>SPARKLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❈</string>
+			<key>Name</key>
+			<string>HEAVY SPARKLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>※</string>
+			<key>Name</key>
+			<string>REFERENCE MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❅</string>
+			<key>Name</key>
+			<string>TIGHT TRIFOLIATE SNOWFLAKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❆</string>
+			<key>Name</key>
+			<string>HEAVY CHEVRON SNOWFLAKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❄︎</string>
+			<key>Name</key>
+			<string>SNOWFLAKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✿</string>
+			<key>Name</key>
+			<string>BLACK FLORETTE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❀</string>
+			<key>Name</key>
+			<string>WHITE FLORETTE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❁</string>
+			<key>Name</key>
+			<string>EIGHT PETALLED OUTLINED BLACK FLORETTE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❂</string>
+			<key>Name</key>
+			<string>CIRCLED OPEN CENTRE EIGHT POINTED STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✓</string>
+			<key>Name</key>
+			<string>CHECK MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✔︎</string>
+			<key>Name</key>
+			<string>HEAVY CHECK MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✕</string>
+			<key>Name</key>
+			<string>MULTIPLICATION X</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✖︎</string>
+			<key>Name</key>
+			<string>HEAVY MULTIPLICATION X</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✗</string>
+			<key>Name</key>
+			<string>BALLOT X</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✘</string>
+			<key>Name</key>
+			<string>HEAVY BALLOT X</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>﹅</string>
+			<key>Name</key>
+			<string>SESAME DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>﹆</string>
+			<key>Name</key>
+			<string>WHITE SESAME DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❍</string>
+			<key>Name</key>
+			<string>SHADOWED WHITE CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❏</string>
+			<key>Name</key>
+			<string>LOWER RIGHT DROP-SHADOWED WHITE SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❐</string>
+			<key>Name</key>
+			<string>UPPER RIGHT DROP-SHADOWED WHITE SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❑</string>
+			<key>Name</key>
+			<string>LOWER RIGHT SHADOWED WHITE SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❒</string>
+			<key>Name</key>
+			<string>UPPER RIGHT SHADOWED WHITE SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✰</string>
+			<key>Name</key>
+			<string>SHADOWED WHITE STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❤︎</string>
+			<key>Name</key>
+			<string>HEAVY BLACK HEART</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❥</string>
+			<key>Name</key>
+			<string>ROTATED HEAVY BLACK HEART BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☙</string>
+			<key>Name</key>
+			<string>REVERSED ROTATED FLORAL HEART BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❧</string>
+			<key>Name</key>
+			<string>ROTATED FLORAL HEART BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❦</string>
+			<key>Name</key>
+			<string>FLORAL HEART</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❡</string>
+			<key>Name</key>
+			<string>CURVED STEM PARAGRAPH SIGN ORNAMENT</string>
+		</dict>
+	</array>
+	<key>Punctuation</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>¡</string>
+			<key>Name</key>
+			<string>INVERTED EXCLAMATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>!</string>
+			<key>Name</key>
+			<string>EXCLAMATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>¿</string>
+			<key>Name</key>
+			<string>INVERTED QUESTION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>?</string>
+			<key>Name</key>
+			<string>QUESTION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⸘</string>
+			<key>Name</key>
+			<string>INVERTED INTERROBANG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‽</string>
+			<key>Name</key>
+			<string>INTERROBANG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>“</string>
+			<key>Name</key>
+			<string>LEFT DOUBLE QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>”</string>
+			<key>Name</key>
+			<string>RIGHT DOUBLE QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‘</string>
+			<key>Name</key>
+			<string>LEFT SINGLE QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>’</string>
+			<key>Name</key>
+			<string>RIGHT SINGLE QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‛</string>
+			<key>Name</key>
+			<string>SINGLE HIGH-REVERSED-9 QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‟</string>
+			<key>Name</key>
+			<string>DOUBLE HIGH-REVERSED-9 QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>.</string>
+			<key>Name</key>
+			<string>FULL STOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>,</string>
+			<key>Name</key>
+			<string>COMMA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‚</string>
+			<key>Name</key>
+			<string>SINGLE LOW-9 QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>„</string>
+			<key>Name</key>
+			<string>DOUBLE LOW-9 QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>’</string>
+			<key>Name</key>
+			<string>APOSTROPHE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>”</string>
+			<key>Name</key>
+			<string>QUOTATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>′</string>
+			<key>Name</key>
+			<string>PRIME</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>″</string>
+			<key>Name</key>
+			<string>DOUBLE PRIME</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>´</string>
+			<key>Name</key>
+			<string>ACUTE ACCENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>˝</string>
+			<key>Name</key>
+			<string>DOUBLE ACUTE ACCENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>^</string>
+			<key>Name</key>
+			<string>CIRCUMFLEX ACCENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>°</string>
+			<key>Name</key>
+			<string>DEGREE SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>¸</string>
+			<key>Name</key>
+			<string>CEDILLA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>˛</string>
+			<key>Name</key>
+			<string>OGONEK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>¨</string>
+			<key>Name</key>
+			<string>DIAERESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>`</string>
+			<key>Name</key>
+			<string>GRAVE ACCENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>˙</string>
+			<key>Name</key>
+			<string>DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>˚</string>
+			<key>Name</key>
+			<string>RING ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>ª</string>
+			<key>Name</key>
+			<string>FEMININE ORDINAL INDICATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>º</string>
+			<key>Name</key>
+			<string>MASCULINE ORDINAL INDICATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>…</string>
+			<key>Name</key>
+			<string>HORIZONTAL ELLIPSIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>:</string>
+			<key>Name</key>
+			<string>COLON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>;</string>
+			<key>Name</key>
+			<string>SEMICOLON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>&amp;</string>
+			<key>Name</key>
+			<string>AMPERSAND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>_</string>
+			<key>Name</key>
+			<string>LOW LINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>¯</string>
+			<key>Name</key>
+			<string>MACRON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>­</string>
+			<key>Name</key>
+			<string>SOFT HYPHEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>–</string>
+			<key>Name</key>
+			<string>EN DASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‑</string>
+			<key>Name</key>
+			<string>NON-BREAKING HYPHEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>—</string>
+			<key>Name</key>
+			<string>EM DASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>§</string>
+			<key>Name</key>
+			<string>SECTION SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>#</string>
+			<key>Name</key>
+			<string>NUMBER SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁊</string>
+			<key>Name</key>
+			<string>TIRONIAN SIGN ET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>¶</string>
+			<key>Name</key>
+			<string>PILCROW SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>†</string>
+			<key>Name</key>
+			<string>DAGGER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‡</string>
+			<key>Name</key>
+			<string>DOUBLE DAGGER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>@</string>
+			<key>Name</key>
+			<string>COMMERCIAL AT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>%</string>
+			<key>Name</key>
+			<string>PERCENT SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‰</string>
+			<key>Name</key>
+			<string>PER MILLE SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‱</string>
+			<key>Name</key>
+			<string>PER TEN THOUSAND SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>¦</string>
+			<key>Name</key>
+			<string>BROKEN BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>|</string>
+			<key>Name</key>
+			<string>VERTICAL LINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>/</string>
+			<key>Name</key>
+			<string>SOLIDUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>\</string>
+			<key>Name</key>
+			<string>REVERSE SOLIDUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>ˉ</string>
+			<key>Name</key>
+			<string>MODIFIER LETTER MACRON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>ˆ</string>
+			<key>Name</key>
+			<string>MODIFIER LETTER CIRCUMFLEX ACCENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>˘</string>
+			<key>Name</key>
+			<string>BREVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>ˇ</string>
+			<key>Name</key>
+			<string>CARON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>-</string>
+			<key>Name</key>
+			<string>HYPHEN-MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‒</string>
+			<key>Name</key>
+			<string>FIGURE DASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>~</string>
+			<key>Name</key>
+			<string>TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>*</string>
+			<key>Name</key>
+			<string>ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‼︎</string>
+			<key>Name</key>
+			<string>DOUBLE EXCLAMATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁇</string>
+			<key>Name</key>
+			<string>DOUBLE QUESTION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁈</string>
+			<key>Name</key>
+			<string>QUESTION EXCLAMATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁉︎</string>
+			<key>Name</key>
+			<string>EXCLAMATION QUESTION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❛</string>
+			<key>Name</key>
+			<string>HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❜</string>
+			<key>Name</key>
+			<string>HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❝</string>
+			<key>Name</key>
+			<string>HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❞</string>
+			<key>Name</key>
+			<string>HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❢</string>
+			<key>Name</key>
+			<string>HEAVY EXCLAMATION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❣</string>
+			<key>Name</key>
+			<string>HEAVY HEART EXCLAMATION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❡</string>
+			<key>Name</key>
+			<string>CURVED STEM PARAGRAPH SIGN ORNAMENT</string>
+		</dict>
+	</array>
+	<key>Math Symbols</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>+</string>
+			<key>Name</key>
+			<string>PLUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>−</string>
+			<key>Name</key>
+			<string>MINUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>-</string>
+			<key>Name</key>
+			<string>HYPHEN-MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>×</string>
+			<key>Name</key>
+			<string>MULTIPLICATION SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>÷</string>
+			<key>Name</key>
+			<string>DIVISION SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>±</string>
+			<key>Name</key>
+			<string>PLUS-MINUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∓</string>
+			<key>Name</key>
+			<string>MINUS-OR-PLUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∔</string>
+			<key>Name</key>
+			<string>DOT PLUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>=</string>
+			<key>Name</key>
+			<string>EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>¬</string>
+			<key>Name</key>
+			<string>NOT SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∩</string>
+			<key>Name</key>
+			<string>INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∪</string>
+			<key>Name</key>
+			<string>UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∝</string>
+			<key>Name</key>
+			<string>PROPORTIONAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∞</string>
+			<key>Name</key>
+			<string>INFINITY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>ℵ</string>
+			<key>Name</key>
+			<string>ALEF SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>ℇ</string>
+			<key>Name</key>
+			<string>EULER CONSTANT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∀</string>
+			<key>Name</key>
+			<string>FOR ALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∁</string>
+			<key>Name</key>
+			<string>COMPLEMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∂</string>
+			<key>Name</key>
+			<string>PARTIAL DIFFERENTIAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∃</string>
+			<key>Name</key>
+			<string>THERE EXISTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∄</string>
+			<key>Name</key>
+			<string>THERE DOES NOT EXIST</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∅</string>
+			<key>Name</key>
+			<string>EMPTY SET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∆</string>
+			<key>Name</key>
+			<string>INCREMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∇</string>
+			<key>Name</key>
+			<string>NABLA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊂</string>
+			<key>Name</key>
+			<string>SUBSET OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊃</string>
+			<key>Name</key>
+			<string>SUPERSET OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊄</string>
+			<key>Name</key>
+			<string>NOT A SUBSET OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊅</string>
+			<key>Name</key>
+			<string>NOT A SUPERSET OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊆</string>
+			<key>Name</key>
+			<string>SUBSET OF OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊇</string>
+			<key>Name</key>
+			<string>SUPERSET OF OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊈</string>
+			<key>Name</key>
+			<string>NEITHER A SUBSET OF NOR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊉</string>
+			<key>Name</key>
+			<string>NEITHER A SUPERSET OF NOR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊊</string>
+			<key>Name</key>
+			<string>SUBSET OF WITH NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊋</string>
+			<key>Name</key>
+			<string>SUPERSET OF WITH NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∈</string>
+			<key>Name</key>
+			<string>ELEMENT OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∉</string>
+			<key>Name</key>
+			<string>NOT AN ELEMENT OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∊</string>
+			<key>Name</key>
+			<string>SMALL ELEMENT OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∋</string>
+			<key>Name</key>
+			<string>CONTAINS AS MEMBER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∌</string>
+			<key>Name</key>
+			<string>DOES NOT CONTAIN AS MEMBER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∍</string>
+			<key>Name</key>
+			<string>SMALL CONTAINS AS MEMBER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∧</string>
+			<key>Name</key>
+			<string>LOGICAL AND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∨</string>
+			<key>Name</key>
+			<string>LOGICAL OR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>&lt;</string>
+			<key>Name</key>
+			<string>LESS-THAN SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>&gt;</string>
+			<key>Name</key>
+			<string>GREATER-THAN SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≤</string>
+			<key>Name</key>
+			<string>LESS-THAN OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≥</string>
+			<key>Name</key>
+			<string>GREATER-THAN OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≦</string>
+			<key>Name</key>
+			<string>LESS-THAN OVER EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≧</string>
+			<key>Name</key>
+			<string>GREATER-THAN OVER EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≨</string>
+			<key>Name</key>
+			<string>LESS-THAN BUT NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≩</string>
+			<key>Name</key>
+			<string>GREATER-THAN BUT NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≪</string>
+			<key>Name</key>
+			<string>MUCH LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≫</string>
+			<key>Name</key>
+			<string>MUCH GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≭</string>
+			<key>Name</key>
+			<string>NOT EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≮</string>
+			<key>Name</key>
+			<string>NOT LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≯</string>
+			<key>Name</key>
+			<string>NOT GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≰</string>
+			<key>Name</key>
+			<string>NEITHER LESS-THAN NOR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≱</string>
+			<key>Name</key>
+			<string>NEITHER GREATER-THAN NOR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≲</string>
+			<key>Name</key>
+			<string>LESS-THAN OR EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≳</string>
+			<key>Name</key>
+			<string>GREATER-THAN OR EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≴</string>
+			<key>Name</key>
+			<string>NEITHER LESS-THAN NOR EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≶</string>
+			<key>Name</key>
+			<string>LESS-THAN OR GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≷</string>
+			<key>Name</key>
+			<string>GREATER-THAN OR LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≸</string>
+			<key>Name</key>
+			<string>NEITHER LESS-THAN NOR GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≹</string>
+			<key>Name</key>
+			<string>NEITHER GREATER-THAN NOR LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≺</string>
+			<key>Name</key>
+			<string>PRECEDES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≻</string>
+			<key>Name</key>
+			<string>SUCCEEDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≼</string>
+			<key>Name</key>
+			<string>PRECEDES OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≽</string>
+			<key>Name</key>
+			<string>SUCCEEDS OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≾</string>
+			<key>Name</key>
+			<string>PRECEDES OR EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≿</string>
+			<key>Name</key>
+			<string>SUCCEEDS OR EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊀</string>
+			<key>Name</key>
+			<string>DOES NOT PRECEDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊁</string>
+			<key>Name</key>
+			<string>DOES NOT SUCCEED</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∎</string>
+			<key>Name</key>
+			<string>END OF PROOF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∏</string>
+			<key>Name</key>
+			<string>N-ARY PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∐</string>
+			<key>Name</key>
+			<string>N-ARY COPRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∑</string>
+			<key>Name</key>
+			<string>N-ARY SUMMATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨊</string>
+			<key>Name</key>
+			<string>MODULO TWO SUM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨋</string>
+			<key>Name</key>
+			<string>SUMMATION WITH INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∕</string>
+			<key>Name</key>
+			<string>DIVISION SLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∖</string>
+			<key>Name</key>
+			<string>SET MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∗</string>
+			<key>Name</key>
+			<string>ASTERISK OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∘</string>
+			<key>Name</key>
+			<string>RING OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∙</string>
+			<key>Name</key>
+			<string>BULLET OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>√</string>
+			<key>Name</key>
+			<string>SQUARE ROOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∛</string>
+			<key>Name</key>
+			<string>CUBE ROOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∜</string>
+			<key>Name</key>
+			<string>FOURTH ROOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∟</string>
+			<key>Name</key>
+			<string>RIGHT ANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∠</string>
+			<key>Name</key>
+			<string>ANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∡</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∢</string>
+			<key>Name</key>
+			<string>SPHERICAL ANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∣</string>
+			<key>Name</key>
+			<string>DIVIDES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∤</string>
+			<key>Name</key>
+			<string>DOES NOT DIVIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∥</string>
+			<key>Name</key>
+			<string>PARALLEL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∦</string>
+			<key>Name</key>
+			<string>NOT PARALLEL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∫</string>
+			<key>Name</key>
+			<string>INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∬</string>
+			<key>Name</key>
+			<string>DOUBLE INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∭</string>
+			<key>Name</key>
+			<string>TRIPLE INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∮</string>
+			<key>Name</key>
+			<string>CONTOUR INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∯</string>
+			<key>Name</key>
+			<string>SURFACE INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∰</string>
+			<key>Name</key>
+			<string>VOLUME INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∱</string>
+			<key>Name</key>
+			<string>CLOCKWISE INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∲</string>
+			<key>Name</key>
+			<string>CLOCKWISE CONTOUR INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∳</string>
+			<key>Name</key>
+			<string>ANTICLOCKWISE CONTOUR INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨌</string>
+			<key>Name</key>
+			<string>QUADRUPLE INTEGRAL OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨍</string>
+			<key>Name</key>
+			<string>FINITE PART INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨎</string>
+			<key>Name</key>
+			<string>INTEGRAL WITH DOUBLE STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨏</string>
+			<key>Name</key>
+			<string>INTEGRAL AVERAGE WITH SLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨐</string>
+			<key>Name</key>
+			<string>CIRCULATION FUNCTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨑</string>
+			<key>Name</key>
+			<string>ANTICLOCKWISE INTEGRATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨒</string>
+			<key>Name</key>
+			<string>LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨓</string>
+			<key>Name</key>
+			<string>LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨔</string>
+			<key>Name</key>
+			<string>LINE INTEGRATION NOT INCLUDING THE POLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨕</string>
+			<key>Name</key>
+			<string>INTEGRAL AROUND A POINT OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨖</string>
+			<key>Name</key>
+			<string>QUATERNION INTEGRAL OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨗</string>
+			<key>Name</key>
+			<string>INTEGRAL WITH LEFTWARDS ARROW WITH HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨘</string>
+			<key>Name</key>
+			<string>INTEGRAL WITH TIMES SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨙</string>
+			<key>Name</key>
+			<string>INTEGRAL WITH INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨚</string>
+			<key>Name</key>
+			<string>INTEGRAL WITH UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨛</string>
+			<key>Name</key>
+			<string>INTEGRAL WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨜</string>
+			<key>Name</key>
+			<string>INTEGRAL WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌠</string>
+			<key>Name</key>
+			<string>TOP HALF INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⎮</string>
+			<key>Name</key>
+			<string>INTEGRAL EXTENSION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌡</string>
+			<key>Name</key>
+			<string>BOTTOM HALF INTEGRAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∴</string>
+			<key>Name</key>
+			<string>THEREFORE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∵</string>
+			<key>Name</key>
+			<string>BECAUSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∶</string>
+			<key>Name</key>
+			<string>RATIO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∷</string>
+			<key>Name</key>
+			<string>PROPORTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∸</string>
+			<key>Name</key>
+			<string>DOT MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∹</string>
+			<key>Name</key>
+			<string>EXCESS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∺</string>
+			<key>Name</key>
+			<string>GEOMETRIC PROPORTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∻</string>
+			<key>Name</key>
+			<string>HOMOTHETIC</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∼</string>
+			<key>Name</key>
+			<string>TILDE OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∽</string>
+			<key>Name</key>
+			<string>REVERSED TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∾</string>
+			<key>Name</key>
+			<string>INVERTED LAZY S</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>∿</string>
+			<key>Name</key>
+			<string>SINE WAVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≀</string>
+			<key>Name</key>
+			<string>WREATH PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≁</string>
+			<key>Name</key>
+			<string>NOT TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≂</string>
+			<key>Name</key>
+			<string>MINUS TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≃</string>
+			<key>Name</key>
+			<string>ASYMPTOTICALLY EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≄</string>
+			<key>Name</key>
+			<string>NOT ASYMPTOTICALLY EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≅</string>
+			<key>Name</key>
+			<string>APPROXIMATELY EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≆</string>
+			<key>Name</key>
+			<string>APPROXIMATELY BUT NOT ACTUALLY EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≇</string>
+			<key>Name</key>
+			<string>NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≈</string>
+			<key>Name</key>
+			<string>ALMOST EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≉</string>
+			<key>Name</key>
+			<string>NOT ALMOST EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≊</string>
+			<key>Name</key>
+			<string>ALMOST EQUAL OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≋</string>
+			<key>Name</key>
+			<string>TRIPLE TILDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≌</string>
+			<key>Name</key>
+			<string>ALL EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≍</string>
+			<key>Name</key>
+			<string>EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≎</string>
+			<key>Name</key>
+			<string>GEOMETRICALLY EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≏</string>
+			<key>Name</key>
+			<string>DIFFERENCE BETWEEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≐</string>
+			<key>Name</key>
+			<string>APPROACHES THE LIMIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≑</string>
+			<key>Name</key>
+			<string>GEOMETRICALLY EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≒</string>
+			<key>Name</key>
+			<string>APPROXIMATELY EQUAL TO OR THE IMAGE OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≓</string>
+			<key>Name</key>
+			<string>IMAGE OF OR APPROXIMATELY EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≔</string>
+			<key>Name</key>
+			<string>COLON EQUALS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≕</string>
+			<key>Name</key>
+			<string>EQUALS COLON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≖</string>
+			<key>Name</key>
+			<string>RING IN EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≗</string>
+			<key>Name</key>
+			<string>RING EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≘</string>
+			<key>Name</key>
+			<string>CORRESPONDS TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≙</string>
+			<key>Name</key>
+			<string>ESTIMATES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≚</string>
+			<key>Name</key>
+			<string>EQUIANGULAR TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≛</string>
+			<key>Name</key>
+			<string>STAR EQUALS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≜</string>
+			<key>Name</key>
+			<string>DELTA EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≝</string>
+			<key>Name</key>
+			<string>EQUAL TO BY DEFINITION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≞</string>
+			<key>Name</key>
+			<string>MEASURED BY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≟</string>
+			<key>Name</key>
+			<string>QUESTIONED EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≠</string>
+			<key>Name</key>
+			<string>NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≡</string>
+			<key>Name</key>
+			<string>IDENTICAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≢</string>
+			<key>Name</key>
+			<string>NOT IDENTICAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≣</string>
+			<key>Name</key>
+			<string>STRICTLY EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>≬</string>
+			<key>Name</key>
+			<string>BETWEEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊌</string>
+			<key>Name</key>
+			<string>MULTISET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊍</string>
+			<key>Name</key>
+			<string>MULTISET MULTIPLICATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊎</string>
+			<key>Name</key>
+			<string>MULTISET UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊏</string>
+			<key>Name</key>
+			<string>SQUARE IMAGE OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊐</string>
+			<key>Name</key>
+			<string>SQUARE ORIGINAL OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊑</string>
+			<key>Name</key>
+			<string>SQUARE IMAGE OF OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊒</string>
+			<key>Name</key>
+			<string>SQUARE ORIGINAL OF OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊓</string>
+			<key>Name</key>
+			<string>SQUARE CAP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊔</string>
+			<key>Name</key>
+			<string>SQUARE CUP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>&amp;</string>
+			<key>Name</key>
+			<string>AMPERSAND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⅋</string>
+			<key>Name</key>
+			<string>TURNED AMPERSAND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊕</string>
+			<key>Name</key>
+			<string>CIRCLED PLUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊖</string>
+			<key>Name</key>
+			<string>CIRCLED MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊗</string>
+			<key>Name</key>
+			<string>CIRCLED TIMES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊘</string>
+			<key>Name</key>
+			<string>CIRCLED DIVISION SLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊙</string>
+			<key>Name</key>
+			<string>CIRCLED DOT OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊚</string>
+			<key>Name</key>
+			<string>CIRCLED RING OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊛</string>
+			<key>Name</key>
+			<string>CIRCLED ASTERISK OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊜</string>
+			<key>Name</key>
+			<string>CIRCLED EQUALS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊝</string>
+			<key>Name</key>
+			<string>CIRCLED DASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊞</string>
+			<key>Name</key>
+			<string>SQUARED PLUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊟</string>
+			<key>Name</key>
+			<string>SQUARED MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊠</string>
+			<key>Name</key>
+			<string>SQUARED TIMES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊡</string>
+			<key>Name</key>
+			<string>SQUARED DOT OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊢</string>
+			<key>Name</key>
+			<string>RIGHT TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊣</string>
+			<key>Name</key>
+			<string>LEFT TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊤</string>
+			<key>Name</key>
+			<string>DOWN TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊥</string>
+			<key>Name</key>
+			<string>UP TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊦</string>
+			<key>Name</key>
+			<string>ASSERTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊧</string>
+			<key>Name</key>
+			<string>MODELS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊨</string>
+			<key>Name</key>
+			<string>TRUE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊩</string>
+			<key>Name</key>
+			<string>FORCES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊪</string>
+			<key>Name</key>
+			<string>TRIPLE VERTICAL BAR RIGHT TURNSTILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊫</string>
+			<key>Name</key>
+			<string>DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊬</string>
+			<key>Name</key>
+			<string>DOES NOT PROVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊭</string>
+			<key>Name</key>
+			<string>NOT TRUE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊮</string>
+			<key>Name</key>
+			<string>DOES NOT FORCE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊯</string>
+			<key>Name</key>
+			<string>NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊰</string>
+			<key>Name</key>
+			<string>PRECEDES UNDER RELATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊱</string>
+			<key>Name</key>
+			<string>SUCCEEDS UNDER RELATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊲</string>
+			<key>Name</key>
+			<string>NORMAL SUBGROUP OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊳</string>
+			<key>Name</key>
+			<string>CONTAINS AS NORMAL SUBGROUP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊴</string>
+			<key>Name</key>
+			<string>NORMAL SUBGROUP OF OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊵</string>
+			<key>Name</key>
+			<string>CONTAINS AS NORMAL SUBGROUP OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊶</string>
+			<key>Name</key>
+			<string>ORIGINAL OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊷</string>
+			<key>Name</key>
+			<string>IMAGE OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊸</string>
+			<key>Name</key>
+			<string>MULTIMAP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊹</string>
+			<key>Name</key>
+			<string>HERMITIAN CONJUGATE MATRIX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊺</string>
+			<key>Name</key>
+			<string>INTERCALATE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊻</string>
+			<key>Name</key>
+			<string>XOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊼</string>
+			<key>Name</key>
+			<string>NAND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊽</string>
+			<key>Name</key>
+			<string>NOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊾</string>
+			<key>Name</key>
+			<string>RIGHT ANGLE WITH ARC</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⊿</string>
+			<key>Name</key>
+			<string>RIGHT TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋀</string>
+			<key>Name</key>
+			<string>N-ARY LOGICAL AND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋁</string>
+			<key>Name</key>
+			<string>N-ARY LOGICAL OR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋂</string>
+			<key>Name</key>
+			<string>N-ARY INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋃</string>
+			<key>Name</key>
+			<string>N-ARY UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋄</string>
+			<key>Name</key>
+			<string>DIAMOND OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋅</string>
+			<key>Name</key>
+			<string>DOT OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋆</string>
+			<key>Name</key>
+			<string>STAR OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋇</string>
+			<key>Name</key>
+			<string>DIVISION TIMES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋈</string>
+			<key>Name</key>
+			<string>BOWTIE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋉</string>
+			<key>Name</key>
+			<string>LEFT NORMAL FACTOR SEMIDIRECT PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋊</string>
+			<key>Name</key>
+			<string>RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋋</string>
+			<key>Name</key>
+			<string>LEFT SEMIDIRECT PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋌</string>
+			<key>Name</key>
+			<string>RIGHT SEMIDIRECT PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋍</string>
+			<key>Name</key>
+			<string>REVERSED TILDE EQUALS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋎</string>
+			<key>Name</key>
+			<string>CURLY LOGICAL OR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋏</string>
+			<key>Name</key>
+			<string>CURLY LOGICAL AND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋐</string>
+			<key>Name</key>
+			<string>DOUBLE SUBSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋑</string>
+			<key>Name</key>
+			<string>DOUBLE SUPERSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋒</string>
+			<key>Name</key>
+			<string>DOUBLE INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋓</string>
+			<key>Name</key>
+			<string>DOUBLE UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋔</string>
+			<key>Name</key>
+			<string>PITCHFORK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋕</string>
+			<key>Name</key>
+			<string>EQUAL AND PARALLEL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋖</string>
+			<key>Name</key>
+			<string>LESS-THAN WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋗</string>
+			<key>Name</key>
+			<string>GREATER-THAN WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋘</string>
+			<key>Name</key>
+			<string>VERY MUCH LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋙</string>
+			<key>Name</key>
+			<string>VERY MUCH GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋚</string>
+			<key>Name</key>
+			<string>LESS-THAN EQUAL TO OR GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋛</string>
+			<key>Name</key>
+			<string>GREATER-THAN EQUAL TO OR LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋜</string>
+			<key>Name</key>
+			<string>EQUAL TO OR LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋝</string>
+			<key>Name</key>
+			<string>EQUAL TO OR GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋞</string>
+			<key>Name</key>
+			<string>EQUAL TO OR PRECEDES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋟</string>
+			<key>Name</key>
+			<string>EQUAL TO OR SUCCEEDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋠</string>
+			<key>Name</key>
+			<string>DOES NOT PRECEDE OR EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋡</string>
+			<key>Name</key>
+			<string>DOES NOT SUCCEED OR EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋢</string>
+			<key>Name</key>
+			<string>NOT SQUARE IMAGE OF OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋣</string>
+			<key>Name</key>
+			<string>NOT SQUARE ORIGINAL OF OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋤</string>
+			<key>Name</key>
+			<string>SQUARE IMAGE OF OR NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋥</string>
+			<key>Name</key>
+			<string>SQUARE ORIGINAL OF OR NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋦</string>
+			<key>Name</key>
+			<string>LESS-THAN BUT NOT EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋧</string>
+			<key>Name</key>
+			<string>GREATER-THAN BUT NOT EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋨</string>
+			<key>Name</key>
+			<string>PRECEDES BUT NOT EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋩</string>
+			<key>Name</key>
+			<string>SUCCEEDS BUT NOT EQUIVALENT TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋪</string>
+			<key>Name</key>
+			<string>NOT NORMAL SUBGROUP OF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋫</string>
+			<key>Name</key>
+			<string>DOES NOT CONTAIN AS NORMAL SUBGROUP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋬</string>
+			<key>Name</key>
+			<string>NOT NORMAL SUBGROUP OF OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋭</string>
+			<key>Name</key>
+			<string>DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋮</string>
+			<key>Name</key>
+			<string>VERTICAL ELLIPSIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋯</string>
+			<key>Name</key>
+			<string>MIDLINE HORIZONTAL ELLIPSIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋰</string>
+			<key>Name</key>
+			<string>UP RIGHT DIAGONAL ELLIPSIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋱</string>
+			<key>Name</key>
+			<string>DOWN RIGHT DIAGONAL ELLIPSIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋲</string>
+			<key>Name</key>
+			<string>ELEMENT OF WITH LONG HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋳</string>
+			<key>Name</key>
+			<string>ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋴</string>
+			<key>Name</key>
+			<string>SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋵</string>
+			<key>Name</key>
+			<string>ELEMENT OF WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋶</string>
+			<key>Name</key>
+			<string>ELEMENT OF WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋷</string>
+			<key>Name</key>
+			<string>SMALL ELEMENT OF WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋸</string>
+			<key>Name</key>
+			<string>ELEMENT OF WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋹</string>
+			<key>Name</key>
+			<string>ELEMENT OF WITH TWO HORIZONTAL STROKES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋺</string>
+			<key>Name</key>
+			<string>CONTAINS WITH LONG HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋻</string>
+			<key>Name</key>
+			<string>CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋼</string>
+			<key>Name</key>
+			<string>SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋽</string>
+			<key>Name</key>
+			<string>CONTAINS WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋾</string>
+			<key>Name</key>
+			<string>SMALL CONTAINS WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⋿</string>
+			<key>Name</key>
+			<string>Z NOTATION BAG MEMBERSHIP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨀</string>
+			<key>Name</key>
+			<string>N-ARY CIRCLED DOT OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨁</string>
+			<key>Name</key>
+			<string>N-ARY CIRCLED PLUS OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨂</string>
+			<key>Name</key>
+			<string>N-ARY CIRCLED TIMES OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨃</string>
+			<key>Name</key>
+			<string>N-ARY UNION OPERATOR WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨄</string>
+			<key>Name</key>
+			<string>N-ARY UNION OPERATOR WITH PLUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨅</string>
+			<key>Name</key>
+			<string>N-ARY SQUARE INTERSECTION OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨆</string>
+			<key>Name</key>
+			<string>N-ARY SQUARE UNION OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨇</string>
+			<key>Name</key>
+			<string>TWO LOGICAL AND OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨈</string>
+			<key>Name</key>
+			<string>TWO LOGICAL OR OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨉</string>
+			<key>Name</key>
+			<string>N-ARY TIMES OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨠</string>
+			<key>Name</key>
+			<string>Z NOTATION SCHEMA PIPING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨡</string>
+			<key>Name</key>
+			<string>Z NOTATION SCHEMA PROJECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨢</string>
+			<key>Name</key>
+			<string>PLUS SIGN WITH SMALL CIRCLE ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨣</string>
+			<key>Name</key>
+			<string>PLUS SIGN WITH CIRCUMFLEX ACCENT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨤</string>
+			<key>Name</key>
+			<string>PLUS SIGN WITH TILDE ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨥</string>
+			<key>Name</key>
+			<string>PLUS SIGN WITH DOT BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨦</string>
+			<key>Name</key>
+			<string>PLUS SIGN WITH TILDE BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨧</string>
+			<key>Name</key>
+			<string>PLUS SIGN WITH SUBSCRIPT TWO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨨</string>
+			<key>Name</key>
+			<string>PLUS SIGN WITH BLACK TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨩</string>
+			<key>Name</key>
+			<string>MINUS SIGN WITH COMMA ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨪</string>
+			<key>Name</key>
+			<string>MINUS SIGN WITH DOT BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨫</string>
+			<key>Name</key>
+			<string>MINUS SIGN WITH FALLING DOTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨬</string>
+			<key>Name</key>
+			<string>MINUS SIGN WITH RISING DOTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨭</string>
+			<key>Name</key>
+			<string>PLUS SIGN IN LEFT HALF CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨮</string>
+			<key>Name</key>
+			<string>PLUS SIGN IN RIGHT HALF CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨯</string>
+			<key>Name</key>
+			<string>VECTOR OR CROSS PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨰</string>
+			<key>Name</key>
+			<string>MULTIPLICATION SIGN WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨱</string>
+			<key>Name</key>
+			<string>MULTIPLICATION SIGN WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨲</string>
+			<key>Name</key>
+			<string>SEMIDIRECT PRODUCT WITH BOTTOM CLOSED</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨳</string>
+			<key>Name</key>
+			<string>SMASH PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨴</string>
+			<key>Name</key>
+			<string>MULTIPLICATION SIGN IN LEFT HALF CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨵</string>
+			<key>Name</key>
+			<string>MULTIPLICATION SIGN IN RIGHT HALF CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨶</string>
+			<key>Name</key>
+			<string>CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨷</string>
+			<key>Name</key>
+			<string>MULTIPLICATION SIGN IN DOUBLE CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨸</string>
+			<key>Name</key>
+			<string>CIRCLED DIVISION SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨹</string>
+			<key>Name</key>
+			<string>PLUS SIGN IN TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨺</string>
+			<key>Name</key>
+			<string>MINUS SIGN IN TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨻</string>
+			<key>Name</key>
+			<string>MULTIPLICATION SIGN IN TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨼</string>
+			<key>Name</key>
+			<string>INTERIOR PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨽</string>
+			<key>Name</key>
+			<string>RIGHTHAND INTERIOR PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨾</string>
+			<key>Name</key>
+			<string>Z NOTATION RELATIONAL COMPOSITION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⨿</string>
+			<key>Name</key>
+			<string>AMALGAMATION OR COPRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩀</string>
+			<key>Name</key>
+			<string>INTERSECTION WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩁</string>
+			<key>Name</key>
+			<string>UNION WITH MINUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩂</string>
+			<key>Name</key>
+			<string>UNION WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩃</string>
+			<key>Name</key>
+			<string>INTERSECTION WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩄</string>
+			<key>Name</key>
+			<string>INTERSECTION WITH LOGICAL AND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩅</string>
+			<key>Name</key>
+			<string>UNION WITH LOGICAL OR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩆</string>
+			<key>Name</key>
+			<string>UNION ABOVE INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩇</string>
+			<key>Name</key>
+			<string>INTERSECTION ABOVE UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩈</string>
+			<key>Name</key>
+			<string>UNION ABOVE BAR ABOVE INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩉</string>
+			<key>Name</key>
+			<string>INTERSECTION ABOVE BAR ABOVE UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩊</string>
+			<key>Name</key>
+			<string>UNION BESIDE AND JOINED WITH UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩋</string>
+			<key>Name</key>
+			<string>INTERSECTION BESIDE AND JOINED WITH INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩌</string>
+			<key>Name</key>
+			<string>CLOSED UNION WITH SERIFS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩍</string>
+			<key>Name</key>
+			<string>CLOSED INTERSECTION WITH SERIFS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩎</string>
+			<key>Name</key>
+			<string>DOUBLE SQUARE INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩏</string>
+			<key>Name</key>
+			<string>DOUBLE SQUARE UNION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩐</string>
+			<key>Name</key>
+			<string>CLOSED UNION WITH SERIFS AND SMASH PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩑</string>
+			<key>Name</key>
+			<string>LOGICAL AND WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩒</string>
+			<key>Name</key>
+			<string>LOGICAL OR WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩓</string>
+			<key>Name</key>
+			<string>DOUBLE LOGICAL AND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩔</string>
+			<key>Name</key>
+			<string>DOUBLE LOGICAL OR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩕</string>
+			<key>Name</key>
+			<string>TWO INTERSECTING LOGICAL AND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩖</string>
+			<key>Name</key>
+			<string>TWO INTERSECTING LOGICAL OR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩗</string>
+			<key>Name</key>
+			<string>SLOPING LARGE OR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩘</string>
+			<key>Name</key>
+			<string>SLOPING LARGE AND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩙</string>
+			<key>Name</key>
+			<string>LOGICAL OR OVERLAPPING LOGICAL AND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩚</string>
+			<key>Name</key>
+			<string>LOGICAL AND WITH MIDDLE STEM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩛</string>
+			<key>Name</key>
+			<string>LOGICAL OR WITH MIDDLE STEM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩜</string>
+			<key>Name</key>
+			<string>LOGICAL AND WITH HORIZONTAL DASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩝</string>
+			<key>Name</key>
+			<string>LOGICAL OR WITH HORIZONTAL DASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩞</string>
+			<key>Name</key>
+			<string>LOGICAL AND WITH DOUBLE OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩟</string>
+			<key>Name</key>
+			<string>LOGICAL AND WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩠</string>
+			<key>Name</key>
+			<string>LOGICAL AND WITH DOUBLE UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩡</string>
+			<key>Name</key>
+			<string>SMALL VEE WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩢</string>
+			<key>Name</key>
+			<string>LOGICAL OR WITH DOUBLE OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩣</string>
+			<key>Name</key>
+			<string>LOGICAL OR WITH DOUBLE UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩤</string>
+			<key>Name</key>
+			<string>Z NOTATION DOMAIN ANTIRESTRICTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩥</string>
+			<key>Name</key>
+			<string>Z NOTATION RANGE ANTIRESTRICTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩦</string>
+			<key>Name</key>
+			<string>EQUALS SIGN WITH DOT BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩧</string>
+			<key>Name</key>
+			<string>IDENTICAL WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩨</string>
+			<key>Name</key>
+			<string>TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩩</string>
+			<key>Name</key>
+			<string>TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩪</string>
+			<key>Name</key>
+			<string>TILDE OPERATOR WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩫</string>
+			<key>Name</key>
+			<string>TILDE OPERATOR WITH RISING DOTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩬</string>
+			<key>Name</key>
+			<string>SIMILAR MINUS SIMILAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩭</string>
+			<key>Name</key>
+			<string>CONGRUENT WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩮</string>
+			<key>Name</key>
+			<string>EQUALS WITH ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩯</string>
+			<key>Name</key>
+			<string>ALMOST EQUAL TO WITH CIRCUMFLEX ACCENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩰</string>
+			<key>Name</key>
+			<string>APPROXIMATELY EQUAL OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩱</string>
+			<key>Name</key>
+			<string>EQUALS SIGN ABOVE PLUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩲</string>
+			<key>Name</key>
+			<string>PLUS SIGN ABOVE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩳</string>
+			<key>Name</key>
+			<string>EQUALS SIGN ABOVE TILDE OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩴</string>
+			<key>Name</key>
+			<string>DOUBLE COLON EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩵</string>
+			<key>Name</key>
+			<string>TWO CONSECUTIVE EQUALS SIGNS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩶</string>
+			<key>Name</key>
+			<string>THREE CONSECUTIVE EQUALS SIGNS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩷</string>
+			<key>Name</key>
+			<string>EQUALS SIGN WITH TWO DOTS ABOVE AND TWO DOTS BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩸</string>
+			<key>Name</key>
+			<string>EQUIVALENT WITH FOUR DOTS ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩹</string>
+			<key>Name</key>
+			<string>LESS-THAN WITH CIRCLE INSIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩺</string>
+			<key>Name</key>
+			<string>GREATER-THAN WITH CIRCLE INSIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩻</string>
+			<key>Name</key>
+			<string>LESS-THAN WITH QUESTION MARK ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩼</string>
+			<key>Name</key>
+			<string>GREATER-THAN WITH QUESTION MARK ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩽</string>
+			<key>Name</key>
+			<string>LESS-THAN OR SLANTED EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩾</string>
+			<key>Name</key>
+			<string>GREATER-THAN OR SLANTED EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⩿</string>
+			<key>Name</key>
+			<string>LESS-THAN OR SLANTED EQUAL TO WITH DOT INSIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪀</string>
+			<key>Name</key>
+			<string>GREATER-THAN OR SLANTED EQUAL TO WITH DOT INSIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪁</string>
+			<key>Name</key>
+			<string>LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪂</string>
+			<key>Name</key>
+			<string>GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪃</string>
+			<key>Name</key>
+			<string>LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪄</string>
+			<key>Name</key>
+			<string>GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪅</string>
+			<key>Name</key>
+			<string>LESS-THAN OR APPROXIMATE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪆</string>
+			<key>Name</key>
+			<string>GREATER-THAN OR APPROXIMATE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪇</string>
+			<key>Name</key>
+			<string>LESS-THAN AND SINGLE-LINE NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪈</string>
+			<key>Name</key>
+			<string>GREATER-THAN AND SINGLE-LINE NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪉</string>
+			<key>Name</key>
+			<string>LESS-THAN AND NOT APPROXIMATE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪊</string>
+			<key>Name</key>
+			<string>GREATER-THAN AND NOT APPROXIMATE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪋</string>
+			<key>Name</key>
+			<string>LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪌</string>
+			<key>Name</key>
+			<string>GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪍</string>
+			<key>Name</key>
+			<string>LESS-THAN ABOVE SIMILAR OR EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪎</string>
+			<key>Name</key>
+			<string>GREATER-THAN ABOVE SIMILAR OR EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪏</string>
+			<key>Name</key>
+			<string>LESS-THAN ABOVE SIMILAR ABOVE GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪐</string>
+			<key>Name</key>
+			<string>GREATER-THAN ABOVE SIMILAR ABOVE LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪑</string>
+			<key>Name</key>
+			<string>LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪒</string>
+			<key>Name</key>
+			<string>GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪓</string>
+			<key>Name</key>
+			<string>LESS-THAN ABOVE SLANTED EQUAL ABOVE GREATER-THAN ABOVE SLANTED EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪔</string>
+			<key>Name</key>
+			<string>GREATER-THAN ABOVE SLANTED EQUAL ABOVE LESS-THAN ABOVE SLANTED EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪕</string>
+			<key>Name</key>
+			<string>SLANTED EQUAL TO OR LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪖</string>
+			<key>Name</key>
+			<string>SLANTED EQUAL TO OR GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪗</string>
+			<key>Name</key>
+			<string>SLANTED EQUAL TO OR LESS-THAN WITH DOT INSIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪘</string>
+			<key>Name</key>
+			<string>SLANTED EQUAL TO OR GREATER-THAN WITH DOT INSIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪙</string>
+			<key>Name</key>
+			<string>DOUBLE-LINE EQUAL TO OR LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪚</string>
+			<key>Name</key>
+			<string>DOUBLE-LINE EQUAL TO OR GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪛</string>
+			<key>Name</key>
+			<string>DOUBLE-LINE SLANTED EQUAL TO OR LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪜</string>
+			<key>Name</key>
+			<string>DOUBLE-LINE SLANTED EQUAL TO OR GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪝</string>
+			<key>Name</key>
+			<string>SIMILAR OR LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪞</string>
+			<key>Name</key>
+			<string>SIMILAR OR GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪟</string>
+			<key>Name</key>
+			<string>SIMILAR ABOVE LESS-THAN ABOVE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪠</string>
+			<key>Name</key>
+			<string>SIMILAR ABOVE GREATER-THAN ABOVE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪡</string>
+			<key>Name</key>
+			<string>DOUBLE NESTED LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪣</string>
+			<key>Name</key>
+			<string>DOUBLE NESTED LESS-THAN WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪤</string>
+			<key>Name</key>
+			<string>GREATER-THAN OVERLAPPING LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪥</string>
+			<key>Name</key>
+			<string>GREATER-THAN BESIDE LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪦</string>
+			<key>Name</key>
+			<string>LESS-THAN CLOSED BY CURVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪧</string>
+			<key>Name</key>
+			<string>GREATER-THAN CLOSED BY CURVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪨</string>
+			<key>Name</key>
+			<string>LESS-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪩</string>
+			<key>Name</key>
+			<string>GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪪</string>
+			<key>Name</key>
+			<string>SMALLER THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪫</string>
+			<key>Name</key>
+			<string>LARGER THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪬</string>
+			<key>Name</key>
+			<string>SMALLER THAN OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪭</string>
+			<key>Name</key>
+			<string>LARGER THAN OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪮</string>
+			<key>Name</key>
+			<string>EQUALS SIGN WITH BUMPY ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪯</string>
+			<key>Name</key>
+			<string>PRECEDES ABOVE SINGLE-LINE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪰</string>
+			<key>Name</key>
+			<string>SUCCEEDS ABOVE SINGLE-LINE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪱</string>
+			<key>Name</key>
+			<string>PRECEDES ABOVE SINGLE-LINE NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪲</string>
+			<key>Name</key>
+			<string>SUCCEEDS ABOVE SINGLE-LINE NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪳</string>
+			<key>Name</key>
+			<string>PRECEDES ABOVE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪴</string>
+			<key>Name</key>
+			<string>SUCCEEDS ABOVE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪵</string>
+			<key>Name</key>
+			<string>PRECEDES ABOVE NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪶</string>
+			<key>Name</key>
+			<string>SUCCEEDS ABOVE NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪷</string>
+			<key>Name</key>
+			<string>PRECEDES ABOVE ALMOST EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪸</string>
+			<key>Name</key>
+			<string>SUCCEEDS ABOVE ALMOST EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪹</string>
+			<key>Name</key>
+			<string>PRECEDES ABOVE NOT ALMOST EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪺</string>
+			<key>Name</key>
+			<string>SUCCEEDS ABOVE NOT ALMOST EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪻</string>
+			<key>Name</key>
+			<string>DOUBLE PRECEDES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪼</string>
+			<key>Name</key>
+			<string>DOUBLE SUCCEEDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪽</string>
+			<key>Name</key>
+			<string>SUBSET WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪾</string>
+			<key>Name</key>
+			<string>SUPERSET WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⪿</string>
+			<key>Name</key>
+			<string>SUBSET WITH PLUS SIGN BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫀</string>
+			<key>Name</key>
+			<string>SUPERSET WITH PLUS SIGN BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫁</string>
+			<key>Name</key>
+			<string>SUBSET WITH MULTIPLICATION SIGN BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫂</string>
+			<key>Name</key>
+			<string>SUPERSET WITH MULTIPLICATION SIGN BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫃</string>
+			<key>Name</key>
+			<string>SUBSET OF OR EQUAL TO WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫄</string>
+			<key>Name</key>
+			<string>SUPERSET OF OR EQUAL TO WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫅</string>
+			<key>Name</key>
+			<string>SUBSET OF ABOVE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫆</string>
+			<key>Name</key>
+			<string>SUPERSET OF ABOVE EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫇</string>
+			<key>Name</key>
+			<string>SUBSET OF ABOVE TILDE OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫈</string>
+			<key>Name</key>
+			<string>SUPERSET OF ABOVE TILDE OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫉</string>
+			<key>Name</key>
+			<string>SUBSET OF ABOVE ALMOST EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫊</string>
+			<key>Name</key>
+			<string>SUPERSET OF ABOVE ALMOST EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫋</string>
+			<key>Name</key>
+			<string>SUBSET OF ABOVE NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫌</string>
+			<key>Name</key>
+			<string>SUPERSET OF ABOVE NOT EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫍</string>
+			<key>Name</key>
+			<string>SQUARE LEFT OPEN BOX OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫎</string>
+			<key>Name</key>
+			<string>SQUARE RIGHT OPEN BOX OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫏</string>
+			<key>Name</key>
+			<string>CLOSED SUBSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫐</string>
+			<key>Name</key>
+			<string>CLOSED SUPERSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫑</string>
+			<key>Name</key>
+			<string>CLOSED SUBSET OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫒</string>
+			<key>Name</key>
+			<string>CLOSED SUPERSET OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫓</string>
+			<key>Name</key>
+			<string>SUBSET ABOVE SUPERSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫔</string>
+			<key>Name</key>
+			<string>SUPERSET ABOVE SUBSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫕</string>
+			<key>Name</key>
+			<string>SUBSET ABOVE SUBSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫖</string>
+			<key>Name</key>
+			<string>SUPERSET ABOVE SUPERSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫗</string>
+			<key>Name</key>
+			<string>SUPERSET BESIDE SUBSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫘</string>
+			<key>Name</key>
+			<string>SUPERSET BESIDE AND JOINED BY DASH WITH SUBSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫙</string>
+			<key>Name</key>
+			<string>ELEMENT OF OPENING DOWNWARDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫚</string>
+			<key>Name</key>
+			<string>PITCHFORK WITH TEE TOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫛</string>
+			<key>Name</key>
+			<string>TRANSVERSAL INTERSECTION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫝̸</string>
+			<key>Name</key>
+			<string>NONFORKING WITH SLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫝</string>
+			<key>Name</key>
+			<string>NONFORKING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫞</string>
+			<key>Name</key>
+			<string>SHORT LEFT TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫟</string>
+			<key>Name</key>
+			<string>SHORT DOWN TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫠</string>
+			<key>Name</key>
+			<string>SHORT UP TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫡</string>
+			<key>Name</key>
+			<string>PERPENDICULAR WITH S</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫢</string>
+			<key>Name</key>
+			<string>VERTICAL BAR TRIPLE RIGHT TURNSTILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫣</string>
+			<key>Name</key>
+			<string>DOUBLE VERTICAL BAR LEFT TURNSTILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫤</string>
+			<key>Name</key>
+			<string>VERTICAL BAR DOUBLE LEFT TURNSTILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫥</string>
+			<key>Name</key>
+			<string>DOUBLE VERTICAL BAR DOUBLE LEFT TURNSTILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫦</string>
+			<key>Name</key>
+			<string>LONG DASH FROM LEFT MEMBER OF DOUBLE VERTICAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫧</string>
+			<key>Name</key>
+			<string>SHORT DOWN TACK WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫨</string>
+			<key>Name</key>
+			<string>SHORT UP TACK WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫩</string>
+			<key>Name</key>
+			<string>SHORT UP TACK ABOVE SHORT DOWN TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫪</string>
+			<key>Name</key>
+			<string>DOUBLE DOWN TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫫</string>
+			<key>Name</key>
+			<string>DOUBLE UP TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫬</string>
+			<key>Name</key>
+			<string>DOUBLE STROKE NOT SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫭</string>
+			<key>Name</key>
+			<string>REVERSED DOUBLE STROKE NOT SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫮</string>
+			<key>Name</key>
+			<string>DOES NOT DIVIDE WITH REVERSED NEGATION SLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫯</string>
+			<key>Name</key>
+			<string>VERTICAL LINE WITH CIRCLE ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫰</string>
+			<key>Name</key>
+			<string>VERTICAL LINE WITH CIRCLE BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫱</string>
+			<key>Name</key>
+			<string>DOWN TACK WITH CIRCLE BELOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫲</string>
+			<key>Name</key>
+			<string>PARALLEL WITH HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫳</string>
+			<key>Name</key>
+			<string>PARALLEL WITH TILDE OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫴</string>
+			<key>Name</key>
+			<string>TRIPLE VERTICAL BAR BINARY RELATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫵</string>
+			<key>Name</key>
+			<string>TRIPLE VERTICAL BAR WITH HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫶</string>
+			<key>Name</key>
+			<string>TRIPLE COLON OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫷</string>
+			<key>Name</key>
+			<string>TRIPLE NESTED LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫸</string>
+			<key>Name</key>
+			<string>TRIPLE NESTED GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫹</string>
+			<key>Name</key>
+			<string>DOUBLE-LINE SLANTED LESS-THAN OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫺</string>
+			<key>Name</key>
+			<string>DOUBLE-LINE SLANTED GREATER-THAN OR EQUAL TO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫻</string>
+			<key>Name</key>
+			<string>TRIPLE SOLIDUS BINARY RELATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫼</string>
+			<key>Name</key>
+			<string>LARGE TRIPLE VERTICAL BAR OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫽</string>
+			<key>Name</key>
+			<string>DOUBLE SOLIDUS OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫾</string>
+			<key>Name</key>
+			<string>WHITE VERTICAL BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⫿</string>
+			<key>Name</key>
+			<string>N-ARY WHITE VERTICAL BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟐</string>
+			<key>Name</key>
+			<string>WHITE DIAMOND WITH CENTRED DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟑</string>
+			<key>Name</key>
+			<string>AND WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟒</string>
+			<key>Name</key>
+			<string>ELEMENT OF OPENING UPWARDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟓</string>
+			<key>Name</key>
+			<string>LOWER RIGHT CORNER WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟔</string>
+			<key>Name</key>
+			<string>UPPER LEFT CORNER WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟕</string>
+			<key>Name</key>
+			<string>LEFT OUTER JOIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟖</string>
+			<key>Name</key>
+			<string>RIGHT OUTER JOIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟗</string>
+			<key>Name</key>
+			<string>FULL OUTER JOIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟘</string>
+			<key>Name</key>
+			<string>LARGE UP TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟙</string>
+			<key>Name</key>
+			<string>LARGE DOWN TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟚</string>
+			<key>Name</key>
+			<string>LEFT AND RIGHT DOUBLE TURNSTILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟛</string>
+			<key>Name</key>
+			<string>LEFT AND RIGHT TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟜</string>
+			<key>Name</key>
+			<string>LEFT MULTIMAP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟝</string>
+			<key>Name</key>
+			<string>LONG RIGHT TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟞</string>
+			<key>Name</key>
+			<string>LONG LEFT TACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟟</string>
+			<key>Name</key>
+			<string>UP TACK WITH CIRCLE ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟠</string>
+			<key>Name</key>
+			<string>LOZENGE DIVIDED BY HORIZONTAL RULE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟡</string>
+			<key>Name</key>
+			<string>WHITE CONCAVE-SIDED DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟢</string>
+			<key>Name</key>
+			<string>WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟣</string>
+			<key>Name</key>
+			<string>WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟤</string>
+			<key>Name</key>
+			<string>WHITE SQUARE WITH LEFTWARDS TICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟥</string>
+			<key>Name</key>
+			<string>WHITE SQUARE WITH RIGHTWARDS TICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟦</string>
+			<key>Name</key>
+			<string>MATHEMATICAL LEFT WHITE SQUARE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟧</string>
+			<key>Name</key>
+			<string>MATHEMATICAL RIGHT WHITE SQUARE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟨</string>
+			<key>Name</key>
+			<string>MATHEMATICAL LEFT ANGLE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟩</string>
+			<key>Name</key>
+			<string>MATHEMATICAL RIGHT ANGLE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟪</string>
+			<key>Name</key>
+			<string>MATHEMATICAL LEFT DOUBLE ANGLE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⟫</string>
+			<key>Name</key>
+			<string>MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦀</string>
+			<key>Name</key>
+			<string>TRIPLE VERTICAL BAR DELIMITER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦁</string>
+			<key>Name</key>
+			<string>Z NOTATION SPOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦂</string>
+			<key>Name</key>
+			<string>Z NOTATION TYPE COLON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦃</string>
+			<key>Name</key>
+			<string>LEFT WHITE CURLY BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦄</string>
+			<key>Name</key>
+			<string>RIGHT WHITE CURLY BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦅</string>
+			<key>Name</key>
+			<string>LEFT WHITE PARENTHESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦆</string>
+			<key>Name</key>
+			<string>RIGHT WHITE PARENTHESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦇</string>
+			<key>Name</key>
+			<string>Z NOTATION LEFT IMAGE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦈</string>
+			<key>Name</key>
+			<string>Z NOTATION RIGHT IMAGE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦉</string>
+			<key>Name</key>
+			<string>Z NOTATION LEFT BINDING BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦊</string>
+			<key>Name</key>
+			<string>Z NOTATION RIGHT BINDING BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦋</string>
+			<key>Name</key>
+			<string>LEFT SQUARE BRACKET WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦌</string>
+			<key>Name</key>
+			<string>RIGHT SQUARE BRACKET WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦍</string>
+			<key>Name</key>
+			<string>LEFT SQUARE BRACKET WITH TICK IN TOP CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦎</string>
+			<key>Name</key>
+			<string>RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦏</string>
+			<key>Name</key>
+			<string>LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦐</string>
+			<key>Name</key>
+			<string>RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦑</string>
+			<key>Name</key>
+			<string>LEFT ANGLE BRACKET WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦒</string>
+			<key>Name</key>
+			<string>RIGHT ANGLE BRACKET WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦓</string>
+			<key>Name</key>
+			<string>LEFT ARC LESS-THAN BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦔</string>
+			<key>Name</key>
+			<string>RIGHT ARC GREATER-THAN BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦕</string>
+			<key>Name</key>
+			<string>DOUBLE LEFT ARC GREATER-THAN BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦖</string>
+			<key>Name</key>
+			<string>DOUBLE RIGHT ARC LESS-THAN BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦗</string>
+			<key>Name</key>
+			<string>LEFT BLACK TORTOISE SHELL BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦘</string>
+			<key>Name</key>
+			<string>RIGHT BLACK TORTOISE SHELL BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦙</string>
+			<key>Name</key>
+			<string>DOTTED FENCE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦚</string>
+			<key>Name</key>
+			<string>VERTICAL ZIGZAG LINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧘</string>
+			<key>Name</key>
+			<string>LEFT WIGGLY FENCE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧙</string>
+			<key>Name</key>
+			<string>RIGHT WIGGLY FENCE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧚</string>
+			<key>Name</key>
+			<string>LEFT DOUBLE WIGGLY FENCE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧛</string>
+			<key>Name</key>
+			<string>RIGHT DOUBLE WIGGLY FENCE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦛</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE OPENING LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦜</string>
+			<key>Name</key>
+			<string>RIGHT ANGLE VARIANT WITH SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦝</string>
+			<key>Name</key>
+			<string>MEASURED RIGHT ANGLE WITH DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦞</string>
+			<key>Name</key>
+			<string>ANGLE WITH S INSIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦟</string>
+			<key>Name</key>
+			<string>ACUTE ANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦠</string>
+			<key>Name</key>
+			<string>SPHERICAL ANGLE OPENING LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦡</string>
+			<key>Name</key>
+			<string>SPHERICAL ANGLE OPENING UP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦢</string>
+			<key>Name</key>
+			<string>TURNED ANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦣</string>
+			<key>Name</key>
+			<string>REVERSED ANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦤</string>
+			<key>Name</key>
+			<string>ANGLE WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦥</string>
+			<key>Name</key>
+			<string>REVERSED ANGLE WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦦</string>
+			<key>Name</key>
+			<string>OBLIQUE ANGLE OPENING UP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦧</string>
+			<key>Name</key>
+			<string>OBLIQUE ANGLE OPENING DOWN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦨</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦩</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦪</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦫</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦬</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦭</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦮</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦯</string>
+			<key>Name</key>
+			<string>MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦰</string>
+			<key>Name</key>
+			<string>REVERSED EMPTY SET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦱</string>
+			<key>Name</key>
+			<string>EMPTY SET WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦲</string>
+			<key>Name</key>
+			<string>EMPTY SET WITH SMALL CIRCLE ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦳</string>
+			<key>Name</key>
+			<string>EMPTY SET WITH RIGHT ARROW ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦴</string>
+			<key>Name</key>
+			<string>EMPTY SET WITH LEFT ARROW ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦵</string>
+			<key>Name</key>
+			<string>CIRCLE WITH HORIZONTAL BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦶</string>
+			<key>Name</key>
+			<string>CIRCLED VERTICAL BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦷</string>
+			<key>Name</key>
+			<string>CIRCLED PARALLEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦸</string>
+			<key>Name</key>
+			<string>CIRCLED REVERSE SOLIDUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦹</string>
+			<key>Name</key>
+			<string>CIRCLED PERPENDICULAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦺</string>
+			<key>Name</key>
+			<string>CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦻</string>
+			<key>Name</key>
+			<string>CIRCLE WITH SUPERIMPOSED X</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦼</string>
+			<key>Name</key>
+			<string>CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦽</string>
+			<key>Name</key>
+			<string>UP ARROW THROUGH CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦾</string>
+			<key>Name</key>
+			<string>CIRCLED WHITE BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⦿</string>
+			<key>Name</key>
+			<string>CIRCLED BULLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧀</string>
+			<key>Name</key>
+			<string>CIRCLED LESS-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧁</string>
+			<key>Name</key>
+			<string>CIRCLED GREATER-THAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧂</string>
+			<key>Name</key>
+			<string>CIRCLE WITH SMALL CIRCLE TO THE RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧃</string>
+			<key>Name</key>
+			<string>CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧄</string>
+			<key>Name</key>
+			<string>SQUARED RISING DIAGONAL SLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧅</string>
+			<key>Name</key>
+			<string>SQUARED FALLING DIAGONAL SLASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧆</string>
+			<key>Name</key>
+			<string>SQUARED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧇</string>
+			<key>Name</key>
+			<string>SQUARED SMALL CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧈</string>
+			<key>Name</key>
+			<string>SQUARED SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧉</string>
+			<key>Name</key>
+			<string>TWO JOINED SQUARES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧊</string>
+			<key>Name</key>
+			<string>TRIANGLE WITH DOT ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧋</string>
+			<key>Name</key>
+			<string>TRIANGLE WITH UNDERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧌</string>
+			<key>Name</key>
+			<string>S IN TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧍</string>
+			<key>Name</key>
+			<string>TRIANGLE WITH SERIFS AT BOTTOM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧎</string>
+			<key>Name</key>
+			<string>RIGHT TRIANGLE ABOVE LEFT TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧏</string>
+			<key>Name</key>
+			<string>LEFT TRIANGLE BESIDE VERTICAL BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧐</string>
+			<key>Name</key>
+			<string>VERTICAL BAR BESIDE RIGHT TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧑</string>
+			<key>Name</key>
+			<string>BOWTIE WITH LEFT HALF BLACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧒</string>
+			<key>Name</key>
+			<string>BOWTIE WITH RIGHT HALF BLACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧓</string>
+			<key>Name</key>
+			<string>BLACK BOWTIE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧔</string>
+			<key>Name</key>
+			<string>TIMES WITH LEFT HALF BLACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧕</string>
+			<key>Name</key>
+			<string>TIMES WITH RIGHT HALF BLACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧖</string>
+			<key>Name</key>
+			<string>WHITE HOURGLASS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧗</string>
+			<key>Name</key>
+			<string>BLACK HOURGLASS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧜</string>
+			<key>Name</key>
+			<string>INCOMPLETE INFINITY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧝</string>
+			<key>Name</key>
+			<string>TIE OVER INFINITY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧞</string>
+			<key>Name</key>
+			<string>INFINITY NEGATED WITH VERTICAL BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧟</string>
+			<key>Name</key>
+			<string>DOUBLE-ENDED MULTIMAP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧠</string>
+			<key>Name</key>
+			<string>SQUARE WITH CONTOURED OUTLINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧡</string>
+			<key>Name</key>
+			<string>INCREASES AS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧢</string>
+			<key>Name</key>
+			<string>SHUFFLE PRODUCT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧣</string>
+			<key>Name</key>
+			<string>EQUALS SIGN AND SLANTED PARALLEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧤</string>
+			<key>Name</key>
+			<string>EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧥</string>
+			<key>Name</key>
+			<string>IDENTICAL TO AND SLANTED PARALLEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧦</string>
+			<key>Name</key>
+			<string>GLEICH STARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧧</string>
+			<key>Name</key>
+			<string>THERMODYNAMIC</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧨</string>
+			<key>Name</key>
+			<string>DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧩</string>
+			<key>Name</key>
+			<string>DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧪</string>
+			<key>Name</key>
+			<string>BLACK DIAMOND WITH DOWN ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧫</string>
+			<key>Name</key>
+			<string>BLACK LOZENGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧬</string>
+			<key>Name</key>
+			<string>WHITE CIRCLE WITH DOWN ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧭</string>
+			<key>Name</key>
+			<string>BLACK CIRCLE WITH DOWN ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧮</string>
+			<key>Name</key>
+			<string>ERROR-BARRED WHITE SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧯</string>
+			<key>Name</key>
+			<string>ERROR-BARRED BLACK SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧰</string>
+			<key>Name</key>
+			<string>ERROR-BARRED WHITE DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧱</string>
+			<key>Name</key>
+			<string>ERROR-BARRED BLACK DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧲</string>
+			<key>Name</key>
+			<string>ERROR-BARRED WHITE CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧳</string>
+			<key>Name</key>
+			<string>ERROR-BARRED BLACK CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧴</string>
+			<key>Name</key>
+			<string>RULE-DELAYED</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧵</string>
+			<key>Name</key>
+			<string>REVERSE SOLIDUS OPERATOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧶</string>
+			<key>Name</key>
+			<string>SOLIDUS WITH OVERBAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧷</string>
+			<key>Name</key>
+			<string>REVERSE SOLIDUS WITH HORIZONTAL STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧸</string>
+			<key>Name</key>
+			<string>BIG SOLIDUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧹</string>
+			<key>Name</key>
+			<string>BIG REVERSE SOLIDUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧺</string>
+			<key>Name</key>
+			<string>DOUBLE PLUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧻</string>
+			<key>Name</key>
+			<string>TRIPLE PLUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧼</string>
+			<key>Name</key>
+			<string>LEFT-POINTING CURVED ANGLE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧽</string>
+			<key>Name</key>
+			<string>RIGHT-POINTING CURVED ANGLE BRACKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧾</string>
+			<key>Name</key>
+			<string>TINY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⧿</string>
+			<key>Name</key>
+			<string>MINY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁺</string>
+			<key>Name</key>
+			<string>SUPERSCRIPT PLUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁻</string>
+			<key>Name</key>
+			<string>SUPERSCRIPT MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁼</string>
+			<key>Name</key>
+			<string>SUPERSCRIPT EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁽</string>
+			<key>Name</key>
+			<string>SUPERSCRIPT LEFT PARENTHESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁾</string>
+			<key>Name</key>
+			<string>SUPERSCRIPT RIGHT PARENTHESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>ⁿ</string>
+			<key>Name</key>
+			<string>SUPERSCRIPT LATIN SMALL LETTER N</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>₊</string>
+			<key>Name</key>
+			<string>SUBSCRIPT PLUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>₋</string>
+			<key>Name</key>
+			<string>SUBSCRIPT MINUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>₌</string>
+			<key>Name</key>
+			<string>SUBSCRIPT EQUALS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>₍</string>
+			<key>Name</key>
+			<string>SUBSCRIPT LEFT PARENTHESIS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>₎</string>
+			<key>Name</key>
+			<string>SUBSCRIPT RIGHT PARENTHESIS</string>
+		</dict>
+	</array>
 </dict>
 </plist>

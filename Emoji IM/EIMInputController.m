@@ -236,6 +236,7 @@
 
 - (void)deleteBackward:(id)sender
 {
+  self.composedBuffer = nil;
   if(self.insertionIndex > 0 && self.insertionIndex <= self.originalBuffer.length) {
     self.insertionIndex--;
     [self.originalBuffer deleteCharactersInRange:NSMakeRange(self.insertionIndex, 1)];
@@ -248,6 +249,7 @@
 
 - (void)deleteForward:(id)sender
 {
+  self.composedBuffer = nil;
   if(self.insertionIndex < self.originalBuffer.length) {
     [self.originalBuffer deleteCharactersInRange:NSMakeRange(self.insertionIndex, 1)];
 
@@ -259,6 +261,7 @@
 
 - (void)deleteToEndOfParagraph:(id)sender
 {
+  self.composedBuffer = nil;
   [self.originalBuffer setString:[self.originalBuffer substringToIndex:self.insertionIndex]];
   self.insertionIndex = self.originalBuffer.length;
   [sender setMarkedText:[self.originalBuffer eim_attributedString] selectionRange:NSMakeRange(self.insertionIndex, 0) replacementRange:NSMakeRange(NSNotFound,NSNotFound)];
@@ -321,6 +324,7 @@
 
 - (void)transpose:(id)sender
 {
+  self.composedBuffer = nil;
   if(self.insertionIndex == 0) {
     return;
   }

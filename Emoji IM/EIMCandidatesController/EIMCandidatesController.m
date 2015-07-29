@@ -19,10 +19,13 @@ static NSString * const kCategoryCelebrationKey = @"Celebration";
 static NSString * const kCategoryActivityKey = @"Activity";
 static NSString * const kCategoryTravelAndPlacesKey = @"Travel & Places";
 static NSString * const kCategoryObjectsAndSymbolsKey = @"Objects & Symbols";
+static NSString * const kCategoryPictographsKey = @"Pictographs";
+static NSString * const kCategoryTechnicalSymbolsKey = @"Technical Symbols";
+static NSString * const kCategoryBulletsAndStarsKey = @"Bullets & Stars";
+static NSString * const kCategoryPunctuationKey = @"Punctuation";
+static NSString * const kCategoryMathSymbolsKey = @"Math Symbols";
 
 static const NSUInteger kNumberOfShowingCandidates = 5;
-static const CGFloat kHorizontalMarginFromScreenEdge = 5.0;
-static const CGFloat kVerticalMarginFromLine = 5.0;
 
 
 static EIMCandidatesController *candidatesController;
@@ -56,7 +59,13 @@ static EIMCandidatesController *candidatesController;
   EIMCandidatesViewController *viewController = panelController.candidatesViewController;
 
   NSRect lineHeightRectangle;
-  [inputClient attributesForCharacterIndex:0 lineHeightRectangle:&lineHeightRectangle];
+  NSDictionary *attributes = [inputClient attributesForCharacterIndex:0 lineHeightRectangle:&lineHeightRectangle];
+  BOOL isTextOrientationHorizontally = YES;
+  NSNumber *textOrientation = attributes[IMKTextOrientationName];
+  if(textOrientation) {
+    isTextOrientationHorizontally = [textOrientation boolValue];
+  }
+
   NSRect frame = panelController.window.frame;
   CGFloat rowHeight = viewController.tableView.rowHeight;
   CGFloat footerViewHeight = viewController.footerViewSize.height;
@@ -68,16 +77,37 @@ static EIMCandidatesController *candidatesController;
     frame.size.height = rowHeight * candidates.count + footerViewHeight;
   }
 
-  // 小数点以下を含む数値が入ると、CALayer の描画が乱れる？ ので丸める。
-  frame.origin.x = round(lineHeightRectangle.origin.x) - 10.0;
-  frame.origin.y = round(lineHeightRectangle.origin.y - frame.size.height - kVerticalMarginFromLine);
-
-  NSScreen *mainScreen = [NSScreen mainScreen];
-  if(NSMaxX(frame) > mainScreen.frame.size.width) {
-    frame.origin.x = round(mainScreen.frame.size.width - frame.size.width - kHorizontalMarginFromScreenEdge);
+  if(isTextOrientationHorizontally) {
+    frame.origin.x = lineHeightRectangle.origin.x - 5.0;
+    frame.origin.y = lineHeightRectangle.origin.y - frame.size.height - 5.0;
+    if(NSMaxX(frame) > [NSScreen mainScreen].frame.size.width) {
+      frame.origin.x = [NSScreen mainScreen].frame.size.width - frame.size.width - 5.0;
+    }
+    if(frame.origin.x < 0) {
+      frame.origin.x = 5.0;
+    }
+    if(frame.origin.y < 0) {
+      frame.origin.y = NSMaxY(lineHeightRectangle) + 5.0;
+    }
+    if(frame.origin.y < 0) {
+      frame.origin.y = 5.0;
+    }
   }
-  if(frame.origin.y < 0) {
-    frame.origin.y = round(NSMaxY(lineHeightRectangle) + kVerticalMarginFromLine);
+  else {
+    frame.origin.x = lineHeightRectangle.origin.x - frame.size.width - 5.0;
+    frame.origin.y = lineHeightRectangle.origin.y - frame.size.height;
+    if(NSMaxX(frame) > [NSScreen mainScreen].frame.size.width) {
+      frame.origin.x = [NSScreen mainScreen].frame.size.width - frame.size.width - 5.0;
+    }
+    if(frame.origin.x < 0) {
+      frame.origin.x = lineHeightRectangle.origin.x + lineHeightRectangle.size.width + 5.0;
+    }
+    if(frame.origin.x < 0) {
+      frame.origin.x = 5.0;
+    }
+    if(frame.origin.y < 0) {
+      frame.origin.y = 5.0;
+    }
   }
 
   [panelController.window setFrame:frame display:YES];
@@ -132,6 +162,11 @@ static EIMCandidatesController *candidatesController;
   [emojis addObjectsFromArray:candidatesController.emojiDictionary[kCategoryActivityKey]];
   [emojis addObjectsFromArray:candidatesController.emojiDictionary[kCategoryTravelAndPlacesKey]];
   [emojis addObjectsFromArray:candidatesController.emojiDictionary[kCategoryObjectsAndSymbolsKey]];
+  [emojis addObjectsFromArray:candidatesController.emojiDictionary[kCategoryPictographsKey]];
+  [emojis addObjectsFromArray:candidatesController.emojiDictionary[kCategoryTechnicalSymbolsKey]];
+  [emojis addObjectsFromArray:candidatesController.emojiDictionary[kCategoryBulletsAndStarsKey]];
+  [emojis addObjectsFromArray:candidatesController.emojiDictionary[kCategoryPunctuationKey]];
+  [emojis addObjectsFromArray:candidatesController.emojiDictionary[kCategoryMathSymbolsKey]];
   viewController.candidates = [emojis filteredArrayUsingPredicate:predicate];
 
   NSUInteger numberOfCandidates = viewController.candidates.count;
