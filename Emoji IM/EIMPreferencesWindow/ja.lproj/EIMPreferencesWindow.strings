@@ -1,0 +1,99 @@
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "2IJ-5b-B4m"; */
+"2IJ-5b-B4m.title" = "削除";
+
+/* Class = "NSViewController"; title = "Favorites"; ObjectID = "3AB-LK-yhH"; */
+"3AB-LK-yhH.title" = "お気に入り";
+
+/* Class = "NSMenuItem"; title = "👍"; ObjectID = "ANt-5S-iXS"; */
+"ANt-5S-iXS.title" = "👍";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Ayr-2D-ZA5"; */
+"Ayr-2D-ZA5.title" = "キャンセル";
+
+/* Class = "NSTableColumn"; headerCell.title = "Bundle Identifier"; ObjectID = "INZ-9X-xco"; */
+"INZ-9X-xco.headerCell.title" = "バンドル識別子";
+
+/* Class = "NSMenuItem"; title = "👍🏻"; ObjectID = "LOi-IT-Dkh"; */
+"LOi-IT-Dkh.title" = "👍🏻";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "NLU-va-o5Y"; */
+"NLU-va-o5Y.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "👍🏼"; ObjectID = "OVM-0c-vla"; */
+"OVM-0c-vla.title" = "👍🏼";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OiI-ML-bEM"; */
+"OiI-ML-bEM.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "👍🏾"; ObjectID = "QM0-9z-Z77"; */
+"QM0-9z-Z77.title" = "👍🏾";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "SPR-5L-wi7"; */
+"SPR-5L-wi7.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application Name"; ObjectID = "V3k-Ub-M7O"; */
+"V3k-Ub-M7O.headerCell.title" = "アプリケーション名";
+
+/* Class = "NSMenuItem"; title = "👍🏽"; ObjectID = "VPC-BM-gN2"; */
+"VPC-BM-gN2.title" = "👍🏽";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "WvV-tS-cwQ"; */
+"WvV-tS-cwQ.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "👍🏿"; ObjectID = "YAk-up-11z"; */
+"YAk-up-11z.title" = "👍🏿";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ZQM-A8-Cqt"; */
+"ZQM-A8-Cqt.title" = "Box";
+
+/* Class = "NSViewController"; title = "General"; ObjectID = "aqy-NT-u2j"; */
+"aqy-NT-u2j.title" = "一般";
+
+/* Class = "NSTableColumn"; headerCell.title = "Replace"; ObjectID = "bmz-ah-oVz"; */
+"bmz-ah-oVz.headerCell.title" = "入力";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "d4e-Qd-ZBY"; */
+"d4e-Qd-ZBY.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Replace:"; ObjectID = "imC-5u-QTH"; */
+"imC-5u-QTH.title" = "入力:";
+
+/* Class = "NSTextFieldCell"; title = "Skin Tone:"; ObjectID = "jPA-12-Ryz"; */
+"jPA-12-Ryz.title" = "スキントーン:";
+
+/* Class = "NSButtonCell"; title = "Caps Lock Mode"; ObjectID = "kbW-CM-tBW"; */
+"kbW-CM-tBW.title" = "Caps Lock モード";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lzw-o7-xfR"; */
+"lzw-o7-xfR.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "With:"; ObjectID = "mRK-kI-mY7"; */
+"mRK-kI-mY7.title" = "変換:";
+
+/* Class = "NSTextFieldCell"; title = "JIS Keyboard:"; ObjectID = "n6E-WH-2VP"; */
+"n6E-WH-2VP.title" = "JIS キーボード:";
+
+/* Class = "NSButtonCell"; title = "Ignore Eisu Key"; ObjectID = "qwc-hp-n90"; */
+"qwc-hp-n90.title" = "英数キーを無視する";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rTj-0I-MIi"; */
+"rTj-0I-MIi.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "uAS-4O-wog"; */
+"uAS-4O-wog.title" = "Table View Cell";
+
+/* Class = "NSViewController"; title = "Excluded Apps"; ObjectID = "w05-AX-6m3"; */
+"w05-AX-6m3.title" = "除外アプリケーション";
+
+/* Class = "NSTextFieldCell"; title = "Input Mode:"; ObjectID = "w68-7x-FEm"; */
+"w68-7x-FEm.title" = "入力モード:";
+
+/* Class = "NSTableColumn"; headerCell.title = "With"; ObjectID = "wlo-D9-EMn"; */
+"wlo-D9-EMn.headerCell.title" = "変換";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "yoA-JK-Ijm"; */
+"yoA-JK-Ijm.title" = "OK";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "ziJ-sa-DMW"; */
+"ziJ-sa-DMW.title" = "編集...";

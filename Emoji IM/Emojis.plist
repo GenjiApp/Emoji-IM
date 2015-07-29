@@ -1,0 +1,5853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>People</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>GRINNING FACE</string>
+			<key>Emoji</key>
+			<string>😀</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GRINNING FACE WITH SMILING EYES</string>
+			<key>Emoji</key>
+			<string>😁</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH TEARS OF JOY</string>
+			<key>Emoji</key>
+			<string>😂</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH OPEN MOUTH</string>
+			<key>Emoji</key>
+			<string>😃</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH OPEN MOUTH AND SMILING EYES</string>
+			<key>Emoji</key>
+			<string>😄</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH OPEN MOUTH AND COLD SWEAT</string>
+			<key>Emoji</key>
+			<string>😅</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES</string>
+			<key>Emoji</key>
+			<string>😆</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH HALO</string>
+			<key>Emoji</key>
+			<string>😇</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH HORNS</string>
+			<key>Emoji</key>
+			<string>😈</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>IMP</string>
+			<key>Emoji</key>
+			<string>👿</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WINKING FACE</string>
+			<key>Emoji</key>
+			<string>😉</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH SMILING EYES</string>
+			<key>Emoji</key>
+			<string>😊</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WHITE SMILING FACE</string>
+			<key>Emoji</key>
+			<string>☺️</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE SAVOURING DELICIOUS FOOD</string>
+			<key>Emoji</key>
+			<string>😋</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RELIEVED FACE</string>
+			<key>Emoji</key>
+			<string>😌</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH HEART-SHAPED EYES</string>
+			<key>Emoji</key>
+			<string>😍</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING FACE WITH SUNGLASSES</string>
+			<key>Emoji</key>
+			<string>😎</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMIRKING FACE</string>
+			<key>Emoji</key>
+			<string>😏</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NEUTRAL FACE</string>
+			<key>Emoji</key>
+			<string>😐</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>EXPRESSIONLESS FACE</string>
+			<key>Emoji</key>
+			<string>😑</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>UNAMUSED FACE</string>
+			<key>Emoji</key>
+			<string>😒</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH COLD SWEAT</string>
+			<key>Emoji</key>
+			<string>😓</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PENSIVE FACE</string>
+			<key>Emoji</key>
+			<string>😔</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CONFUSED FACE</string>
+			<key>Emoji</key>
+			<string>😕</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CONFOUNDED FACE</string>
+			<key>Emoji</key>
+			<string>😖</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KISSING FACE</string>
+			<key>Emoji</key>
+			<string>😗</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE THROWING A KISS</string>
+			<key>Emoji</key>
+			<string>😘</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KISSING FACE WITH SMILING EYES</string>
+			<key>Emoji</key>
+			<string>😙</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KISSING FACE WITH CLOSED EYES</string>
+			<key>Emoji</key>
+			<string>😚</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH STUCK-OUT TONGUE</string>
+			<key>Emoji</key>
+			<string>😛</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH STUCK-OUT TONGUE AND WINKING EYE</string>
+			<key>Emoji</key>
+			<string>😜</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES</string>
+			<key>Emoji</key>
+			<string>😝</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>DISAPPOINTED FACE</string>
+			<key>Emoji</key>
+			<string>😞</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WORRIED FACE</string>
+			<key>Emoji</key>
+			<string>😟</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ANGRY FACE</string>
+			<key>Emoji</key>
+			<string>😠</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>POUTING FACE</string>
+			<key>Emoji</key>
+			<string>😡</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CRYING FACE</string>
+			<key>Emoji</key>
+			<string>😢</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PERSEVERING FACE</string>
+			<key>Emoji</key>
+			<string>😣</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH LOOK OF TRIUMPH</string>
+			<key>Emoji</key>
+			<string>😤</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>DISAPPOINTED BUT RELIEVED FACE</string>
+			<key>Emoji</key>
+			<string>😥</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FROWNING FACE WITH OPEN MOUTH</string>
+			<key>Emoji</key>
+			<string>😦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ANGUISHED FACE</string>
+			<key>Emoji</key>
+			<string>😧</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FEARFUL FACE</string>
+			<key>Emoji</key>
+			<string>😨</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WEARY FACE</string>
+			<key>Emoji</key>
+			<string>😩</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SLEEPY FACE</string>
+			<key>Emoji</key>
+			<string>😪</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TIRED FACE</string>
+			<key>Emoji</key>
+			<string>😫</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GRIMACING FACE</string>
+			<key>Emoji</key>
+			<string>😬</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>LOUDLY CRYING FACE</string>
+			<key>Emoji</key>
+			<string>😭</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH OPEN MOUTH</string>
+			<key>Emoji</key>
+			<string>😮</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HUSHED FACE</string>
+			<key>Emoji</key>
+			<string>😯</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH OPEN MOUTH AND COLD SWEAT</string>
+			<key>Emoji</key>
+			<string>😰</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE SCREAMING IN FEAR</string>
+			<key>Emoji</key>
+			<string>😱</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ASTONISHED FACE</string>
+			<key>Emoji</key>
+			<string>😲</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FLUSHED FACE</string>
+			<key>Emoji</key>
+			<string>😳</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SLEEPING FACE</string>
+			<key>Emoji</key>
+			<string>😴</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>DIZZY FACE</string>
+			<key>Emoji</key>
+			<string>😵</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITHOUT MOUTH</string>
+			<key>Emoji</key>
+			<string>😶</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH MEDICAL MASK</string>
+			<key>Emoji</key>
+			<string>😷</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GRINNING CAT FACE WITH SMILING EYES</string>
+			<key>Emoji</key>
+			<string>😸</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CAT FACE WITH TEARS OF JOY</string>
+			<key>Emoji</key>
+			<string>😹</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING CAT FACE WITH OPEN MOUTH</string>
+			<key>Emoji</key>
+			<string>😺</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SMILING CAT FACE WITH HEART-SHAPED EYES</string>
+			<key>Emoji</key>
+			<string>😻</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CAT FACE WITH WRY SMILE</string>
+			<key>Emoji</key>
+			<string>😼</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KISSING CAT FACE WITH CLOSED EYES</string>
+			<key>Emoji</key>
+			<string>😽</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>POUTING CAT FACE</string>
+			<key>Emoji</key>
+			<string>😾</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CRYING CAT FACE</string>
+			<key>Emoji</key>
+			<string>😿</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WEARY CAT FACE</string>
+			<key>Emoji</key>
+			<string>🙀</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FOOTPRINTS</string>
+			<key>Emoji</key>
+			<string>👣</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BUST IN SILHOUETTE</string>
+			<key>Emoji</key>
+			<string>👤</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BUSTS IN SILHOUETTE</string>
+			<key>Emoji</key>
+			<string>👥</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BABY</string>
+			<key>Emoji</key>
+			<string>👶</string>
+			<key>Variants</key>
+			<array>
+				<string>👶🏻</string>
+				<string>👶🏼</string>
+				<string>👶🏽</string>
+				<string>👶🏾</string>
+				<string>👶🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BOY</string>
+			<key>Emoji</key>
+			<string>👦</string>
+			<key>Variants</key>
+			<array>
+				<string>👦🏻</string>
+				<string>👦🏼</string>
+				<string>👦🏽</string>
+				<string>👦🏾</string>
+				<string>👦🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GIRL</string>
+			<key>Emoji</key>
+			<string>👧</string>
+			<key>Variants</key>
+			<array>
+				<string>👧🏻</string>
+				<string>👧🏼</string>
+				<string>👧🏽</string>
+				<string>👧🏾</string>
+				<string>👧🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>MAN</string>
+			<key>Emoji</key>
+			<string>👨</string>
+			<key>Variants</key>
+			<array>
+				<string>👨🏻</string>
+				<string>👨🏼</string>
+				<string>👨🏽</string>
+				<string>👨🏾</string>
+				<string>👨🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WOMAN</string>
+			<key>Emoji</key>
+			<string>👩</string>
+			<key>Variants</key>
+			<array>
+				<string>👩🏻</string>
+				<string>👩🏼</string>
+				<string>👩🏽</string>
+				<string>👩🏾</string>
+				<string>👩🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, woman, boy)</string>
+			<key>Emoji</key>
+			<string>👪</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, woman, girl)</string>
+			<key>Emoji</key>
+			<string>👨‍👩‍👧</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, woman, girl, boy)</string>
+			<key>Emoji</key>
+			<string>👨‍👩‍👧‍👦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, woman, boy, boy)</string>
+			<key>Emoji</key>
+			<string>👨‍👩‍👦‍👦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, woman, girl, girl)</string>
+			<key>Emoji</key>
+			<string>👨‍👩‍👧‍👧</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (woman, woman, boy)</string>
+			<key>Emoji</key>
+			<string>👩‍👩‍👦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (woman, woman, girl)</string>
+			<key>Emoji</key>
+			<string>👩‍👩‍👧</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (woman, woman, girl, boy)</string>
+			<key>Emoji</key>
+			<string>👩‍👩‍👧‍👦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (woman, woman, boy, boy)</string>
+			<key>Emoji</key>
+			<string>👩‍👩‍👦‍👦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (woman, woman, girl, girl)</string>
+			<key>Emoji</key>
+			<string>👩‍👩‍👧‍👧</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, man, boy)</string>
+			<key>Emoji</key>
+			<string>👨‍👨‍👦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, man, girl)</string>
+			<key>Emoji</key>
+			<string>👨‍👨‍👧</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, man, girl, boy)</string>
+			<key>Emoji</key>
+			<string>👨‍👨‍👧‍👦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, man, boy, boy)</string>
+			<key>Emoji</key>
+			<string>👨‍👨‍👦‍👦</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FAMILY (man, man, girl, girl)</string>
+			<key>Emoji</key>
+			<string>👨‍👨‍👧‍👧</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>MAN AND WOMAN HOLDING HANDS</string>
+			<key>Emoji</key>
+			<string>👫</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TWO MEN HOLDING HANDS</string>
+			<key>Emoji</key>
+			<string>👬</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TWO WOMEN HOLDING HANDS</string>
+			<key>Emoji</key>
+			<string>👭</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WOMAN WITH BUNNY EARS</string>
+			<key>Emoji</key>
+			<string>👯</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BRIDE WITH VEIL</string>
+			<key>Emoji</key>
+			<string>👰</string>
+			<key>Variants</key>
+			<array>
+				<string>👰🏻</string>
+				<string>👰🏼</string>
+				<string>👰🏽</string>
+				<string>👰🏾</string>
+				<string>👰🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PERSON WITH BLOND HAIR</string>
+			<key>Emoji</key>
+			<string>👱</string>
+			<key>Variants</key>
+			<array>
+				<string>👱🏻</string>
+				<string>👱🏼</string>
+				<string>👱🏽</string>
+				<string>👱🏾</string>
+				<string>👱🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>MAN WITH GUA PI MAO</string>
+			<key>Emoji</key>
+			<string>👲</string>
+			<key>Variants</key>
+			<array>
+				<string>👲🏻</string>
+				<string>👲🏼</string>
+				<string>👲🏽</string>
+				<string>👲🏾</string>
+				<string>👲🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>MAN WITH TURBAN</string>
+			<key>Emoji</key>
+			<string>👳</string>
+			<key>Variants</key>
+			<array>
+				<string>👳🏻</string>
+				<string>👳🏼</string>
+				<string>👳🏽</string>
+				<string>👳🏾</string>
+				<string>👳🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>OLDER MAN</string>
+			<key>Emoji</key>
+			<string>👴</string>
+			<key>Variants</key>
+			<array>
+				<string>👴🏻</string>
+				<string>👴🏼</string>
+				<string>👴🏽</string>
+				<string>👴🏾</string>
+				<string>👴🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>OLDER WOMAN</string>
+			<key>Emoji</key>
+			<string>👵</string>
+			<key>Variants</key>
+			<array>
+				<string>👵🏻</string>
+				<string>👵🏼</string>
+				<string>👵🏽</string>
+				<string>👵🏾</string>
+				<string>👵🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>POLICE OFFICER</string>
+			<key>Emoji</key>
+			<string>👮</string>
+			<key>Variants</key>
+			<array>
+				<string>👮🏻</string>
+				<string>👮🏼</string>
+				<string>👮🏽</string>
+				<string>👮🏾</string>
+				<string>👮🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CONSTRUCTION WORKER</string>
+			<key>Emoji</key>
+			<string>👷</string>
+			<key>Variants</key>
+			<array>
+				<string>👷🏻</string>
+				<string>👷🏼</string>
+				<string>👷🏽</string>
+				<string>👷🏾</string>
+				<string>👷🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PRINCESS</string>
+			<key>Emoji</key>
+			<string>👸</string>
+			<key>Variants</key>
+			<array>
+				<string>👸🏻</string>
+				<string>👸🏼</string>
+				<string>👸🏽</string>
+				<string>👸🏾</string>
+				<string>👸🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GUARDSMAN</string>
+			<key>Emoji</key>
+			<string>💂</string>
+			<key>Variants</key>
+			<array>
+				<string>💂🏻</string>
+				<string>💂🏼</string>
+				<string>💂🏽</string>
+				<string>💂🏾</string>
+				<string>💂🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BABY ANGEL</string>
+			<key>Emoji</key>
+			<string>👼</string>
+			<key>Variants</key>
+			<array>
+				<string>👼🏻</string>
+				<string>👼🏼</string>
+				<string>👼🏽</string>
+				<string>👼🏾</string>
+				<string>👼🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FATHER CHRISTMAS</string>
+			<key>Emoji</key>
+			<string>🎅</string>
+			<key>Variants</key>
+			<array>
+				<string>🎅🏻</string>
+				<string>🎅🏼</string>
+				<string>🎅🏽</string>
+				<string>🎅🏾</string>
+				<string>🎅🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GHOST</string>
+			<key>Emoji</key>
+			<string>👻</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>JAPANESE OGRE</string>
+			<key>Emoji</key>
+			<string>👹</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>JAPANESE GOBLIN</string>
+			<key>Emoji</key>
+			<string>👺</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PILE OF POO</string>
+			<key>Emoji</key>
+			<string>💩</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SKULL</string>
+			<key>Emoji</key>
+			<string>💀</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>EXTRATERRESTRIAL ALIEN</string>
+			<key>Emoji</key>
+			<string>👽</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>ALIEN MONSTER</string>
+			<key>Emoji</key>
+			<string>👾</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PERSON BOWING DEEPLY</string>
+			<key>Emoji</key>
+			<string>🙇</string>
+			<key>Variants</key>
+			<array>
+				<string>🙇🏻</string>
+				<string>🙇🏼</string>
+				<string>🙇🏽</string>
+				<string>🙇🏾</string>
+				<string>🙇🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>INFORMATION DESK PERSON</string>
+			<key>Emoji</key>
+			<string>💁</string>
+			<key>Variants</key>
+			<array>
+				<string>💁🏻</string>
+				<string>💁🏼</string>
+				<string>💁🏽</string>
+				<string>💁🏾</string>
+				<string>💁🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH NO GOOD GESTURE</string>
+			<key>Emoji</key>
+			<string>🙅</string>
+			<key>Variants</key>
+			<array>
+				<string>🙅🏻</string>
+				<string>🙅🏼</string>
+				<string>🙅🏽</string>
+				<string>🙅🏾</string>
+				<string>🙅🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE WITH OK GESTURE</string>
+			<key>Emoji</key>
+			<string>🙆</string>
+			<key>Variants</key>
+			<array>
+				<string>🙆🏻</string>
+				<string>🙆🏼</string>
+				<string>🙆🏽</string>
+				<string>🙆🏾</string>
+				<string>🙆🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HAPPY PERSON RAISING ONE HAND</string>
+			<key>Emoji</key>
+			<string>🙋</string>
+			<key>Variants</key>
+			<array>
+				<string>🙋🏻</string>
+				<string>🙋🏼</string>
+				<string>🙋🏽</string>
+				<string>🙋🏾</string>
+				<string>🙋🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PERSON WITH POUTING FACE</string>
+			<key>Emoji</key>
+			<string>🙎</string>
+			<key>Variants</key>
+			<array>
+				<string>🙎🏻</string>
+				<string>🙎🏼</string>
+				<string>🙎🏽</string>
+				<string>🙎🏾</string>
+				<string>🙎🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PERSON FROWNING</string>
+			<key>Emoji</key>
+			<string>🙍</string>
+			<key>Variants</key>
+			<array>
+				<string>🙍🏻</string>
+				<string>🙍🏼</string>
+				<string>🙍🏽</string>
+				<string>🙍🏾</string>
+				<string>🙍🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FACE MASSAGE</string>
+			<key>Emoji</key>
+			<string>💆</string>
+			<key>Variants</key>
+			<array>
+				<string>💆🏻</string>
+				<string>💆🏼</string>
+				<string>💆🏽</string>
+				<string>💆🏾</string>
+				<string>💆🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HAIRCUT</string>
+			<key>Emoji</key>
+			<string>💇</string>
+			<key>Variants</key>
+			<array>
+				<string>💇🏻</string>
+				<string>💇🏼</string>
+				<string>💇🏽</string>
+				<string>💇🏾</string>
+				<string>💇🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>COUPLE WITH HEART (woman, man)</string>
+			<key>Emoji</key>
+			<string>💑</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>COUPLE WITH HEART (woman, woman)</string>
+			<key>Emoji</key>
+			<string>👩‍❤️‍👩</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>COUPLE WITH HEART (man, man)</string>
+			<key>Emoji</key>
+			<string>👨‍❤️‍👨</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KISS (woman, man)</string>
+			<key>Emoji</key>
+			<string>💏</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KISS (woman, woman)</string>
+			<key>Emoji</key>
+			<string>👩‍❤️‍💋‍👩</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KISS (man, man)</string>
+			<key>Emoji</key>
+			<string>👨‍❤️‍💋‍👨</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PERSON RAISING BOTH HANDS IN CELEBRATION</string>
+			<key>Emoji</key>
+			<string>🙌</string>
+			<key>Variants</key>
+			<array>
+				<string>🙌🏻</string>
+				<string>🙌🏼</string>
+				<string>🙌🏽</string>
+				<string>🙌🏾</string>
+				<string>🙌🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CLAPPING HANDS SIGN</string>
+			<key>Emoji</key>
+			<string>👏</string>
+			<key>Variants</key>
+			<array>
+				<string>👏🏻</string>
+				<string>👏🏼</string>
+				<string>👏🏽</string>
+				<string>👏🏾</string>
+				<string>👏🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>EAR</string>
+			<key>Emoji</key>
+			<string>👂</string>
+			<key>Variants</key>
+			<array>
+				<string>👂🏻</string>
+				<string>👂🏼</string>
+				<string>👂🏽</string>
+				<string>👂🏾</string>
+				<string>👂🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>EYES</string>
+			<key>Emoji</key>
+			<string>👀</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NOSE</string>
+			<key>Emoji</key>
+			<string>👃</string>
+			<key>Variants</key>
+			<array>
+				<string>👃🏻</string>
+				<string>👃🏼</string>
+				<string>👃🏽</string>
+				<string>👃🏾</string>
+				<string>👃🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>MOUTH</string>
+			<key>Emoji</key>
+			<string>👄</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>KISS MARK</string>
+			<key>Emoji</key>
+			<string>💋</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TONGUE</string>
+			<key>Emoji</key>
+			<string>👅</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>NAIL POLISH</string>
+			<key>Emoji</key>
+			<string>💅</string>
+			<key>Variants</key>
+			<array>
+				<string>💅🏻</string>
+				<string>💅🏼</string>
+				<string>💅🏽</string>
+				<string>💅🏾</string>
+				<string>💅🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WAVING HAND SIGN</string>
+			<key>Emoji</key>
+			<string>👋</string>
+			<key>Variants</key>
+			<array>
+				<string>👋🏻</string>
+				<string>👋🏼</string>
+				<string>👋🏽</string>
+				<string>👋🏾</string>
+				<string>👋🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>THUMBS UP SIGN</string>
+			<key>Emoji</key>
+			<string>👍</string>
+			<key>Variants</key>
+			<array>
+				<string>👍🏻</string>
+				<string>👍🏼</string>
+				<string>👍🏽</string>
+				<string>👍🏾</string>
+				<string>👍🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>THUMBS DOWN SIGN</string>
+			<key>Emoji</key>
+			<string>👎</string>
+			<key>Variants</key>
+			<array>
+				<string>👎🏻</string>
+				<string>👎🏼</string>
+				<string>👎🏽</string>
+				<string>👎🏾</string>
+				<string>👎🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WHITE UP POINTING INDEX</string>
+			<key>Emoji</key>
+			<string>☝️</string>
+			<key>Variants</key>
+			<array>
+				<string>☝🏻</string>
+				<string>☝🏼</string>
+				<string>☝🏽</string>
+				<string>☝🏾</string>
+				<string>☝🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WHITE UP POINTING BACKHAND INDEX</string>
+			<key>Emoji</key>
+			<string>👆</string>
+			<key>Variants</key>
+			<array>
+				<string>👆🏻</string>
+				<string>👆🏼</string>
+				<string>👆🏽</string>
+				<string>👆🏾</string>
+				<string>👆🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WHITE DOWN POINTING BACKHAND INDEX</string>
+			<key>Emoji</key>
+			<string>👇</string>
+			<key>Variants</key>
+			<array>
+				<string>👇🏻</string>
+				<string>👇🏼</string>
+				<string>👇🏽</string>
+				<string>👇🏾</string>
+				<string>👇🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WHITE LEFT POINTING BACKHAND INDEX</string>
+			<key>Emoji</key>
+			<string>👈</string>
+			<key>Variants</key>
+			<array>
+				<string>👈🏻</string>
+				<string>👈🏼</string>
+				<string>👈🏽</string>
+				<string>👈🏾</string>
+				<string>👈🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WHITE RIGHT POINTING BACKHAND INDEX</string>
+			<key>Emoji</key>
+			<string>👉</string>
+			<key>Variants</key>
+			<array>
+				<string>👉🏻</string>
+				<string>👉🏼</string>
+				<string>👉🏽</string>
+				<string>👉🏾</string>
+				<string>👉🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>OK HAND SIGN</string>
+			<key>Emoji</key>
+			<string>👌</string>
+			<key>Variants</key>
+			<array>
+				<string>👌🏻</string>
+				<string>👌🏼</string>
+				<string>👌🏽</string>
+				<string>👌🏾</string>
+				<string>👌🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>VICTORY HAND</string>
+			<key>Emoji</key>
+			<string>✌️</string>
+			<key>Variants</key>
+			<array>
+				<string>✌🏻</string>
+				<string>✌🏼</string>
+				<string>✌🏽</string>
+				<string>✌🏾</string>
+				<string>✌🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FISTED HAND SIGN</string>
+			<key>Emoji</key>
+			<string>👊</string>
+			<key>Variants</key>
+			<array>
+				<string>👊🏻</string>
+				<string>👊🏼</string>
+				<string>👊🏽</string>
+				<string>👊🏾</string>
+				<string>👊🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RAISED FIST</string>
+			<key>Emoji</key>
+			<string>✊</string>
+			<key>Variants</key>
+			<array>
+				<string>✊🏻</string>
+				<string>✊🏼</string>
+				<string>✊🏽</string>
+				<string>✊🏾</string>
+				<string>✊🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RAISED HAND</string>
+			<key>Emoji</key>
+			<string>✋</string>
+			<key>Variants</key>
+			<array>
+				<string>✋🏻</string>
+				<string>✋🏼</string>
+				<string>✋🏽</string>
+				<string>✋🏾</string>
+				<string>✋🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FLEXED BICEPS</string>
+			<key>Emoji</key>
+			<string>💪</string>
+			<key>Variants</key>
+			<array>
+				<string>💪🏻</string>
+				<string>💪🏼</string>
+				<string>💪🏽</string>
+				<string>💪🏾</string>
+				<string>💪🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>OPEN HANDS SIGN</string>
+			<key>Emoji</key>
+			<string>👐</string>
+			<key>Variants</key>
+			<array>
+				<string>👐🏻</string>
+				<string>👐🏼</string>
+				<string>👐🏽</string>
+				<string>👐🏾</string>
+				<string>👐🏿</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PERSON WITH FOLDED HANDS</string>
+			<key>Emoji</key>
+			<string>🙏</string>
+			<key>Variants</key>
+			<array>
+				<string>🙏🏻</string>
+				<string>🙏🏼</string>
+				<string>🙏🏽</string>
+				<string>🙏🏾</string>
+				<string>🙏🏿</string>
+			</array>
+		</dict>
+	</array>
+	<key>Nature</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>🌱</string>
+			<key>Name</key>
+			<string>SEEDLING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌲</string>
+			<key>Name</key>
+			<string>EVERGREEN TREE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌳</string>
+			<key>Name</key>
+			<string>DECIDUOUS TREE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌴</string>
+			<key>Name</key>
+			<string>PALM TREE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌵</string>
+			<key>Name</key>
+			<string>CACTUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌷</string>
+			<key>Name</key>
+			<string>TULIP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌸</string>
+			<key>Name</key>
+			<string>CHERRY BLOSSOM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌹</string>
+			<key>Name</key>
+			<string>ROSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌺</string>
+			<key>Name</key>
+			<string>HIBISCUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌻</string>
+			<key>Name</key>
+			<string>SUNFLOWER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌼</string>
+			<key>Name</key>
+			<string>BLOSSOM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💐</string>
+			<key>Name</key>
+			<string>BOUQUET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌾</string>
+			<key>Name</key>
+			<string>EAR OF RICE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌿</string>
+			<key>Name</key>
+			<string>HERB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍀</string>
+			<key>Name</key>
+			<string>FOUR LEAF CLOVER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍁</string>
+			<key>Name</key>
+			<string>MAPLE LEAF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍂</string>
+			<key>Name</key>
+			<string>FALLEN LEAF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍃</string>
+			<key>Name</key>
+			<string>LEAF FLUTTERING IN WIND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍄</string>
+			<key>Name</key>
+			<string>MUSHROOM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌰</string>
+			<key>Name</key>
+			<string>CHESTNUT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐀</string>
+			<key>Name</key>
+			<string>RAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐁</string>
+			<key>Name</key>
+			<string>MOUSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐭</string>
+			<key>Name</key>
+			<string>MOUSE FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐹</string>
+			<key>Name</key>
+			<string>HAMSTER FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐂</string>
+			<key>Name</key>
+			<string>OX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐃</string>
+			<key>Name</key>
+			<string>WATER BUFFALO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐄</string>
+			<key>Name</key>
+			<string>COW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐮</string>
+			<key>Name</key>
+			<string>COW FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐅</string>
+			<key>Name</key>
+			<string>TIGER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐆</string>
+			<key>Name</key>
+			<string>LEOPARD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐯</string>
+			<key>Name</key>
+			<string>TIGER FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐇</string>
+			<key>Name</key>
+			<string>RABBIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐰</string>
+			<key>Name</key>
+			<string>RABBIT FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐈</string>
+			<key>Name</key>
+			<string>CAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐱</string>
+			<key>Name</key>
+			<string>CAT FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐎</string>
+			<key>Name</key>
+			<string>HORSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐴</string>
+			<key>Name</key>
+			<string>HORSE FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐏</string>
+			<key>Name</key>
+			<string>RAM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐑</string>
+			<key>Name</key>
+			<string>SHEEP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐐</string>
+			<key>Name</key>
+			<string>GOAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐓</string>
+			<key>Name</key>
+			<string>ROOSTER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐔</string>
+			<key>Name</key>
+			<string>CHICKEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐤</string>
+			<key>Name</key>
+			<string>BABY CHICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐣</string>
+			<key>Name</key>
+			<string>HATCHING CHICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐥</string>
+			<key>Name</key>
+			<string>FRONT-FACING BABY CHICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐦</string>
+			<key>Name</key>
+			<string>BIRD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐧</string>
+			<key>Name</key>
+			<string>PENGUIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐘</string>
+			<key>Name</key>
+			<string>ELEPHANT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐪</string>
+			<key>Name</key>
+			<string>DROMEDARY CAMEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐫</string>
+			<key>Name</key>
+			<string>BACTRIAN CAMEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐗</string>
+			<key>Name</key>
+			<string>BOAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐖</string>
+			<key>Name</key>
+			<string>PIG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐷</string>
+			<key>Name</key>
+			<string>PIG FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐽</string>
+			<key>Name</key>
+			<string>PIG NOSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐕</string>
+			<key>Name</key>
+			<string>DOG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐩</string>
+			<key>Name</key>
+			<string>POODLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐶</string>
+			<key>Name</key>
+			<string>DOG FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐺</string>
+			<key>Name</key>
+			<string>WOLF FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐻</string>
+			<key>Name</key>
+			<string>BEAR FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐨</string>
+			<key>Name</key>
+			<string>KOALA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐼</string>
+			<key>Name</key>
+			<string>PANDA FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐵</string>
+			<key>Name</key>
+			<string>MONKEY FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🙈</string>
+			<key>Name</key>
+			<string>SEE-NO-EVIL MONKEY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🙉</string>
+			<key>Name</key>
+			<string>HEAR-NO-EVIL MONKEY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🙊</string>
+			<key>Name</key>
+			<string>SPEAK-NO-EVIL MONKEY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐒</string>
+			<key>Name</key>
+			<string>MONKEY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐉</string>
+			<key>Name</key>
+			<string>DRAGON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐲</string>
+			<key>Name</key>
+			<string>DRAGON FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐊</string>
+			<key>Name</key>
+			<string>CROCODILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐍</string>
+			<key>Name</key>
+			<string>SNAKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐢</string>
+			<key>Name</key>
+			<string>TURTLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐸</string>
+			<key>Name</key>
+			<string>FROG FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐋</string>
+			<key>Name</key>
+			<string>WHALE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐳</string>
+			<key>Name</key>
+			<string>SPOUTING WHALE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐬</string>
+			<key>Name</key>
+			<string>DOLPHIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐙</string>
+			<key>Name</key>
+			<string>OCTOPUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐟</string>
+			<key>Name</key>
+			<string>FISH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐠</string>
+			<key>Name</key>
+			<string>TROPICAL FISH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐡</string>
+			<key>Name</key>
+			<string>BLOWFISH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐚</string>
+			<key>Name</key>
+			<string>SPIRAL SHELL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐌</string>
+			<key>Name</key>
+			<string>SNAIL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐛</string>
+			<key>Name</key>
+			<string>BUG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐜</string>
+			<key>Name</key>
+			<string>ANT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐝</string>
+			<key>Name</key>
+			<string>HONEYBEE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐞</string>
+			<key>Name</key>
+			<string>LADY BEETLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🐾</string>
+			<key>Name</key>
+			<string>PAW PRINTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚡️</string>
+			<key>Name</key>
+			<string>HIGH VOLTAGE SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔥</string>
+			<key>Name</key>
+			<string>FIRE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌙</string>
+			<key>Name</key>
+			<string>CRESCENT MOON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☀️</string>
+			<key>Name</key>
+			<string>BLACK SUN WITH RAYS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛅️</string>
+			<key>Name</key>
+			<string>SUN BEHIND CLOUD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☁️</string>
+			<key>Name</key>
+			<string>CLOUD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💧</string>
+			<key>Name</key>
+			<string>DROPLET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💦</string>
+			<key>Name</key>
+			<string>SPLASHING SWEAT SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☔️</string>
+			<key>Name</key>
+			<string>UMBRELLA WITH RAIN DROPS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💨</string>
+			<key>Name</key>
+			<string>DASH SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❄️</string>
+			<key>Name</key>
+			<string>SNOWFLAKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌟</string>
+			<key>Name</key>
+			<string>GLOWING STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⭐️</string>
+			<key>Name</key>
+			<string>WHITE MEDIUM STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌠</string>
+			<key>Name</key>
+			<string>SHOOTING STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌄</string>
+			<key>Name</key>
+			<string>SUNRISE OVER MOUNTAINS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌅</string>
+			<key>Name</key>
+			<string>SUNRISE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌈</string>
+			<key>Name</key>
+			<string>RAINBOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌊</string>
+			<key>Name</key>
+			<string>WATER WAVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌋</string>
+			<key>Name</key>
+			<string>VOLCANO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌌</string>
+			<key>Name</key>
+			<string>MILKY WAY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🗻</string>
+			<key>Name</key>
+			<string>MOUNT FUJI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🗾</string>
+			<key>Name</key>
+			<string>SILHOUETTE OF JAPAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌐</string>
+			<key>Name</key>
+			<string>GLOBE WITH MERIDIANS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌍</string>
+			<key>Name</key>
+			<string>EARTH GLOBE EUROPE-AFRICA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌎</string>
+			<key>Name</key>
+			<string>EARTH GLOBE AMERICAS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌏</string>
+			<key>Name</key>
+			<string>EARTH GLOBE ASIA-AUSTRALIA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌑</string>
+			<key>Name</key>
+			<string>NEW MOON SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌒</string>
+			<key>Name</key>
+			<string>WAXING CRESCENT MOON SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌓</string>
+			<key>Name</key>
+			<string>FIRST QUARTER MOON SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌔</string>
+			<key>Name</key>
+			<string>WAXING GIBBOUS MOON SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌕</string>
+			<key>Name</key>
+			<string>FULL MOON SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌖</string>
+			<key>Name</key>
+			<string>WANING GIBBOUS MOON SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌗</string>
+			<key>Name</key>
+			<string>LAST QUARTER MOON SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌘</string>
+			<key>Name</key>
+			<string>WANING CRESCENT MOON SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌚</string>
+			<key>Name</key>
+			<string>NEW MOON WITH FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌝</string>
+			<key>Name</key>
+			<string>FULL MOON WITH FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌛</string>
+			<key>Name</key>
+			<string>FIRST QUARTER MOON WITH FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌜</string>
+			<key>Name</key>
+			<string>LAST QUARTER MOON WITH FACE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌞</string>
+			<key>Name</key>
+			<string>SUN WITH FACE</string>
+		</dict>
+	</array>
+	<key>Food &amp; Drink</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>🍅</string>
+			<key>Name</key>
+			<string>TOMATO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍆</string>
+			<key>Name</key>
+			<string>AUBERGINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌽</string>
+			<key>Name</key>
+			<string>EAR OF MAIZE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍠</string>
+			<key>Name</key>
+			<string>ROASTED SWEET POTATO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍇</string>
+			<key>Name</key>
+			<string>GRAPES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍈</string>
+			<key>Name</key>
+			<string>MELON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍉</string>
+			<key>Name</key>
+			<string>WATERMELON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍊</string>
+			<key>Name</key>
+			<string>TANGERINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍋</string>
+			<key>Name</key>
+			<string>LEMON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍌</string>
+			<key>Name</key>
+			<string>BANANA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍍</string>
+			<key>Name</key>
+			<string>PINEAPPLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍎</string>
+			<key>Name</key>
+			<string>RED APPLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍏</string>
+			<key>Name</key>
+			<string>GREEN APPLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍐</string>
+			<key>Name</key>
+			<string>PEAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍑</string>
+			<key>Name</key>
+			<string>PEACH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍒</string>
+			<key>Name</key>
+			<string>CHERRIES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍓</string>
+			<key>Name</key>
+			<string>STRAWBERRY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍔</string>
+			<key>Name</key>
+			<string>HAMBURGER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍕</string>
+			<key>Name</key>
+			<string>SLICE OF PIZZA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍖</string>
+			<key>Name</key>
+			<string>MEAT ON BONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍗</string>
+			<key>Name</key>
+			<string>POULTRY LEG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍘</string>
+			<key>Name</key>
+			<string>RICE CRACKER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍙</string>
+			<key>Name</key>
+			<string>RICE BALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍚</string>
+			<key>Name</key>
+			<string>COOKED RICE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍛</string>
+			<key>Name</key>
+			<string>CURRY AND RICE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍜</string>
+			<key>Name</key>
+			<string>STEAMING BOWL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍝</string>
+			<key>Name</key>
+			<string>SPAGHETTI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍞</string>
+			<key>Name</key>
+			<string>BREAD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍟</string>
+			<key>Name</key>
+			<string>FRENCH FRIES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍡</string>
+			<key>Name</key>
+			<string>DANGO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍢</string>
+			<key>Name</key>
+			<string>ODEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍣</string>
+			<key>Name</key>
+			<string>SUSHI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍤</string>
+			<key>Name</key>
+			<string>FRIED SHRIMP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍥</string>
+			<key>Name</key>
+			<string>FISH CAKE WITH SWIRL DESIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍦</string>
+			<key>Name</key>
+			<string>SOFT ICE CREAM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍧</string>
+			<key>Name</key>
+			<string>SHAVED ICE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍨</string>
+			<key>Name</key>
+			<string>ICE CREAM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍩</string>
+			<key>Name</key>
+			<string>DOUGHNUT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍪</string>
+			<key>Name</key>
+			<string>COOKIE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍫</string>
+			<key>Name</key>
+			<string>CHOCOLATE BAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍬</string>
+			<key>Name</key>
+			<string>CANDY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍭</string>
+			<key>Name</key>
+			<string>LOLLIPOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍮</string>
+			<key>Name</key>
+			<string>CUSTARD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍯</string>
+			<key>Name</key>
+			<string>HONEY POT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍰</string>
+			<key>Name</key>
+			<string>SHORTCAKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍱</string>
+			<key>Name</key>
+			<string>BENTO BOX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍲</string>
+			<key>Name</key>
+			<string>POT OF FOOD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍳</string>
+			<key>Name</key>
+			<string>COOKING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍴</string>
+			<key>Name</key>
+			<string>FORK AND KNIFE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍵</string>
+			<key>Name</key>
+			<string>TEACUP WITHOUT HANDLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☕️</string>
+			<key>Name</key>
+			<string>HOT BEVERAGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍶</string>
+			<key>Name</key>
+			<string>SAKE BOTTLE AND CUP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍷</string>
+			<key>Name</key>
+			<string>WINE GLASS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍸</string>
+			<key>Name</key>
+			<string>COCKTAIL GLASS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍹</string>
+			<key>Name</key>
+			<string>TROPICAL DRINK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍺</string>
+			<key>Name</key>
+			<string>BEER MUG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍻</string>
+			<key>Name</key>
+			<string>CLINKING BEER MUGS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🍼</string>
+			<key>Name</key>
+			<string>BABY BOTTLE</string>
+		</dict>
+	</array>
+	<key>Celebration</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>RIBBON</string>
+			<key>Emoji</key>
+			<string>🎀</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WRAPPED PRESENT</string>
+			<key>Emoji</key>
+			<string>🎁</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BIRTHDAY CAKE</string>
+			<key>Emoji</key>
+			<string>🎂</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>JACK-O-LANTERN</string>
+			<key>Emoji</key>
+			<string>🎃</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CHRISTMAS TREE</string>
+			<key>Emoji</key>
+			<string>🎄</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TANABATA TREE</string>
+			<key>Emoji</key>
+			<string>🎋</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PINE DECORATION</string>
+			<key>Emoji</key>
+			<string>🎍</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>MOON VIEWING CEREMONY</string>
+			<key>Emoji</key>
+			<string>🎑</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FIREWORKS</string>
+			<key>Emoji</key>
+			<string>🎆</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>FIREWORK SPARKLER</string>
+			<key>Emoji</key>
+			<string>🎇</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PARTY POPPER</string>
+			<key>Emoji</key>
+			<string>🎉</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CONFETTI BALL</string>
+			<key>Emoji</key>
+			<string>🎊</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BALLOON</string>
+			<key>Emoji</key>
+			<string>🎈</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>DIZZY SYMBOL</string>
+			<key>Emoji</key>
+			<string>💫</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SPARKLES</string>
+			<key>Emoji</key>
+			<string>✨</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>COLLISION SYMBOL</string>
+			<key>Emoji</key>
+			<string>💥</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GRADUATION CAP</string>
+			<key>Emoji</key>
+			<string>🎓</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CROWN</string>
+			<key>Emoji</key>
+			<string>👑</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>JAPANESE DOLLS</string>
+			<key>Emoji</key>
+			<string>🎎</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CARP STREAMER</string>
+			<key>Emoji</key>
+			<string>🎏</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>WIND CHIME</string>
+			<key>Emoji</key>
+			<string>🎐</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>CROSSED FLAGS</string>
+			<key>Emoji</key>
+			<string>🎌</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>IZAKAYA LANTERN</string>
+			<key>Emoji</key>
+			<string>🏮</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>RING</string>
+			<key>Emoji</key>
+			<string>💍</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HEAVY BLACK HEART</string>
+			<key>Emoji</key>
+			<string>❤️</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BROKEN HEART</string>
+			<key>Emoji</key>
+			<string>💔</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>LOVE LETTER</string>
+			<key>Emoji</key>
+			<string>💌</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>TWO HEARTS</string>
+			<key>Emoji</key>
+			<string>💕</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>REVOLVING HEARTS</string>
+			<key>Emoji</key>
+			<string>💞</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BEATING HEART</string>
+			<key>Emoji</key>
+			<string>💓</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GROWING HEART</string>
+			<key>Emoji</key>
+			<string>💗</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>SPARKLING HEART</string>
+			<key>Emoji</key>
+			<string>💖</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HEART WITH ARROW</string>
+			<key>Emoji</key>
+			<string>💘</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HEART WITH RIBBON</string>
+			<key>Emoji</key>
+			<string>💝</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>HEART DECORATION</string>
+			<key>Emoji</key>
+			<string>💟</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>PURPLE HEART</string>
+			<key>Emoji</key>
+			<string>💜</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>YELLOW HEART</string>
+			<key>Emoji</key>
+			<string>💛</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>GREEN HEART</string>
+			<key>Emoji</key>
+			<string>💚</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>BLUE HEART</string>
+			<key>Emoji</key>
+			<string>💙</string>
+		</dict>
+	</array>
+	<key>Activity</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>🏃</string>
+			<key>Variants</key>
+			<array>
+				<string>🏃🏻</string>
+				<string>🏃🏼</string>
+				<string>🏃🏽</string>
+				<string>🏃🏾</string>
+				<string>🏃🏿</string>
+			</array>
+			<key>Name</key>
+			<string>RUNNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚶</string>
+			<key>Variants</key>
+			<array>
+				<string>🚶🏻</string>
+				<string>🚶🏼</string>
+				<string>🚶🏽</string>
+				<string>🚶🏾</string>
+				<string>🚶🏿</string>
+			</array>
+			<key>Name</key>
+			<string>PEDESTRIAN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💃</string>
+			<key>Variants</key>
+			<array>
+				<string>💃🏻</string>
+				<string>💃🏼</string>
+				<string>💃🏽</string>
+				<string>💃🏾</string>
+				<string>💃🏿</string>
+			</array>
+			<key>Name</key>
+			<string>DANCER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚣</string>
+			<key>Variants</key>
+			<array>
+				<string>🚣🏻</string>
+				<string>🚣🏼</string>
+				<string>🚣🏽</string>
+				<string>🚣🏾</string>
+				<string>🚣🏿</string>
+			</array>
+			<key>Name</key>
+			<string>ROWBOAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏊</string>
+			<key>Variants</key>
+			<array>
+				<string>🏊🏻</string>
+				<string>🏊🏼</string>
+				<string>🏊🏽</string>
+				<string>🏊🏾</string>
+				<string>🏊🏿</string>
+			</array>
+			<key>Name</key>
+			<string>SWIMMER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏄</string>
+			<key>Variants</key>
+			<array>
+				<string>🏄🏻</string>
+				<string>🏄🏼</string>
+				<string>🏄🏽</string>
+				<string>🏄🏾</string>
+				<string>🏄🏿</string>
+			</array>
+			<key>Name</key>
+			<string>SURFER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🛀</string>
+			<key>Variants</key>
+			<array>
+				<string>🛀🏻</string>
+				<string>🛀🏼</string>
+				<string>🛀🏽</string>
+				<string>🛀🏾</string>
+				<string>🛀🏿</string>
+			</array>
+			<key>Name</key>
+			<string>BATH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏂</string>
+			<key>Name</key>
+			<string>SNOWBOARDER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎿</string>
+			<key>Name</key>
+			<string>SKI AND SKI BOOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛄️</string>
+			<key>Name</key>
+			<string>SNOWMAN WITHOUT SNOW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚴</string>
+			<key>Variants</key>
+			<array>
+				<string>🚴🏻</string>
+				<string>🚴🏼</string>
+				<string>🚴🏽</string>
+				<string>🚴🏾</string>
+				<string>🚴🏿</string>
+			</array>
+			<key>Name</key>
+			<string>BICYCLIST</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚵</string>
+			<key>Variants</key>
+			<array>
+				<string>🚵🏻</string>
+				<string>🚵🏼</string>
+				<string>🚵🏽</string>
+				<string>🚵🏾</string>
+				<string>🚵🏿</string>
+			</array>
+			<key>Name</key>
+			<string>MOUNTAIN BICYCLIST</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏇</string>
+			<key>Variants</key>
+			<array>
+				<string>🏇🏻</string>
+				<string>🏇🏼</string>
+				<string>🏇🏽</string>
+				<string>🏇🏾</string>
+				<string>🏇🏿</string>
+			</array>
+			<key>Name</key>
+			<string>HORSE RACING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛺️</string>
+			<key>Name</key>
+			<string>TENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎣</string>
+			<key>Name</key>
+			<string>FISHING POLE AND FISH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚽️</string>
+			<key>Name</key>
+			<string>SOCCER BALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏀</string>
+			<key>Name</key>
+			<string>BASKETBALL AND HOOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏈</string>
+			<key>Name</key>
+			<string>AMERICAN FOOTBALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚾️</string>
+			<key>Name</key>
+			<string>BASEBALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎾</string>
+			<key>Name</key>
+			<string>TENNIS RACQUET AND BALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏉</string>
+			<key>Name</key>
+			<string>RUGBY FOOTBALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛳️</string>
+			<key>Name</key>
+			<string>FLAG IN HOLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏆</string>
+			<key>Name</key>
+			<string>TROPHY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎽</string>
+			<key>Name</key>
+			<string>RUNNING SHIRT WITH SASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏁</string>
+			<key>Name</key>
+			<string>CHEQUERED FLAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎹</string>
+			<key>Name</key>
+			<string>MUSICAL KEYBOARD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎸</string>
+			<key>Name</key>
+			<string>GUITAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎻</string>
+			<key>Name</key>
+			<string>VIOLIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎷</string>
+			<key>Name</key>
+			<string>SAXOPHONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎺</string>
+			<key>Name</key>
+			<string>TRUMPET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎵</string>
+			<key>Name</key>
+			<string>MUSICAL NOTE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎶</string>
+			<key>Name</key>
+			<string>MULTIPLE MUSICAL NOTES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎼</string>
+			<key>Name</key>
+			<string>MUSICAL SCORE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎧</string>
+			<key>Name</key>
+			<string>HEADPHONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎤</string>
+			<key>Name</key>
+			<string>MICROPHONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎭</string>
+			<key>Name</key>
+			<string>PERFORMING ARTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎫</string>
+			<key>Name</key>
+			<string>TICKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎩</string>
+			<key>Name</key>
+			<string>TOP HAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎪</string>
+			<key>Name</key>
+			<string>CIRCUS TENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎬</string>
+			<key>Name</key>
+			<string>CLAPPER BOARD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎨</string>
+			<key>Name</key>
+			<string>ARTIST PALETTE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎯</string>
+			<key>Name</key>
+			<string>DIRECT HIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎱</string>
+			<key>Name</key>
+			<string>BILLIARDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎳</string>
+			<key>Name</key>
+			<string>BOWLING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎰</string>
+			<key>Name</key>
+			<string>SLOT MACHINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎲</string>
+			<key>Name</key>
+			<string>GAME DIE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎮</string>
+			<key>Name</key>
+			<string>VIDEO GAME</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎴</string>
+			<key>Name</key>
+			<string>FLOWER PLAYING CARDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🃏</string>
+			<key>Name</key>
+			<string>PLAYING CARD BLACK JOKER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🀄️</string>
+			<key>Name</key>
+			<string>MAHJONG TILE RED DRAGON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎠</string>
+			<key>Name</key>
+			<string>CAROUSEL HORSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎡</string>
+			<key>Name</key>
+			<string>FERRIS WHEEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎢</string>
+			<key>Name</key>
+			<string>ROLLER COASTER</string>
+		</dict>
+	</array>
+	<key>Travel &amp; Places</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>🚃</string>
+			<key>Name</key>
+			<string>RAILWAY CAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚞</string>
+			<key>Name</key>
+			<string>MOUNTAIN RAILWAY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚂</string>
+			<key>Name</key>
+			<string>STEAM LOCOMOTIVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚋</string>
+			<key>Name</key>
+			<string>TRAM CAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚝</string>
+			<key>Name</key>
+			<string>MONORAIL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚄</string>
+			<key>Name</key>
+			<string>HIGH-SPEED TRAIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚅</string>
+			<key>Name</key>
+			<string>HIGH-SPEED TRAIN WITH BULLET NOSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚆</string>
+			<key>Name</key>
+			<string>TRAIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚇</string>
+			<key>Name</key>
+			<string>METRO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚈</string>
+			<key>Name</key>
+			<string>LIGHT RAIL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚉</string>
+			<key>Name</key>
+			<string>STATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚊</string>
+			<key>Name</key>
+			<string>TRAM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚌</string>
+			<key>Name</key>
+			<string>BUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚍</string>
+			<key>Name</key>
+			<string>ONCOMING BUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚎</string>
+			<key>Name</key>
+			<string>TROLLEYBUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚐</string>
+			<key>Name</key>
+			<string>MINIBUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚑</string>
+			<key>Name</key>
+			<string>AMBULANCE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚒</string>
+			<key>Name</key>
+			<string>FIRE ENGINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚓</string>
+			<key>Name</key>
+			<string>POLICE CAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚔</string>
+			<key>Name</key>
+			<string>ONCOMING POLICE CAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚨</string>
+			<key>Name</key>
+			<string>POLICE CARS REVOLVING LIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚕</string>
+			<key>Name</key>
+			<string>TAXI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚖</string>
+			<key>Name</key>
+			<string>ONCOMING TAXI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚗</string>
+			<key>Name</key>
+			<string>AUTOMOBILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚘</string>
+			<key>Name</key>
+			<string>ONCOMING AUTOMOBILE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚙</string>
+			<key>Name</key>
+			<string>RECREATIONAL VEHICLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚚</string>
+			<key>Name</key>
+			<string>DELIVERY TRUCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚛</string>
+			<key>Name</key>
+			<string>ARTICULATED LORRY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚜</string>
+			<key>Name</key>
+			<string>TRACTOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚲</string>
+			<key>Name</key>
+			<string>BICYCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚏</string>
+			<key>Name</key>
+			<string>BUS STOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛽️</string>
+			<key>Name</key>
+			<string>FUEL PUMP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚧</string>
+			<key>Name</key>
+			<string>CONSTRUCTION SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚦</string>
+			<key>Name</key>
+			<string>VERTICAL TRAFFIC LIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚥</string>
+			<key>Name</key>
+			<string>HORIZONTAL TRAFFIC LIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚀</string>
+			<key>Name</key>
+			<string>ROCKET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚁</string>
+			<key>Name</key>
+			<string>HELICOPTER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✈️</string>
+			<key>Name</key>
+			<string>AIRPLANE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💺</string>
+			<key>Name</key>
+			<string>SEAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚓️</string>
+			<key>Name</key>
+			<string>ANCHOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚢</string>
+			<key>Name</key>
+			<string>SHIP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚤</string>
+			<key>Name</key>
+			<string>SPEEDBOAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛵️</string>
+			<key>Name</key>
+			<string>SAILBOAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚡</string>
+			<key>Name</key>
+			<string>AERIAL TRAMWAY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚠</string>
+			<key>Name</key>
+			<string>MOUNTAIN CABLEWAY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚟</string>
+			<key>Name</key>
+			<string>SUSPENSION RAILWAY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🛂</string>
+			<key>Name</key>
+			<string>PASSPORT CONTROL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🛃</string>
+			<key>Name</key>
+			<string>CUSTOMS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🛄</string>
+			<key>Name</key>
+			<string>BAGGAGE CLAIM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🛅</string>
+			<key>Name</key>
+			<string>LEFT LUGGAGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💴</string>
+			<key>Name</key>
+			<string>BANKNOTE WITH YEN SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💶</string>
+			<key>Name</key>
+			<string>BANKNOTE WITH EURO SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💷</string>
+			<key>Name</key>
+			<string>BANKNOTE WITH POUND SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💵</string>
+			<key>Name</key>
+			<string>BANKNOTE WITH DOLLAR SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🗽</string>
+			<key>Name</key>
+			<string>STATUE OF LIBERTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🗿</string>
+			<key>Name</key>
+			<string>MOYAI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌁</string>
+			<key>Name</key>
+			<string>FOGGY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🗼</string>
+			<key>Name</key>
+			<string>TOKYO TOWER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛲️</string>
+			<key>Name</key>
+			<string>FOUNTAIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏰</string>
+			<key>Name</key>
+			<string>EUROPEAN CASTLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏯</string>
+			<key>Name</key>
+			<string>JAPANESE CASTLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌇</string>
+			<key>Name</key>
+			<string>SUNSET OVER BUILDINGS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌆</string>
+			<key>Name</key>
+			<string>CITYSCAPE AT DUSK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌃</string>
+			<key>Name</key>
+			<string>NIGHT WITH STARS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌉</string>
+			<key>Name</key>
+			<string>BRIDGE AT NIGHT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏠</string>
+			<key>Name</key>
+			<string>HOUSE BUILDING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏡</string>
+			<key>Name</key>
+			<string>HOUSE WITH GARDEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏢</string>
+			<key>Name</key>
+			<string>OFFICE BUILDING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏬</string>
+			<key>Name</key>
+			<string>DEPARTMENT STORE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏭</string>
+			<key>Name</key>
+			<string>FACTORY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏣</string>
+			<key>Name</key>
+			<string>JAPANESE POST OFFICE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏤</string>
+			<key>Name</key>
+			<string>EUROPEAN POST OFFICE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏥</string>
+			<key>Name</key>
+			<string>HOSPITAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏦</string>
+			<key>Name</key>
+			<string>BANK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏨</string>
+			<key>Name</key>
+			<string>HOTEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏩</string>
+			<key>Name</key>
+			<string>LOVE HOTEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💒</string>
+			<key>Name</key>
+			<string>WEDDING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛪️</string>
+			<key>Name</key>
+			<string>CHURCH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏪</string>
+			<key>Name</key>
+			<string>CONVENIENCE STORE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏫</string>
+			<key>Name</key>
+			<string>SCHOOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇦🇺</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS AU</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇦🇹</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS AT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇧🇪</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS BE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇧🇷</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS BR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇨🇦</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS CA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇨🇱</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS CL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇨🇳</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS CN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇨🇴</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS CO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇩🇰</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS DK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇫🇮</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS FI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇫🇷</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS FR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇩🇪</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS DE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇭🇰</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS HK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇮🇳</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS IN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇮🇩</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS ID</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇮🇪</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS IE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇮🇱</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS IL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇮🇹</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS IT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇯🇵</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS JP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇰🇷</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS KR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇲🇴</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS MO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇲🇾</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS MY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇲🇽</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS MX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇳🇱</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS NL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇳🇿</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS NZ</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇳🇴</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS NO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇵🇭</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS PH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇵🇱</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS PL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇵🇹</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS PT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇵🇷</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS PR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇷🇺</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS RU</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇸🇦</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS SA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇸🇬</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS SG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇿🇦</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS ZA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇪🇸</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS ES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇸🇪</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS SE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇨🇭</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS CH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇹🇷</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS TR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇬🇧</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS GB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇺🇸</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS US</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇦🇪</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS AE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🇻🇳</string>
+			<key>Name</key>
+			<string>REGIONAL INDICATOR SYMBOL LETTERS VN</string>
+		</dict>
+	</array>
+	<key>Objects &amp; Symbols</key>
+	<array>
+		<dict>
+			<key>Emoji</key>
+			<string>⌚️</string>
+			<key>Name</key>
+			<string>WATCH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📱</string>
+			<key>Name</key>
+			<string>MOBILE PHONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📲</string>
+			<key>Name</key>
+			<string>MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💻</string>
+			<key>Name</key>
+			<string>PERSONAL COMPUTER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏰</string>
+			<key>Name</key>
+			<string>ALARM CLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏳</string>
+			<key>Name</key>
+			<string>HOURGLASS WITH FLOWING SAND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⌛️</string>
+			<key>Name</key>
+			<string>HOURGLASS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📷</string>
+			<key>Name</key>
+			<string>CAMERA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📹</string>
+			<key>Name</key>
+			<string>VIDEO CAMERA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎥</string>
+			<key>Name</key>
+			<string>MOVIE CAMERA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📺</string>
+			<key>Name</key>
+			<string>TELEVISION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📻</string>
+			<key>Name</key>
+			<string>RADIO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📟</string>
+			<key>Name</key>
+			<string>PAGER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📞</string>
+			<key>Name</key>
+			<string>TELEPHONE RECEIVER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☎️</string>
+			<key>Name</key>
+			<string>BLACK TELEPHONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📠</string>
+			<key>Name</key>
+			<string>FAX MACHINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💽</string>
+			<key>Name</key>
+			<string>MINIDISC</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💾</string>
+			<key>Name</key>
+			<string>FLOPPY DISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💿</string>
+			<key>Name</key>
+			<string>OPTICAL DISC</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📀</string>
+			<key>Name</key>
+			<string>DVD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📼</string>
+			<key>Name</key>
+			<string>VIDEOCASSETTE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔋</string>
+			<key>Name</key>
+			<string>BATTERY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔌</string>
+			<key>Name</key>
+			<string>ELECTRIC PLUG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💡</string>
+			<key>Name</key>
+			<string>ELECTRIC LIGHT BULB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔦</string>
+			<key>Name</key>
+			<string>ELECTRIC TORCH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📡</string>
+			<key>Name</key>
+			<string>SATELLITE ANTENNA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💳</string>
+			<key>Name</key>
+			<string>CREDIT CARD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💸</string>
+			<key>Name</key>
+			<string>MONEY WITH WINGS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💰</string>
+			<key>Name</key>
+			<string>MONEY BAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💎</string>
+			<key>Name</key>
+			<string>GEM STONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌂</string>
+			<key>Name</key>
+			<string>CLOSED UMBRELLA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👝</string>
+			<key>Name</key>
+			<string>POUCH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👛</string>
+			<key>Name</key>
+			<string>PURSE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👜</string>
+			<key>Name</key>
+			<string>HANDBAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💼</string>
+			<key>Name</key>
+			<string>BRIEFCASE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎒</string>
+			<key>Name</key>
+			<string>SCHOOL SATCHEL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💄</string>
+			<key>Name</key>
+			<string>LIPSTICK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👓</string>
+			<key>Name</key>
+			<string>EYEGLASSES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👒</string>
+			<key>Name</key>
+			<string>WOMANS HAT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👡</string>
+			<key>Name</key>
+			<string>WOMANS SANDAL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👠</string>
+			<key>Name</key>
+			<string>HIGH-HEELED SHOE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👢</string>
+			<key>Name</key>
+			<string>WOMANS BOOTS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👞</string>
+			<key>Name</key>
+			<string>MANS SHOE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👟</string>
+			<key>Name</key>
+			<string>ATHLETIC SHOE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👙</string>
+			<key>Name</key>
+			<string>BIKINI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👗</string>
+			<key>Name</key>
+			<string>DRESS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👘</string>
+			<key>Name</key>
+			<string>KIMONO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👚</string>
+			<key>Name</key>
+			<string>WOMANS CLOTHES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👕</string>
+			<key>Name</key>
+			<string>T-SHIRT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👔</string>
+			<key>Name</key>
+			<string>NECKTIE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>👖</string>
+			<key>Name</key>
+			<string>JEANS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚪</string>
+			<key>Name</key>
+			<string>DOOR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚿</string>
+			<key>Name</key>
+			<string>SHOWER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🛁</string>
+			<key>Name</key>
+			<string>BATHTUB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚽</string>
+			<key>Name</key>
+			<string>TOILET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💈</string>
+			<key>Name</key>
+			<string>BARBER POLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💉</string>
+			<key>Name</key>
+			<string>SYRINGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💊</string>
+			<key>Name</key>
+			<string>PILL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔬</string>
+			<key>Name</key>
+			<string>MICROSCOPE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔭</string>
+			<key>Name</key>
+			<string>TELESCOPE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔮</string>
+			<key>Name</key>
+			<string>CRYSTAL BALL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔧</string>
+			<key>Name</key>
+			<string>WRENCH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔪</string>
+			<key>Name</key>
+			<string>HOCHO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔩</string>
+			<key>Name</key>
+			<string>NUT AND BOLT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔨</string>
+			<key>Name</key>
+			<string>HAMMER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💣</string>
+			<key>Name</key>
+			<string>BOMB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚬</string>
+			<key>Name</key>
+			<string>SMOKING SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔫</string>
+			<key>Name</key>
+			<string>PISTOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔖</string>
+			<key>Name</key>
+			<string>BOOKMARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📰</string>
+			<key>Name</key>
+			<string>NEWSPAPER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔑</string>
+			<key>Name</key>
+			<string>KEY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✉️</string>
+			<key>Name</key>
+			<string>ENVELOPE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📩</string>
+			<key>Name</key>
+			<string>ENVELOPE WITH DOWNWARDS ARROW ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📨</string>
+			<key>Name</key>
+			<string>INCOMING ENVELOPE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📧</string>
+			<key>Name</key>
+			<string>E-MAIL SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📥</string>
+			<key>Name</key>
+			<string>INBOX TRAY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📤</string>
+			<key>Name</key>
+			<string>OUTBOX TRAY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📦</string>
+			<key>Name</key>
+			<string>PACKAGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📯</string>
+			<key>Name</key>
+			<string>POSTAL HORN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📮</string>
+			<key>Name</key>
+			<string>POSTBOX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📪</string>
+			<key>Name</key>
+			<string>CLOSED MAILBOX WITH LOWERED FLAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📫</string>
+			<key>Name</key>
+			<string>CLOSED MAILBOX WITH RAISED FLAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📬</string>
+			<key>Name</key>
+			<string>OPEN MAILBOX WITH RAISED FLAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📭</string>
+			<key>Name</key>
+			<string>OPEN MAILBOX WITH LOWERED FLAG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📄</string>
+			<key>Name</key>
+			<string>PAGE FACING UP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📃</string>
+			<key>Name</key>
+			<string>PAGE WITH CURL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📑</string>
+			<key>Name</key>
+			<string>BOOKMARK TABS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📈</string>
+			<key>Name</key>
+			<string>CHART WITH UPWARDS TREND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📉</string>
+			<key>Name</key>
+			<string>CHART WITH DOWNWARDS TREND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📊</string>
+			<key>Name</key>
+			<string>BAR CHART</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📅</string>
+			<key>Name</key>
+			<string>CALENDAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📆</string>
+			<key>Name</key>
+			<string>TEAR-OFF CALENDAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔅</string>
+			<key>Name</key>
+			<string>LOW BRIGHTNESS SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔆</string>
+			<key>Name</key>
+			<string>HIGH BRIGHTNESS SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📜</string>
+			<key>Name</key>
+			<string>SCROLL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📋</string>
+			<key>Name</key>
+			<string>CLIPBOARD</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📖</string>
+			<key>Name</key>
+			<string>OPEN BOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📓</string>
+			<key>Name</key>
+			<string>NOTEBOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📔</string>
+			<key>Name</key>
+			<string>NOTEBOOK WITH DECORATIVE COVER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📒</string>
+			<key>Name</key>
+			<string>LEDGER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📕</string>
+			<key>Name</key>
+			<string>CLOSED BOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📗</string>
+			<key>Name</key>
+			<string>GREEN BOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📘</string>
+			<key>Name</key>
+			<string>BLUE BOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📙</string>
+			<key>Name</key>
+			<string>ORANGE BOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📚</string>
+			<key>Name</key>
+			<string>BOOKS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📇</string>
+			<key>Name</key>
+			<string>CARD INDEX</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔗</string>
+			<key>Name</key>
+			<string>LINK SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📎</string>
+			<key>Name</key>
+			<string>PAPERCLIP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📌</string>
+			<key>Name</key>
+			<string>PUSHPIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✂️</string>
+			<key>Name</key>
+			<string>BLACK SCISSORS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📐</string>
+			<key>Name</key>
+			<string>TRIANGULAR RULER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📍</string>
+			<key>Name</key>
+			<string>ROUND PUSHPIN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📏</string>
+			<key>Name</key>
+			<string>STRAIGHT RULER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚩</string>
+			<key>Name</key>
+			<string>TRIANGULAR FLAG ON POST</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📁</string>
+			<key>Name</key>
+			<string>FILE FOLDER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📂</string>
+			<key>Name</key>
+			<string>OPEN FILE FOLDER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✒️</string>
+			<key>Name</key>
+			<string>BLACK NIB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✏️</string>
+			<key>Name</key>
+			<string>PENCIL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📝</string>
+			<key>Name</key>
+			<string>MEMO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔏</string>
+			<key>Name</key>
+			<string>LOCK WITH INK PEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔐</string>
+			<key>Name</key>
+			<string>CLOSED LOCK WITH KEY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔒</string>
+			<key>Name</key>
+			<string>LOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔓</string>
+			<key>Name</key>
+			<string>OPEN LOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📣</string>
+			<key>Name</key>
+			<string>CHEERING MEGAPHONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📢</string>
+			<key>Name</key>
+			<string>PUBLIC ADDRESS LOUDSPEAKER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔈</string>
+			<key>Name</key>
+			<string>SPEAKER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔉</string>
+			<key>Name</key>
+			<string>SPEAKER WITH ONE SOUND WAVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔊</string>
+			<key>Name</key>
+			<string>SPEAKER WITH THREE SOUND WAVES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔇</string>
+			<key>Name</key>
+			<string>SPEAKER WITH CANCELLATION STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💤</string>
+			<key>Name</key>
+			<string>SLEEPING SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔔</string>
+			<key>Name</key>
+			<string>BELL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔕</string>
+			<key>Name</key>
+			<string>BELL WITH CANCELLATION STROKE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💭</string>
+			<key>Name</key>
+			<string>THOUGHT BALLOON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💬</string>
+			<key>Name</key>
+			<string>SPEECH BALLOON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚸</string>
+			<key>Name</key>
+			<string>CHILDREN CROSSING</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔍</string>
+			<key>Name</key>
+			<string>LEFT-POINTING MAGNIFYING GLASS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔎</string>
+			<key>Name</key>
+			<string>RIGHT-POINTING MAGNIFYING GLASS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚫</string>
+			<key>Name</key>
+			<string>NO ENTRY SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛔️</string>
+			<key>Name</key>
+			<string>NO ENTRY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📛</string>
+			<key>Name</key>
+			<string>NAME BADGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚷</string>
+			<key>Name</key>
+			<string>NO PEDESTRIANS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚯</string>
+			<key>Name</key>
+			<string>DO NOT LITTER SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚳</string>
+			<key>Name</key>
+			<string>NO BICYCLES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚱</string>
+			<key>Name</key>
+			<string>NON-POTABLE WATER SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📵</string>
+			<key>Name</key>
+			<string>NO MOBILE PHONES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔞</string>
+			<key>Name</key>
+			<string>NO ONE UNDER EIGHTEEN SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🉑</string>
+			<key>Name</key>
+			<string>CIRCLED IDEOGRAPH ACCEPT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🉐</string>
+			<key>Name</key>
+			<string>CIRCLED IDEOGRAPH ADVANTAGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💮</string>
+			<key>Name</key>
+			<string>WHITE FLOWER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>㊙️</string>
+			<key>Name</key>
+			<string>CIRCLED IDEOGRAPH SECRET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>㊗️</string>
+			<key>Name</key>
+			<string>CIRCLED IDEOGRAPH CONGRATULATION</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈴</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-5408</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈵</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-6E80</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈲</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-7981</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈶</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-6709</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈚️</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-7121</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈸</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-7533</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈺</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-55B6</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈷</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-6708</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈹</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-5272</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈳</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-7A7A</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈂</string>
+			<key>Name</key>
+			<string>SQUARED KATAKANA SA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈁</string>
+			<key>Name</key>
+			<string>SQUARED KATAKANA KOKO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🈯️</string>
+			<key>Name</key>
+			<string>SQUARED CJK UNIFIED IDEOGRAPH-6307</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💹</string>
+			<key>Name</key>
+			<string>CHART WITH UPWARDS TREND AND YEN SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❇️</string>
+			<key>Name</key>
+			<string>SPARKLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✳️</string>
+			<key>Name</key>
+			<string>EIGHT SPOKED ASTERISK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❎</string>
+			<key>Name</key>
+			<string>NEGATIVE SQUARED CROSS MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✅</string>
+			<key>Name</key>
+			<string>WHITE HEAVY CHECK MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✴️</string>
+			<key>Name</key>
+			<string>EIGHT POINTED BLACK STAR</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📳</string>
+			<key>Name</key>
+			<string>VIBRATION MODE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📴</string>
+			<key>Name</key>
+			<string>MOBILE PHONE OFF</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆚</string>
+			<key>Name</key>
+			<string>SQUARED VS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🅰</string>
+			<key>Name</key>
+			<string>NEGATIVE SQUARED LATIN CAPITAL LETTER A</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🅱</string>
+			<key>Name</key>
+			<string>NEGATIVE SQUARED LATIN CAPITAL LETTER B</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆎</string>
+			<key>Name</key>
+			<string>NEGATIVE SQUARED AB</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆑</string>
+			<key>Name</key>
+			<string>SQUARED CL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🅾</string>
+			<key>Name</key>
+			<string>NEGATIVE SQUARED LATIN CAPITAL LETTER O</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆘</string>
+			<key>Name</key>
+			<string>SQUARED SOS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆔</string>
+			<key>Name</key>
+			<string>SQUARED ID</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🅿️</string>
+			<key>Name</key>
+			<string>NEGATIVE SQUARED LATIN CAPITAL LETTER P</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚾</string>
+			<key>Name</key>
+			<string>WATER CLOSET</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆒</string>
+			<key>Name</key>
+			<string>SQUARED COOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆓</string>
+			<key>Name</key>
+			<string>SQUARED FREE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆕</string>
+			<key>Name</key>
+			<string>SQUARED NEW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆖</string>
+			<key>Name</key>
+			<string>SQUARED NG</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆗</string>
+			<key>Name</key>
+			<string>SQUARED OK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🆙</string>
+			<key>Name</key>
+			<string>SQUARED UP WITH EXCLAMATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🏧</string>
+			<key>Name</key>
+			<string>AUTOMATED TELLER MACHINE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♈️</string>
+			<key>Name</key>
+			<string>ARIES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♉️</string>
+			<key>Name</key>
+			<string>TAURUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♊️</string>
+			<key>Name</key>
+			<string>GEMINI</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♋️</string>
+			<key>Name</key>
+			<string>CANCER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♌️</string>
+			<key>Name</key>
+			<string>LEO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♍️</string>
+			<key>Name</key>
+			<string>VIRGO</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♎️</string>
+			<key>Name</key>
+			<string>LIBRA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♏️</string>
+			<key>Name</key>
+			<string>SCORPIUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♐️</string>
+			<key>Name</key>
+			<string>SAGITTARIUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♑️</string>
+			<key>Name</key>
+			<string>CAPRICORN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♒️</string>
+			<key>Name</key>
+			<string>AQUARIUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♓️</string>
+			<key>Name</key>
+			<string>PISCES</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚻</string>
+			<key>Name</key>
+			<string>RESTROOM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚹</string>
+			<key>Name</key>
+			<string>MENS SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚺</string>
+			<key>Name</key>
+			<string>WOMENS SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚼</string>
+			<key>Name</key>
+			<string>BABY SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♿️</string>
+			<key>Name</key>
+			<string>WHEELCHAIR SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚰</string>
+			<key>Name</key>
+			<string>POTABLE WATER SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚭</string>
+			<key>Name</key>
+			<string>NO SMOKING SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🚮</string>
+			<key>Name</key>
+			<string>PUT LITTER IN ITS PLACE SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▶️</string>
+			<key>Name</key>
+			<string>BLACK RIGHT-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◀️</string>
+			<key>Name</key>
+			<string>BLACK LEFT-POINTING TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔼</string>
+			<key>Name</key>
+			<string>UP-POINTING SMALL RED TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔽</string>
+			<key>Name</key>
+			<string>DOWN-POINTING SMALL RED TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏩</string>
+			<key>Name</key>
+			<string>BLACK RIGHT-POINTING DOUBLE TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏪</string>
+			<key>Name</key>
+			<string>BLACK LEFT-POINTING DOUBLE TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏫</string>
+			<key>Name</key>
+			<string>BLACK UP-POINTING DOUBLE TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⏬</string>
+			<key>Name</key>
+			<string>BLACK DOWN-POINTING DOUBLE TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➡️</string>
+			<key>Name</key>
+			<string>BLACK RIGHTWARDS ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⬅️</string>
+			<key>Name</key>
+			<string>LEFTWARDS BLACK ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⬆️</string>
+			<key>Name</key>
+			<string>UPWARDS BLACK ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⬇️</string>
+			<key>Name</key>
+			<string>DOWNWARDS BLACK ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>↗️</string>
+			<key>Name</key>
+			<string>NORTH EAST ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>↘️</string>
+			<key>Name</key>
+			<string>SOUTH EAST ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>↙️</string>
+			<key>Name</key>
+			<string>SOUTH WEST ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>↖️</string>
+			<key>Name</key>
+			<string>NORTH WEST ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>↕️</string>
+			<key>Name</key>
+			<string>UP DOWN ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>↔️</string>
+			<key>Name</key>
+			<string>LEFT RIGHT ARROW</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔄</string>
+			<key>Name</key>
+			<string>ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>↪️</string>
+			<key>Name</key>
+			<string>RIGHTWARDS ARROW WITH HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>↩️</string>
+			<key>Name</key>
+			<string>LEFTWARDS ARROW WITH HOOK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⤴️</string>
+			<key>Name</key>
+			<string>ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⤵️</string>
+			<key>Name</key>
+			<string>ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔀</string>
+			<key>Name</key>
+			<string>TWISTED RIGHTWARDS ARROWS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔁</string>
+			<key>Name</key>
+			<string>CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔂</string>
+			<key>Name</key>
+			<string>CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>#️⃣</string>
+			<key>Name</key>
+			<string>HASH KEY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>0️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 0</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>1️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 1</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>2️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 2</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>3️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 3</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>4️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 4</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>5️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 5</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>6️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 6</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>7️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 7</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>8️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 8</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>9️⃣</string>
+			<key>Name</key>
+			<string>KEYCAP 9</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔟</string>
+			<key>Name</key>
+			<string>KEYCAP TEN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔢</string>
+			<key>Name</key>
+			<string>INPUT SYMBOL FOR NUMBERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔤</string>
+			<key>Name</key>
+			<string>INPUT SYMBOL FOR LATIN LETTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔡</string>
+			<key>Name</key>
+			<string>INPUT SYMBOL FOR LATIN SMALL LETTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔠</string>
+			<key>Name</key>
+			<string>INPUT SYMBOL FOR LATIN CAPITAL LETTERS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>ℹ️</string>
+			<key>Name</key>
+			<string>INFORMATION SOURCE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>📶</string>
+			<key>Name</key>
+			<string>ANTENNA WITH BARS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🎦</string>
+			<key>Name</key>
+			<string>CINEMA</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔣</string>
+			<key>Name</key>
+			<string>INPUT SYMBOL FOR SYMBOLS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➕</string>
+			<key>Name</key>
+			<string>HEAVY PLUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➖</string>
+			<key>Name</key>
+			<string>HEAVY MINUS SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>〰</string>
+			<key>Name</key>
+			<string>WAVY DASH</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➗</string>
+			<key>Name</key>
+			<string>HEAVY DIVISION SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✖️</string>
+			<key>Name</key>
+			<string>HEAVY MULTIPLICATION X</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>✔️</string>
+			<key>Name</key>
+			<string>HEAVY CHECK MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔃</string>
+			<key>Name</key>
+			<string>CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>™</string>
+			<key>Name</key>
+			<string>TRADE MARK SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>©</string>
+			<key>Name</key>
+			<string>COPYRIGHT SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>®</string>
+			<key>Name</key>
+			<string>REGISTERED SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💱</string>
+			<key>Name</key>
+			<string>CURRENCY EXCHANGE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💲</string>
+			<key>Name</key>
+			<string>HEAVY DOLLAR SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➰</string>
+			<key>Name</key>
+			<string>CURLY LOOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>➿</string>
+			<key>Name</key>
+			<string>DOUBLE CURLY LOOP</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>〽️</string>
+			<key>Name</key>
+			<string>PART ALTERNATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❗️</string>
+			<key>Name</key>
+			<string>HEAVY EXCLAMATION MARK SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❓</string>
+			<key>Name</key>
+			<string>BLACK QUESTION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❕</string>
+			<key>Name</key>
+			<string>WHITE EXCLAMATION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❔</string>
+			<key>Name</key>
+			<string>WHITE QUESTION MARK ORNAMENT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>‼️</string>
+			<key>Name</key>
+			<string>DOUBLE EXCLAMATION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⁉️</string>
+			<key>Name</key>
+			<string>EXCLAMATION QUESTION MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>❌</string>
+			<key>Name</key>
+			<string>CROSS MARK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⭕️</string>
+			<key>Name</key>
+			<string>HEAVY LARGE CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💯</string>
+			<key>Name</key>
+			<string>HUNDRED POINTS SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔚</string>
+			<key>Name</key>
+			<string>END WITH LEFTWARDS ARROW ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔙</string>
+			<key>Name</key>
+			<string>BACK WITH LEFTWARDS ARROW ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔛</string>
+			<key>Name</key>
+			<string>ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔝</string>
+			<key>Name</key>
+			<string>TOP WITH UPWARDS ARROW ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔜</string>
+			<key>Name</key>
+			<string>SOON WITH RIGHTWARDS ARROW ABOVE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🌀</string>
+			<key>Name</key>
+			<string>CYCLONE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>Ⓜ️</string>
+			<key>Name</key>
+			<string>CIRCLED LATIN CAPITAL LETTER M</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⛎</string>
+			<key>Name</key>
+			<string>OPHIUCHUS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔯</string>
+			<key>Name</key>
+			<string>SIX POINTED STAR WITH MIDDLE DOT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔰</string>
+			<key>Name</key>
+			<string>JAPANESE SYMBOL FOR BEGINNER</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔱</string>
+			<key>Name</key>
+			<string>TRIDENT EMBLEM</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚠️</string>
+			<key>Name</key>
+			<string>WARNING SIGN</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♨️</string>
+			<key>Name</key>
+			<string>HOT SPRINGS</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♻️</string>
+			<key>Name</key>
+			<string>BLACK UNIVERSAL RECYCLING SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💢</string>
+			<key>Name</key>
+			<string>ANGER SYMBOL</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>💠</string>
+			<key>Name</key>
+			<string>DIAMOND SHAPE WITH A DOT INSIDE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♠️</string>
+			<key>Name</key>
+			<string>BLACK SPADE SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♣️</string>
+			<key>Name</key>
+			<string>BLACK CLUB SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♥️</string>
+			<key>Name</key>
+			<string>BLACK HEART SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>♦️</string>
+			<key>Name</key>
+			<string>BLACK DIAMOND SUIT</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>☑️</string>
+			<key>Name</key>
+			<string>BALLOT BOX WITH CHECK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚪️</string>
+			<key>Name</key>
+			<string>MEDIUM WHITE CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⚫️</string>
+			<key>Name</key>
+			<string>MEDIUM BLACK CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔘</string>
+			<key>Name</key>
+			<string>RADIO BUTTON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔴</string>
+			<key>Name</key>
+			<string>LARGE RED CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔵</string>
+			<key>Name</key>
+			<string>LARGE BLUE CIRCLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔺</string>
+			<key>Name</key>
+			<string>UP-POINTING RED TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔻</string>
+			<key>Name</key>
+			<string>DOWN-POINTING RED TRIANGLE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔸</string>
+			<key>Name</key>
+			<string>SMALL ORANGE DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔹</string>
+			<key>Name</key>
+			<string>SMALL BLUE DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔶</string>
+			<key>Name</key>
+			<string>LARGE ORANGE DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔷</string>
+			<key>Name</key>
+			<string>LARGE BLUE DIAMOND</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▪️</string>
+			<key>Name</key>
+			<string>BLACK SMALL SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>▫️</string>
+			<key>Name</key>
+			<string>WHITE SMALL SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⬛️</string>
+			<key>Name</key>
+			<string>BLACK LARGE SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>⬜️</string>
+			<key>Name</key>
+			<string>WHITE LARGE SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◼️</string>
+			<key>Name</key>
+			<string>BLACK MEDIUM SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◻️</string>
+			<key>Name</key>
+			<string>WHITE MEDIUM SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◾️</string>
+			<key>Name</key>
+			<string>BLACK MEDIUM SMALL SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>◽️</string>
+			<key>Name</key>
+			<string>WHITE MEDIUM SMALL SQUARE</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔲</string>
+			<key>Name</key>
+			<string>BLACK SQUARE BUTTON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🔳</string>
+			<key>Name</key>
+			<string>WHITE SQUARE BUTTON</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕐</string>
+			<key>Name</key>
+			<string>CLOCK FACE ONE OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕑</string>
+			<key>Name</key>
+			<string>CLOCK FACE TWO OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕒</string>
+			<key>Name</key>
+			<string>CLOCK FACE THREE OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕓</string>
+			<key>Name</key>
+			<string>CLOCK FACE FOUR OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕔</string>
+			<key>Name</key>
+			<string>CLOCK FACE FIVE OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕕</string>
+			<key>Name</key>
+			<string>CLOCK FACE SIX OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕖</string>
+			<key>Name</key>
+			<string>CLOCK FACE SEVEN OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕗</string>
+			<key>Name</key>
+			<string>CLOCK FACE EIGHT OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕘</string>
+			<key>Name</key>
+			<string>CLOCK FACE NINE OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕙</string>
+			<key>Name</key>
+			<string>CLOCK FACE TEN OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕚</string>
+			<key>Name</key>
+			<string>CLOCK FACE ELEVEN OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕛</string>
+			<key>Name</key>
+			<string>CLOCK FACE TWELVE OCLOCK</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕜</string>
+			<key>Name</key>
+			<string>CLOCK FACE ONE-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕝</string>
+			<key>Name</key>
+			<string>CLOCK FACE TWO-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕞</string>
+			<key>Name</key>
+			<string>CLOCK FACE THREE-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕟</string>
+			<key>Name</key>
+			<string>CLOCK FACE FOUR-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕠</string>
+			<key>Name</key>
+			<string>CLOCK FACE FIVE-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕡</string>
+			<key>Name</key>
+			<string>CLOCK FACE SIX-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕢</string>
+			<key>Name</key>
+			<string>CLOCK FACE SEVEN-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕣</string>
+			<key>Name</key>
+			<string>CLOCK FACE EIGHT-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕤</string>
+			<key>Name</key>
+			<string>CLOCK FACE NINE-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕥</string>
+			<key>Name</key>
+			<string>CLOCK FACE TEN-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕦</string>
+			<key>Name</key>
+			<string>CLOCK FACE ELEVEN-THIRTY</string>
+		</dict>
+		<dict>
+			<key>Emoji</key>
+			<string>🕧</string>
+			<key>Name</key>
+			<string>CLOCK FACE TWELVE-THIRTY</string>
+		</dict>
+	</array>
+</dict>
+</plist>

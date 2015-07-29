@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B61D286B1AED281400321E1E /* EIMCandidateCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = B61D286A1AED281400321E1E /* EIMCandidateCellView.m */; };
+		B61D286E1AED293700321E1E /* EIMCandidatesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B61D286D1AED293700321E1E /* EIMCandidatesViewController.m */; };
+		B61D28741AED612900321E1E /* EIMCandidatesPanelController.m in Sources */ = {isa = PBXBuildFile; fileRef = B61D28731AED612900321E1E /* EIMCandidatesPanelController.m */; };
+		B61F17D01AF2385B00ADFA30 /* NSString+EIMAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = B61F17CF1AF2385B00ADFA30 /* NSString+EIMAddtions.m */; };
+		B6263A1B1AE954C300C6CB92 /* Emojis.plist in Resources */ = {isa = PBXBuildFile; fileRef = B6263A1A1AE954C300C6CB92 /* Emojis.plist */; };
+		B63859E41AF9129B0060A582 /* EIMPreferencesTabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B63859E31AF9129B0060A582 /* EIMPreferencesTabViewController.m */; };
+		B64BB0B51AFF34E900129502 /* EIMPreferencesGeneralViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B64BB0B41AFF34E900129502 /* EIMPreferencesGeneralViewController.m */; };
+		B64BB0B81AFF7BEF00129502 /* EIMPreferencesFavoritesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B64BB0B71AFF7BEF00129502 /* EIMPreferencesFavoritesViewController.m */; };
+		B661F55E1AFDBA6D00E72956 /* EIMCandidateTableRowView.m in Sources */ = {isa = PBXBuildFile; fileRef = B661F55D1AFDBA6D00E72956 /* EIMCandidateTableRowView.m */; };
+		B6683CF01AF7AB9C003CE1D9 /* EIMPreferencesExcludedAppsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6683CEF1AF7AB9C003CE1D9 /* EIMPreferencesExcludedAppsViewController.m */; };
+		B6683CF41AF7D9FA003CE1D9 /* EIMPreferencesWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6683CF31AF7D9FA003CE1D9 /* EIMPreferencesWindowController.m */; };
+		B66856681B0D7C12005367AA /* EIMCandidatesController.m in Sources */ = {isa = PBXBuildFile; fileRef = B66856671B0D7C12005367AA /* EIMCandidatesController.m */; };
+		B66DEBB71AF29C0C004B5DCB /* IconTemplate.png in Resources */ = {isa = PBXBuildFile; fileRef = B66DEBB61AF29C0C004B5DCB /* IconTemplate.png */; };
+		B66DEBB91AF29C14004B5DCB /* IconTemplate@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B66DEBB81AF29C14004B5DCB /* IconTemplate@2x.png */; };
+		B6A59D4A1B12069D00BB372F /* Credits.html in Resources */ = {isa = PBXBuildFile; fileRef = B6A59D4C1B12069D00BB372F /* Credits.html */; };
+		B6A59D4F1B1207DB00BB372F /* EIMPreferencesWindow.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6A59D511B1207DB00BB372F /* EIMPreferencesWindow.storyboard */; };
+		B6A59D5A1B120B7600BB372F /* EIMCandidatesPanel.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6A59D591B120B7600BB372F /* EIMCandidatesPanel.storyboard */; };
+		B6A59D5D1B120CA500BB372F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B6A59D5F1B120CA500BB372F /* Localizable.strings */; };
+		B6B6BECE1B004FF20069396C /* EIMPreferencesFavoriteEditorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6B6BECD1B004FF20069396C /* EIMPreferencesFavoriteEditorViewController.m */; };
+		B6EAF3701A76A1C2002F0AFB /* EIMAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B6EAF36F1A76A1C2002F0AFB /* EIMAppDelegate.m */; };
+		B6EAF3721A76A1C2002F0AFB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B6EAF3711A76A1C2002F0AFB /* main.m */; };
+		B6EAF3741A76A1C2002F0AFB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6EAF3731A76A1C2002F0AFB /* Images.xcassets */; };
+		B6EAF3771A76A1C2002F0AFB /* Main.xib in Resources */ = {isa = PBXBuildFile; fileRef = B6EAF3751A76A1C2002F0AFB /* Main.xib */; };
+		B6EAF3831A76A1C2002F0AFB /* Emoji_IMTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B6EAF3821A76A1C2002F0AFB /* Emoji_IMTests.m */; };
+		B6EAF38E1A76A2CE002F0AFB /* EIMInputController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6EAF38D1A76A2CE002F0AFB /* EIMInputController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B6EAF37D1A76A1C2002F0AFB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B6EAF3611A76A1C2002F0AFB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B6EAF3681A76A1C2002F0AFB;
+			remoteInfo = "Emoji IM";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B61D28691AED281400321E1E /* EIMCandidateCellView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMCandidateCellView.h; sourceTree = "<group>"; };
+		B61D286A1AED281400321E1E /* EIMCandidateCellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMCandidateCellView.m; sourceTree = "<group>"; };
+		B61D286C1AED293700321E1E /* EIMCandidatesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMCandidatesViewController.h; sourceTree = "<group>"; };
+		B61D286D1AED293700321E1E /* EIMCandidatesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMCandidatesViewController.m; sourceTree = "<group>"; };
+		B61D28721AED612900321E1E /* EIMCandidatesPanelController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMCandidatesPanelController.h; sourceTree = "<group>"; };
+		B61D28731AED612900321E1E /* EIMCandidatesPanelController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMCandidatesPanelController.m; sourceTree = "<group>"; };
+		B61F17CE1AF2385B00ADFA30 /* NSString+EIMAddtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+EIMAddtions.h"; sourceTree = "<group>"; };
+		B61F17CF1AF2385B00ADFA30 /* NSString+EIMAddtions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+EIMAddtions.m"; sourceTree = "<group>"; };
+		B625DE5C1AF5CD440004053E /* EIMPreferencesKeys.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EIMPreferencesKeys.h; sourceTree = "<group>"; };
+		B6263A1A1AE954C300C6CB92 /* Emojis.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Emojis.plist; sourceTree = "<group>"; };
+		B63859E21AF9129B0060A582 /* EIMPreferencesTabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMPreferencesTabViewController.h; sourceTree = "<group>"; };
+		B63859E31AF9129B0060A582 /* EIMPreferencesTabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMPreferencesTabViewController.m; sourceTree = "<group>"; };
+		B64BB0B31AFF34E900129502 /* EIMPreferencesGeneralViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMPreferencesGeneralViewController.h; sourceTree = "<group>"; };
+		B64BB0B41AFF34E900129502 /* EIMPreferencesGeneralViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMPreferencesGeneralViewController.m; sourceTree = "<group>"; };
+		B64BB0B61AFF7BEF00129502 /* EIMPreferencesFavoritesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMPreferencesFavoritesViewController.h; sourceTree = "<group>"; };
+		B64BB0B71AFF7BEF00129502 /* EIMPreferencesFavoritesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMPreferencesFavoritesViewController.m; sourceTree = "<group>"; };
+		B661F55C1AFDBA6D00E72956 /* EIMCandidateTableRowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMCandidateTableRowView.h; sourceTree = "<group>"; };
+		B661F55D1AFDBA6D00E72956 /* EIMCandidateTableRowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMCandidateTableRowView.m; sourceTree = "<group>"; };
+		B6683CEE1AF7AB9C003CE1D9 /* EIMPreferencesExcludedAppsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMPreferencesExcludedAppsViewController.h; sourceTree = "<group>"; };
+		B6683CEF1AF7AB9C003CE1D9 /* EIMPreferencesExcludedAppsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMPreferencesExcludedAppsViewController.m; sourceTree = "<group>"; };
+		B6683CF21AF7D9FA003CE1D9 /* EIMPreferencesWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMPreferencesWindowController.h; sourceTree = "<group>"; };
+		B6683CF31AF7D9FA003CE1D9 /* EIMPreferencesWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMPreferencesWindowController.m; sourceTree = "<group>"; };
+		B66856661B0D7C12005367AA /* EIMCandidatesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMCandidatesController.h; sourceTree = "<group>"; };
+		B66856671B0D7C12005367AA /* EIMCandidatesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMCandidatesController.m; sourceTree = "<group>"; };
+		B66DEBB61AF29C0C004B5DCB /* IconTemplate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IconTemplate.png; sourceTree = "<group>"; };
+		B66DEBB81AF29C14004B5DCB /* IconTemplate@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IconTemplate@2x.png"; sourceTree = "<group>"; };
+		B6A59D4B1B12069D00BB372F /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/Credits.html; sourceTree = "<group>"; };
+		B6A59D4D1B1206B300BB372F /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		B6A59D4E1B1206B300BB372F /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = ja; path = ja.lproj/Credits.html; sourceTree = "<group>"; };
+		B6A59D501B1207DB00BB372F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/EIMPreferencesWindow.storyboard; sourceTree = "<group>"; };
+		B6A59D531B1207E200BB372F /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/EIMPreferencesWindow.strings; sourceTree = "<group>"; };
+		B6A59D591B120B7600BB372F /* EIMCandidatesPanel.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = EIMCandidatesPanel.storyboard; sourceTree = "<group>"; };
+		B6A59D5E1B120CA500BB372F /* Base */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B6A59D601B120CA600BB372F /* ja */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B6AE93041AFB20B30027787A /* EIMResourceFileNames.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EIMResourceFileNames.h; sourceTree = "<group>"; };
+		B6B6BECC1B004FF20069396C /* EIMPreferencesFavoriteEditorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMPreferencesFavoriteEditorViewController.h; sourceTree = "<group>"; };
+		B6B6BECD1B004FF20069396C /* EIMPreferencesFavoriteEditorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMPreferencesFavoriteEditorViewController.m; sourceTree = "<group>"; };
+		B6EAF3691A76A1C2002F0AFB /* Emoji IM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Emoji IM.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6EAF36D1A76A1C2002F0AFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6EAF36E1A76A1C2002F0AFB /* EIMAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EIMAppDelegate.h; sourceTree = "<group>"; };
+		B6EAF36F1A76A1C2002F0AFB /* EIMAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EIMAppDelegate.m; sourceTree = "<group>"; };
+		B6EAF3711A76A1C2002F0AFB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B6EAF3731A76A1C2002F0AFB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		B6EAF3761A76A1C2002F0AFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/Main.xib; sourceTree = "<group>"; };
+		B6EAF37C1A76A1C2002F0AFB /* Emoji IMTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Emoji IMTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6EAF3811A76A1C2002F0AFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6EAF3821A76A1C2002F0AFB /* Emoji_IMTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Emoji_IMTests.m; sourceTree = "<group>"; };
+		B6EAF38C1A76A2CE002F0AFB /* EIMInputController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EIMInputController.h; sourceTree = "<group>"; };
+		B6EAF38D1A76A2CE002F0AFB /* EIMInputController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMInputController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B6EAF3661A76A1C2002F0AFB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B6EAF3791A76A1C2002F0AFB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B64A91081AF0ACE700605DD5 /* EIMCandidatesController */ = {
+			isa = PBXGroup;
+			children = (
+				B6A59D591B120B7600BB372F /* EIMCandidatesPanel.storyboard */,
+				B66856661B0D7C12005367AA /* EIMCandidatesController.h */,
+				B66856671B0D7C12005367AA /* EIMCandidatesController.m */,
+				B61D28721AED612900321E1E /* EIMCandidatesPanelController.h */,
+				B61D28731AED612900321E1E /* EIMCandidatesPanelController.m */,
+				B61D286C1AED293700321E1E /* EIMCandidatesViewController.h */,
+				B61D286D1AED293700321E1E /* EIMCandidatesViewController.m */,
+				B661F55C1AFDBA6D00E72956 /* EIMCandidateTableRowView.h */,
+				B661F55D1AFDBA6D00E72956 /* EIMCandidateTableRowView.m */,
+				B61D28691AED281400321E1E /* EIMCandidateCellView.h */,
+				B61D286A1AED281400321E1E /* EIMCandidateCellView.m */,
+			);
+			path = EIMCandidatesController;
+			sourceTree = "<group>";
+		};
+		B6683CF11AF7B5D9003CE1D9 /* EIMPreferencesWindow */ = {
+			isa = PBXGroup;
+			children = (
+				B6A59D511B1207DB00BB372F /* EIMPreferencesWindow.storyboard */,
+				B6683CF21AF7D9FA003CE1D9 /* EIMPreferencesWindowController.h */,
+				B6683CF31AF7D9FA003CE1D9 /* EIMPreferencesWindowController.m */,
+				B63859E21AF9129B0060A582 /* EIMPreferencesTabViewController.h */,
+				B63859E31AF9129B0060A582 /* EIMPreferencesTabViewController.m */,
+				B64BB0B31AFF34E900129502 /* EIMPreferencesGeneralViewController.h */,
+				B64BB0B41AFF34E900129502 /* EIMPreferencesGeneralViewController.m */,
+				B64BB0B61AFF7BEF00129502 /* EIMPreferencesFavoritesViewController.h */,
+				B64BB0B71AFF7BEF00129502 /* EIMPreferencesFavoritesViewController.m */,
+				B6B6BECC1B004FF20069396C /* EIMPreferencesFavoriteEditorViewController.h */,
+				B6B6BECD1B004FF20069396C /* EIMPreferencesFavoriteEditorViewController.m */,
+				B6683CEE1AF7AB9C003CE1D9 /* EIMPreferencesExcludedAppsViewController.h */,
+				B6683CEF1AF7AB9C003CE1D9 /* EIMPreferencesExcludedAppsViewController.m */,
+			);
+			path = EIMPreferencesWindow;
+			sourceTree = "<group>";
+		};
+		B6EAF3601A76A1C2002F0AFB = {
+			isa = PBXGroup;
+			children = (
+				B6EAF36B1A76A1C2002F0AFB /* Emoji IM */,
+				B6EAF37F1A76A1C2002F0AFB /* Emoji IMTests */,
+				B6EAF36A1A76A1C2002F0AFB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B6EAF36A1A76A1C2002F0AFB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B6EAF3691A76A1C2002F0AFB /* Emoji IM.app */,
+				B6EAF37C1A76A1C2002F0AFB /* Emoji IMTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B6EAF36B1A76A1C2002F0AFB /* Emoji IM */ = {
+			isa = PBXGroup;
+			children = (
+				B6EAF3751A76A1C2002F0AFB /* Main.xib */,
+				B625DE5C1AF5CD440004053E /* EIMPreferencesKeys.h */,
+				B6AE93041AFB20B30027787A /* EIMResourceFileNames.h */,
+				B6EAF36E1A76A1C2002F0AFB /* EIMAppDelegate.h */,
+				B6EAF36F1A76A1C2002F0AFB /* EIMAppDelegate.m */,
+				B6EAF38C1A76A2CE002F0AFB /* EIMInputController.h */,
+				B6EAF38D1A76A2CE002F0AFB /* EIMInputController.m */,
+				B6683CF11AF7B5D9003CE1D9 /* EIMPreferencesWindow */,
+				B64A91081AF0ACE700605DD5 /* EIMCandidatesController */,
+				B61F17CE1AF2385B00ADFA30 /* NSString+EIMAddtions.h */,
+				B61F17CF1AF2385B00ADFA30 /* NSString+EIMAddtions.m */,
+				B6EAF36C1A76A1C2002F0AFB /* Supporting Files */,
+			);
+			path = "Emoji IM";
+			sourceTree = "<group>";
+		};
+		B6EAF36C1A76A1C2002F0AFB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B6A59D5F1B120CA500BB372F /* Localizable.strings */,
+				B6EAF3731A76A1C2002F0AFB /* Images.xcassets */,
+				B6EAF36D1A76A1C2002F0AFB /* Info.plist */,
+				B6EAF3711A76A1C2002F0AFB /* main.m */,
+				B6263A1A1AE954C300C6CB92 /* Emojis.plist */,
+				B66DEBB61AF29C0C004B5DCB /* IconTemplate.png */,
+				B66DEBB81AF29C14004B5DCB /* IconTemplate@2x.png */,
+				B6A59D4C1B12069D00BB372F /* Credits.html */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B6EAF37F1A76A1C2002F0AFB /* Emoji IMTests */ = {
+			isa = PBXGroup;
+			children = (
+				B6EAF3821A76A1C2002F0AFB /* Emoji_IMTests.m */,
+				B6EAF3801A76A1C2002F0AFB /* Supporting Files */,
+			);
+			path = "Emoji IMTests";
+			sourceTree = "<group>";
+		};
+		B6EAF3801A76A1C2002F0AFB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B6EAF3811A76A1C2002F0AFB /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B6EAF3681A76A1C2002F0AFB /* Emoji IM */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B6EAF3861A76A1C2002F0AFB /* Build configuration list for PBXNativeTarget "Emoji IM" */;
+			buildPhases = (
+				B6EAF3651A76A1C2002F0AFB /* Sources */,
+				B6EAF3661A76A1C2002F0AFB /* Frameworks */,
+				B6EAF3671A76A1C2002F0AFB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Emoji IM";
+			productName = "Emoji IM";
+			productReference = B6EAF3691A76A1C2002F0AFB /* Emoji IM.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B6EAF37B1A76A1C2002F0AFB /* Emoji IMTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B6EAF3891A76A1C2002F0AFB /* Build configuration list for PBXNativeTarget "Emoji IMTests" */;
+			buildPhases = (
+				B6EAF3781A76A1C2002F0AFB /* Sources */,
+				B6EAF3791A76A1C2002F0AFB /* Frameworks */,
+				B6EAF37A1A76A1C2002F0AFB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B6EAF37E1A76A1C2002F0AFB /* PBXTargetDependency */,
+			);
+			name = "Emoji IMTests";
+			productName = "Emoji IMTests";
+			productReference = B6EAF37C1A76A1C2002F0AFB /* Emoji IMTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B6EAF3611A76A1C2002F0AFB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = EIM;
+				LastUpgradeCheck = 0610;
+				ORGANIZATIONNAME = "Genji App";
+				TargetAttributes = {
+					B6EAF3681A76A1C2002F0AFB = {
+						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = ABN4W3C7MV;
+					};
+					B6EAF37B1A76A1C2002F0AFB = {
+						CreatedOnToolsVersion = 6.1.1;
+						TestTargetID = B6EAF3681A76A1C2002F0AFB;
+					};
+				};
+			};
+			buildConfigurationList = B6EAF3641A76A1C2002F0AFB /* Build configuration list for PBXProject "Emoji IM" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				ja,
+			);
+			mainGroup = B6EAF3601A76A1C2002F0AFB;
+			productRefGroup = B6EAF36A1A76A1C2002F0AFB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B6EAF3681A76A1C2002F0AFB /* Emoji IM */,
+				B6EAF37B1A76A1C2002F0AFB /* Emoji IMTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B6EAF3671A76A1C2002F0AFB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B6EAF3741A76A1C2002F0AFB /* Images.xcassets in Resources */,
+				B66DEBB71AF29C0C004B5DCB /* IconTemplate.png in Resources */,
+				B66DEBB91AF29C14004B5DCB /* IconTemplate@2x.png in Resources */,
+				B6EAF3771A76A1C2002F0AFB /* Main.xib in Resources */,
+				B6A59D5D1B120CA500BB372F /* Localizable.strings in Resources */,
+				B6A59D4A1B12069D00BB372F /* Credits.html in Resources */,
+				B6A59D4F1B1207DB00BB372F /* EIMPreferencesWindow.storyboard in Resources */,
+				B6263A1B1AE954C300C6CB92 /* Emojis.plist in Resources */,
+				B6A59D5A1B120B7600BB372F /* EIMCandidatesPanel.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B6EAF37A1A76A1C2002F0AFB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B6EAF3651A76A1C2002F0AFB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B6EAF3721A76A1C2002F0AFB /* main.m in Sources */,
+				B6EAF3701A76A1C2002F0AFB /* EIMAppDelegate.m in Sources */,
+				B61D286B1AED281400321E1E /* EIMCandidateCellView.m in Sources */,
+				B64BB0B81AFF7BEF00129502 /* EIMPreferencesFavoritesViewController.m in Sources */,
+				B661F55E1AFDBA6D00E72956 /* EIMCandidateTableRowView.m in Sources */,
+				B6B6BECE1B004FF20069396C /* EIMPreferencesFavoriteEditorViewController.m in Sources */,
+				B63859E41AF9129B0060A582 /* EIMPreferencesTabViewController.m in Sources */,
+				B6EAF38E1A76A2CE002F0AFB /* EIMInputController.m in Sources */,
+				B64BB0B51AFF34E900129502 /* EIMPreferencesGeneralViewController.m in Sources */,
+				B6683CF41AF7D9FA003CE1D9 /* EIMPreferencesWindowController.m in Sources */,
+				B61F17D01AF2385B00ADFA30 /* NSString+EIMAddtions.m in Sources */,
+				B61D28741AED612900321E1E /* EIMCandidatesPanelController.m in Sources */,
+				B6683CF01AF7AB9C003CE1D9 /* EIMPreferencesExcludedAppsViewController.m in Sources */,
+				B61D286E1AED293700321E1E /* EIMCandidatesViewController.m in Sources */,
+				B66856681B0D7C12005367AA /* EIMCandidatesController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B6EAF3781A76A1C2002F0AFB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B6EAF3831A76A1C2002F0AFB /* Emoji_IMTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B6EAF37E1A76A1C2002F0AFB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B6EAF3681A76A1C2002F0AFB /* Emoji IM */;
+			targetProxy = B6EAF37D1A76A1C2002F0AFB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B6A59D4C1B12069D00BB372F /* Credits.html */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B6A59D4B1B12069D00BB372F /* Base */,
+				B6A59D4E1B1206B300BB372F /* ja */,
+			);
+			name = Credits.html;
+			sourceTree = "<group>";
+		};
+		B6A59D511B1207DB00BB372F /* EIMPreferencesWindow.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B6A59D501B1207DB00BB372F /* Base */,
+				B6A59D531B1207E200BB372F /* ja */,
+			);
+			name = EIMPreferencesWindow.storyboard;
+			sourceTree = "<group>";
+		};
+		B6A59D5F1B120CA500BB372F /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B6A59D5E1B120CA500BB372F /* Base */,
+				B6A59D601B120CA600BB372F /* ja */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		B6EAF3751A76A1C2002F0AFB /* Main.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B6EAF3761A76A1C2002F0AFB /* Base */,
+				B6A59D4D1B1206B300BB372F /* ja */,
+			);
+			name = Main.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B6EAF3841A76A1C2002F0AFB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		B6EAF3851A76A1C2002F0AFB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		B6EAF3871A76A1C2002F0AFB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_FILE = "Emoji IM/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Debug;
+		};
+		B6EAF3881A76A1C2002F0AFB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_FILE = "Emoji IM/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VERSIONING_SYSTEM = "apple-generic";
+			};
+			name = Release;
+		};
+		B6EAF38A1A76A1C2002F0AFB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Emoji IMTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Emoji IM.app/Contents/MacOS/Emoji IM";
+			};
+			name = Debug;
+		};
+		B6EAF38B1A76A1C2002F0AFB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Emoji IMTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Emoji IM.app/Contents/MacOS/Emoji IM";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B6EAF3641A76A1C2002F0AFB /* Build configuration list for PBXProject "Emoji IM" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B6EAF3841A76A1C2002F0AFB /* Debug */,
+				B6EAF3851A76A1C2002F0AFB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B6EAF3861A76A1C2002F0AFB /* Build configuration list for PBXNativeTarget "Emoji IM" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B6EAF3871A76A1C2002F0AFB /* Debug */,
+				B6EAF3881A76A1C2002F0AFB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B6EAF3891A76A1C2002F0AFB /* Build configuration list for PBXNativeTarget "Emoji IMTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B6EAF38A1A76A1C2002F0AFB /* Debug */,
+				B6EAF38B1A76A1C2002F0AFB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B6EAF3611A76A1C2002F0AFB /* Project object */;
+}

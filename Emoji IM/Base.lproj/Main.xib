@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="7706"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="NSApplication">
+            <connections>
+                <outlet property="delegate" destination="Voe-Tx-rLC" id="GzC-gU-4Uq"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customObject id="Voe-Tx-rLC" customClass="EIMAppDelegate">
+            <connections>
+                <outlet property="menu" destination="Yen-WK-wKN" id="59I-gC-rnl"/>
+            </connections>
+        </customObject>
+        <customObject id="YLy-65-1bz" customClass="NSFontManager"/>
+        <menu title="Main Menu" systemMenu="main" id="9Cb-az-JAx">
+            <items>
+                <menuItem title="Emoji IM" id="0Vk-Ah-5fd">
+                    <modifierMask key="keyEquivalentModifierMask"/>
+                    <menu key="submenu" title="Emoji IM" systemMenu="apple" id="YmU-s0-akY">
+                        <items>
+                            <menuItem title="Hide Others" keyEquivalent="h" id="bLu-e2-mp3">
+                                <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                <connections>
+                                    <action selector="hideOtherApplications:" target="-1" id="bQl-h2-D0j"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Close" keyEquivalent="w" id="bPg-t4-qid">
+                                <connections>
+                                    <action selector="performClose:" target="-1" id="MRs-MR-rNH"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Undo" keyEquivalent="z" id="KBC-4w-gCd">
+                                <connections>
+                                    <action selector="undo:" target="-1" id="3Zn-cD-vbs"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Redo" keyEquivalent="Z" id="bjv-KH-PmZ">
+                                <connections>
+                                    <action selector="redo:" target="-1" id="1Fq-5X-5y7"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Cut" keyEquivalent="x" id="V8M-Sm-GqT">
+                                <connections>
+                                    <action selector="cut:" target="-1" id="b7C-Ch-E9z"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Copy" keyEquivalent="c" id="Sij-Uh-fYa">
+                                <connections>
+                                    <action selector="copy:" target="-1" id="FHY-Td-Gli"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Paste" keyEquivalent="v" id="kmi-x0-Drf">
+                                <connections>
+                                    <action selector="paste:" target="-1" id="avS-Vu-oaf"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Paste and Match Style" keyEquivalent="V" id="FQw-nr-CWL">
+                                <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                <connections>
+                                    <action selector="pasteAsPlainText:" target="-1" id="Jnf-iO-n9r"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Select All" keyEquivalent="a" id="Cj5-op-h0w">
+                                <connections>
+                                    <action selector="selectAll:" target="-1" id="Vqh-0h-aiI"/>
+                                </connections>
+                            </menuItem>
+                            <menuItem title="Minimize" keyEquivalent="m" id="SGw-gV-xne">
+                                <connections>
+                                    <action selector="performMiniaturize:" target="-1" id="Uf8-Ev-aWY"/>
+                                </connections>
+                            </menuItem>
+                        </items>
+                    </menu>
+                </menuItem>
+            </items>
+        </menu>
+        <menu id="Yen-WK-wKN">
+            <items>
+                <menuItem title="Preferences..." id="2nZ-wv-Cdy">
+                    <modifierMask key="keyEquivalentModifierMask"/>
+                    <connections>
+                        <action selector="showPreferencesWindow:" target="-1" id="l5N-L6-LGS"/>
+                    </connections>
+                </menuItem>
+                <menuItem title="About Emoji IM" id="I2w-p4-r8x">
+                    <modifierMask key="keyEquivalentModifierMask"/>
+                    <connections>
+                        <action selector="orderFrontStandardAboutPanel:" target="-1" id="klv-Lx-yuw"/>
+                    </connections>
+                </menuItem>
+                <menuItem title="Help" id="FWb-Hj-YEp">
+                    <modifierMask key="keyEquivalentModifierMask"/>
+                    <connections>
+                        <action selector="openManualPage:" target="-1" id="e4k-k0-jX2"/>
+                    </connections>
+                </menuItem>
+            </items>
+            <point key="canvasLocation" x="94.5" y="52.5"/>
+        </menu>
+        <userDefaultsController representsSharedInstance="YES" id="w0h-9p-Q6o"/>
+    </objects>
+</document>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32pt"
+   height="32pt"
+   viewBox="0 0 40.000001 40"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Favorites.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4157">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop4137" />
+      <stop
+         style="stop-color:#ffaaaa;stop-opacity:1"
+         offset="1"
+         id="stop4139" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4157"
+       id="linearGradient4141"
+       x1="4.9495292"
+       y1="1013.4833"
+       x2="25.43022"
+       y2="1048.7094"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92475555,0,0,0.92482521,1.5048889,77.621901)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.825"
+     inkscape:cx="15.728554"
+     inkscape:cy="20"
+     inkscape:document-units="px"
+     inkscape:current-layer="text4140"
+     showgrid="false"
+     units="pt"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1255"
+     inkscape:window-height="755"
+     inkscape:window-x="25"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1012.3622)">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;line-height:125%;font-family:Serif;-inkscape-font-specification:Serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4140">
+      <path
+         d="m 19.97219,1048.299 -1.557373,-2.5308 q -3.281604,-5.3679 -8.5099228,-10.4018 -3.0869336,-3.0036 -4.3383945,-5.3957 -1.2236486,-2.3917 -1.2236486,-5.3399 0,-3.3373 2.3082485,-5.7571 2.3082459,-2.4197 5.4786114,-2.4197 4.394012,0 7.898099,6.6749 3.726567,-6.5359 8.148391,-6.5359 3.225985,0 5.33956,2.392 2.141388,2.3918 2.141388,6.0631 0,2.4752 -1.028978,4.9506 -1.001168,2.4474 -2.641971,3.8937 l -2.197007,1.9747 q -2.975691,2.6978 -5.840145,6.9252 l -1.501751,2.2248 q -0.361531,0.5287 -2.475107,3.2819 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Symbols';-inkscape-font-specification:'Apple Symbols';fill:url(#linearGradient4141);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4145"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

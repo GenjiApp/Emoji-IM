@@ -1,0 +1,48 @@
+
+/* Class = "NSMenuItem"; title = "Emoji IM"; ObjectID = "0Vk-Ah-5fd"; */
+"0Vk-Ah-5fd.title" = "Emoji IM";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "2nZ-wv-Cdy"; */
+"2nZ-wv-Cdy.title" = "環境設定...";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "9Cb-az-JAx"; */
+"9Cb-az-JAx.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Cj5-op-h0w"; */
+"Cj5-op-h0w.title" = "すべて選択";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "FQw-nr-CWL"; */
+"FQw-nr-CWL.title" = "ペーストしてスタイルを合わせる";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "FWb-Hj-YEp"; */
+"FWb-Hj-YEp.title" = "ヘルプ";
+
+/* Class = "NSMenuItem"; title = "About Emoji IM"; ObjectID = "I2w-p4-r8x"; */
+"I2w-p4-r8x.title" = "Emoji IM について";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "KBC-4w-gCd"; */
+"KBC-4w-gCd.title" = "取り消す";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "SGw-gV-xne"; */
+"SGw-gV-xne.title" = "しまう";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "Sij-Uh-fYa"; */
+"Sij-Uh-fYa.title" = "コピー";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "V8M-Sm-GqT"; */
+"V8M-Sm-GqT.title" = "カット";
+
+/* Class = "NSMenu"; title = "Emoji IM"; ObjectID = "YmU-s0-akY"; */
+"YmU-s0-akY.title" = "Emoji IM";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "bLu-e2-mp3"; */
+"bLu-e2-mp3.title" = "ほかを隠す";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "bPg-t4-qid"; */
+"bPg-t4-qid.title" = "閉じる";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "bjv-KH-PmZ"; */
+"bjv-KH-PmZ.title" = "やり直す";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "kmi-x0-Drf"; */
+"kmi-x0-Drf.title" = "ペースト";
