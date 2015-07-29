@@ -49,12 +49,6 @@
   // Caps Lock Mode、Skin Tone は Cocoa Bindings で値が変更されるので、キィ値監視をする。
   [userDefaults addObserver:self forKeyPath:EIMPreferencesCapsLockModeEnabledKey options:NSKeyValueObservingOptionNew context:NULL];
   [userDefaults addObserver:self forKeyPath:EIMPreferencesSkinToneKey options:NSKeyValueObservingOptionNew context:NULL];
-
-  NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
-  dateFormatter.dateFormat = @"yyyy-MM-dd";
-  NSString *expiredDateString = NSLocalizedString(@"Expired Date:", nil);
-  NSString *title = [NSString stringWithFormat:@"%@ %@", expiredDateString, [dateFormatter stringFromDate:self.expiredDate]];
-  [self.menu addItemWithTitle:title action:NULL keyEquivalent:@""];
 }
 
 - (void)applicationWillTerminate:(NSNotification *)notification
@@ -126,25 +120,6 @@
   }
 
   return preferencesWindowController;
-}
-
-- (NSDate *)expiredDate
-{
-  static NSDate *expiredDate = nil;
-  if(!expiredDate) {
-    NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
-    dateFormatter.dateFormat = @"yyyyMMdd";
-    dateFormatter.locale = [NSLocale localeWithLocaleIdentifier:@"en_US_POSIX"];
-    dateFormatter.timeZone = [NSTimeZone timeZoneForSecondsFromGMT:0];
-    expiredDate = [dateFormatter dateFromString:@"20150801"];
-  }
-
-  return expiredDate;
-}
-
-- (BOOL)isExpired
-{
-  return ([[NSDate date] compare:self.expiredDate] == NSOrderedDescending);
 }
 
 

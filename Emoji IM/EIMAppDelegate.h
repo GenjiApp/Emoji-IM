@@ -21,9 +21,6 @@
 @property (nonatomic, readonly) NSArray *favorites;
 @property (nonatomic, readonly) BOOL showsCompositeString;
 
-@property (nonatomic, readonly) NSDate *expiredDate;
-@property (nonatomic, readonly, getter=isExpired) BOOL expired;
-
 - (void)addExcludedApps:(NSArray *)appURLs;
 - (void)removeExcludedAppsAtIndexes:(NSIndexSet *)indexes;
 

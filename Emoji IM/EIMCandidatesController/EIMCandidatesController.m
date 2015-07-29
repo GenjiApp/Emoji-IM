@@ -124,7 +124,7 @@ static EIMCandidatesController *candidatesController;
   EIMCandidatesViewController *viewController = panelController.candidatesViewController;
   viewController.delegate = inputController;
 
-  if(string.length < 2 || candidatesController.appDelegate.expired) {
+  if(string.length < 2) {
     [panelController close];
     return;
   }

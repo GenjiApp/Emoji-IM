@@ -99,8 +99,36 @@
     return NO;
   }
 
-  if([self respondsToSelector:selector]) {
+  BOOL isHandled = YES;
+  if(selector == @selector(insertNewline:) ||
+     selector == @selector(insertNewlineIgnoringFieldEditor:) ||
+     selector == @selector(insertTab:) ||
+     selector == @selector(cancelOperation:) ||
+     selector == @selector(deleteBackward:) ||
+     selector == @selector(deleteForward:) ||
+     selector == @selector(deleteToEndOfParagraph:) ||
+     selector == @selector(moveToBeginningOfParagraph:) ||
+     selector == @selector(moveToEndOfParagraph:) ||
+     selector == @selector(transpose:)) {
     [self performSelector:selector withObject:sender afterDelay:0];
+  }
+  else if(selector == @selector(moveUp:)) {
+    isHandled = [self moveUp:sender];
+  }
+  else if(selector == @selector(moveDown:)) {
+    isHandled = [self moveDown:sender];
+  }
+  else if(selector == @selector(moveLeft:)) {
+    isHandled = [self moveLeft:sender];
+  }
+  else if(selector == @selector(moveRight:)) {
+    isHandled = [self moveRight:sender];
+  }
+  else if(selector == @selector(moveBackward:)) {
+    isHandled = [self moveBackward:sender];
+  }
+  else if (selector == @selector(moveForward:)) {
+    isHandled = [self moveForward:sender];
   }
   else {
 #ifdef DEBUG
@@ -108,7 +136,11 @@
 #endif
   }
 
-  return YES;
+  if(!isHandled) {
+    [self commitComposition:sender];
+  }
+
+  return isHandled;
 }
 
 - (void)commitComposition:(id)sender
@@ -269,45 +301,61 @@
   [EIMCandidatesController updateCandidatesWithString:self.originalBuffer forClient:sender fromInputController:self];
 }
 
-- (void)moveUp:(id)sender
+- (BOOL)moveUp:(id)sender
 {
   if([EIMCandidatesController isPanelVisible]) {
     [EIMCandidatesController selectPreviousCandidate];
+    return YES;
+  }
+  else {
+    return NO;
   }
 }
 
-- (void)moveDown:(id)sender
+- (BOOL)moveDown:(id)sender
 {
   if([EIMCandidatesController isPanelVisible]) {
     [EIMCandidatesController selectNextCandidate];
+    return YES;
+  }
+  else {
+    return NO;
   }
 }
 
-- (void)moveLeft:(id)sender
+- (BOOL)moveLeft:(id)sender
 {
   if(self.insertionIndex > 0) {
     self.insertionIndex--;
     NSAttributedString *attrString = [[NSAttributedString alloc] initWithString:self.originalBuffer];
     [sender setMarkedText:attrString selectionRange:NSMakeRange(self.insertionIndex, 0) replacementRange:NSMakeRange(NSNotFound,NSNotFound)];
+    return YES;
+  }
+  else {
+    return NO;
   }
 }
 
-- (void)moveRight:(id)sender
+- (BOOL)moveRight:(id)sender
 {
   if(self.insertionIndex < self.originalBuffer.length) {
     self.insertionIndex++;
     [sender setMarkedText:[self.originalBuffer eim_attributedString] selectionRange:NSMakeRange(self.insertionIndex, 0) replacementRange:NSMakeRange(NSNotFound,NSNotFound)];
+    return YES;
+  }
+  else {
+    return NO;
   }
 }
 
-- (void)moveBackward:(id)sender
+- (BOOL)moveBackward:(id)sender
 {
-  [self moveLeft:sender];
+  return [self moveLeft:sender];
 }
 
-- (void)moveForward:(id)sender
+- (BOOL)moveForward:(id)sender
 {
-  [self moveRight:sender];
+  return [self moveRight:sender];
 }
 
 - (void)moveToBeginningOfParagraph:(id)sender
