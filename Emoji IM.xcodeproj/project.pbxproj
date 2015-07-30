@@ -71,6 +71,9 @@
 		B66856671B0D7C12005367AA /* EIMCandidatesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EIMCandidatesController.m; sourceTree = "<group>"; };
 		B66DEBB61AF29C0C004B5DCB /* IconTemplate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IconTemplate.png; sourceTree = "<group>"; };
 		B66DEBB81AF29C14004B5DCB /* IconTemplate@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IconTemplate@2x.png"; sourceTree = "<group>"; };
+		B68436511B69E5E20007CE76 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B68436531B69E7850007CE76 /* emoji-im-demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "emoji-im-demo.gif"; sourceTree = "<group>"; };
+		B68436551B69ED460007CE76 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B6A59D4B1B12069D00BB372F /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Base; path = Base.lproj/Credits.html; sourceTree = "<group>"; };
 		B6A59D4D1B1206B300BB372F /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
 		B6A59D4E1B1206B300BB372F /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = ja; path = ja.lproj/Credits.html; sourceTree = "<group>"; };
@@ -155,6 +158,9 @@
 		B6EAF3601A76A1C2002F0AFB = {
 			isa = PBXGroup;
 			children = (
+				B68436511B69E5E20007CE76 /* README.md */,
+				B68436551B69ED460007CE76 /* LICENSE */,
+				B68436531B69E7850007CE76 /* emoji-im-demo.gif */,
 				B6EAF36B1A76A1C2002F0AFB /* Emoji IM */,
 				B6EAF37F1A76A1C2002F0AFB /* Emoji IMTests */,
 				B6EAF36A1A76A1C2002F0AFB /* Products */,
